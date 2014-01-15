@@ -66,6 +66,7 @@ Notes:
  * Suggestions for content to be added to the site should go through the Board first before it is approved for development.
  * Review the Drupal Association website to understand the information they provide.
  * Maintain CI in a separate repository where trademarks are applicable.
+ * Provide meetup slides from presenters so they are available after the fact.
 
 Reporter and Backup: 
  * Monique
@@ -167,10 +168,15 @@ Perhaps to help make sure people who vote are real, the effort for us to impleme
     * Proof of participation (attendance at meet-ups, contribution to core or contrib, donation, membership)?
 
 Notes:
+ * Test with GitHub to start [https://github.com/DrupalAssociationSA/InternalDocumentation/issues/2]
+ * Issues: 
+ ** Identity
+ ** Country of Origin
+ ** As much participation as possible
 
-Reporter and Backup: 
+Reporter and Backup: Group
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Durban
@@ -192,8 +198,15 @@ We already have tech (or TeX if you use LaTeX ;-) at the Johannesburg meet-ups w
 We need concrete plans with deliverables
 
 Notes:
+ * Decide on a structure, such as a monthly event, first Thursday of every month.
+ * Ian should attempt to come to JHB to see what the JHB meetups are like.
+ * JHB will help educate their speakers.
+ * Riaan will plan to fly to Durban to attend and represent.
+ * Find a sponsor to help DASA send a member to Durban/Cape Town.
+ * Look at live-streaming JHB meetups so that other groups get a more accurate perception of what happens at the meetups.
+ * Presentations on slideshows are important! No live demos, they always fail.
 
-Reporter and Backup: 
+Reporter and Backup: Riaan
 
 Completed / Agreed: ✔ / ✘
 
@@ -202,17 +215,21 @@ Cape Town
 ---------
 *≈ 20 min*
 
-One of the amoebas, Jhonathan, mentions that attendance was running a little low there, so the meet-ups ended. They would restart them with support from us and have already been thinking of doing so. The meet-ups have a good location (quality, company agnostic, well-known). Similar support form us as for Durbs would be great and very helpful, especially on inviting people to attend and for some of us attending and speaking. Feelings toward DASA is positive noting that it does feel Johannesburg heavy, but that that's not necessarily a bad thing; It would be nice if we include more Cape Townian people somehow though.
+One of the amoebas, Jonathan, mentions that attendance was running a little low there, so the meet-ups ended. They would restart them with support from us and have already been thinking of doing so. The meet-ups have a good location (quality, company agnostic, well-known). Similar support from us as for Durbs would be great and very helpful, especially on inviting people to attend and for some of us attending and speaking. Feelings toward DASA is positive noting that it does feel Johannesburg heavy, but that that's not necessarily a bad thing; It would be nice if we include more Cape Townian people somehow though.
 
 A 2Stroke: Rehan Otto, also asked about core sprinting plans in SA recently. Spoke to him about attending and speaking technically at the CT meet-ups and him and another tech guy at 2Stroke may be interested to start, we can make a business case for the business and creative folk there to attend later too.
 
 Didn't get through to or return calls from Sonja and the guys at NimbleDoo, out of time now.
 
 Notes:
+ * Include via web-conference? Google Hangout
+ * Riaan will also plan to go down to Cape Town.
+ * Robyn has spoken to Jason who says he is happy to go and assist at the meetups.
+ * Riaan to help and guide the implementation of monthly meetups.
 
-Reporter and Backup: 
+Reporter and Backup: Riaan
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DrupalCamp 2014/5?
@@ -232,10 +249,15 @@ Simply progressing on what we have discussed so far:
 * Any new information on whether the NWU would want to be the major sponsor?
 
 Notes:
+ * Monique to speak to North West University before the next meetup. They've been approached, would like to be sponsors for an event.
+ * Monique will ask about potential dates they are considering, and what the potential sponsorship budget could be.
+ * Monqiue to enquire about additional sponsors. 
+ * Do some investigation on what it will cost to create an event. 
+ * Identify potential sponsors (with/out) NWU.
 
-Reporter and Backup: 
+Reporter and Backup: Robin and Freda as Backup. And Monique.
 
-Completed / Agreed:  ✔ / ✘
+Completed / Agreed:  ✔
 
 
 Any Other Business
@@ -245,5 +267,8 @@ Any Other Business
 Anything arising at the meeting or not on the agenda. Go around the table asking each attendee if they have any other business they want to address.
 
 Notes:
+ * Lance suggests a Mission and Vision Statement.
+ * Provide a register somewhere which identifies donations by various members, miscellaneous items like food, banking costs, google account subscriptions, etc.
+ * Note transactions through the year, to develop a budget for next year.
 
-Completed / Agreed   ✔ / ✘
+Completed / Agreed   ✔
