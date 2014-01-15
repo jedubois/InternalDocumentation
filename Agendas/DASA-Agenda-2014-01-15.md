@@ -11,26 +11,27 @@ A list of people attending and apologies for not attending the DASA meeting on W
 
     Person   Attending ✔ / ✘ Apologies
     ===============================================
-    Greg McKeen        ✔ / ✘
-    Lancelot Nyachoto  ✔ / ✘
-    Riaan Burger       ✔ / ✘
-    Adam Dunn          ✔ / ✘
-    Ivan Breet         ✔ / ✘
-    Robin Prieschl     ✔ / ✘
-    Lee Taylor         ✔ / ✘
-    Monique Afonso     ✔ / ✘
-    Richard Banks      ✔ / ✘
-    Freda Browne       ✔ / ✘
+    Greg McKeen        ✔ 
+    Lancelot Nyachoto  ✔ 
+    Riaan Burger       ✔ 
+    Adam Dunn          ✔ 
+    Ivan Breet         ✔ 
+    Robin Prieschl     ✔ 
+    Lee Taylor         ✔ 
+    Monique Afonso     ✔ 
+    Richard Banks      ✔ 
+    Freda Browne       ✔ 
+    Ilsoda Musa        ✔ 
 
 
 Confirm Next Meeting
 --------------------
 
-Wednesday 15 January 2014 (third Wednesday of January).
+Wednesday 19 February 2014 (third Wednesday of February).
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Deliverables
@@ -40,10 +41,14 @@ Deliverables
 Should we consider having deliverables for each meeting?; Perhaps just revisitation of the same headings to get more tracktion on them? Maybe have a person to report on such headings (doesn't actually have to do anything, just report on the matter). With a fall-back person in case someone can't make it to a meeting (doesn't happen often)?
 
 Notes:
+ * Setup a strategy for the year, and define deliverables in line with that strategy.
+ * Each month have a report back, and ensure the agenda covers the topics relevant to the strategy.
+ * Assign someone to report in the next meeting. 
+ * At the end of the meeting, try and un-conference session to hear anything from anyone which may have been missed.
 
 Reporter and Backup: 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 GitHub Available
@@ -55,10 +60,17 @@ Ivan updates us on the GitHub service we have available at https://github.com/Dr
 Do we need some guidelines (though perhaps not urgently, since we can develop them as we go) to address things that do and do not go on the dasa.org.za site. While we do want to avoid a commercial feel to the site, perhaps there may be ways in which we can help the national meet-ups and optionally consider mentioning Drupal-related companies (see next point).
 
 Notes:
+ * Board maintains the co-maintainer list to ensure content contributed adheres to standards, etc on GitHub
+ * Encourage participation to add topics to agendas, etc
+ * Ivan will provide some basic content onto the website to highlight aspects of the DASA
+ * Suggestions for content to be added to the site should go through the Board first before it is approved for development.
+ * Review the Drupal Association website to understand the information they provide.
+ * Maintain CI in a separate repository where trademarks are applicable.
 
 Reporter and Backup: 
+ * Monique
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Attendance Register for Meet-ups
@@ -68,10 +80,11 @@ Attendance Register for Meet-ups
 Consider making available pages on dasa.org.za with publicly posted attendance registers of individuals that attend the national Drupal user group meet-ups. This will promote the individuals as Drupal talent, assist in Drupal skills transfer, allow the market to find supply of Drupal talent in their area (if we link to the individuals' Drupal profiles for contact) and perhaps urge companies (Drupal shops) to have their staff attend the Drupal user group meet-ups (even if we do not then also allow companies to at least list their names as the employer of the individual - though that is listed on a Drupal user profile already).
 
 Notes:
+ * Riaan and Ivan will create the first list on the first February meeting list, and get buy in from the community to have their names listed.
 
-Reporter and Backup: 
+Reporter and Backup: Riaan and Ivan
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Accounting
@@ -95,10 +108,11 @@ Date,       Amount, Balance, Description
 ```
 
 Notes:
+ * Please make Riaan aware if you want to deposit any money into the account as a donation.
 
-Reporter and Backup: 
+Reporter and Backup: Riaan
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 E-mail and Distributions List
@@ -109,10 +123,14 @@ What other generic e-mail addresses should we consider. Which do we have so far.
 Note existing and any additional @dasa.org.za addresses and their distribution lists we want.
 
 Notes:
+ * Board members to send GitHub users to Riaan to be added to the @Board Group.
+ * info@dasa.org.za to Adam
+ * core@dasa.org.za to Board Members
+ * contrib@dasa.org.za to Regular Attendees
 
-Reporter and Backup: 
+Reporter and Backup: Adam and Lee as Backup 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DASA Shared Calendar
@@ -122,10 +140,12 @@ DASA Shared Calendar
 Should we create a shared calendar of all the meetups for the year so that people can subscribe to it. Maybe one calendar per area. We could also add other DASA related events to the calendar.
 
 Notes:
+ * Setup shared calendar on Google Account for DASA
+ * Adam to maintain Drupal User Group Event list
 
-Reporter and Backup: 
+Reporter and Backup: Adam and Lee as Backup
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Voting via GitHub
