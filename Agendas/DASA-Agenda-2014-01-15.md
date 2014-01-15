@@ -114,19 +114,6 @@ Reporter and Backup:
 Completed / Agreed: ✔ / ✘
 
 
-DASA Shared Calendar
-----------------------
-*≈ 5 min*
-
-Should we create a shared calendar of all the meetups for the year so that people can subscribe to it. Maybe one calendar per area. We could also add other DASA related events to the calendar.
-
-Notes:
-
-Reporter and Backup: 
-
-Completed / Agreed: ✔ / ✘
-
-
 Voting via GitHub
 -----------------
 *≈ 10 min*
@@ -177,9 +164,21 @@ Reporter and Backup:
 Completed / Agreed: ✔ / ✘
 
 
-Cape Town ** Needs Work **
+Cape Town
 ---------
-Tried to get a hold of the amoebas with no success, tried some other business contacts and still need to get into Asana again to get to the Capetonians that wanted to participate before. Also need to contact 2Stroke on several levels. Any other ideas?
+*≈ 20 min*
+
+One of the amoebas, Jhonathan, mentions that attendance was running a little low there, so the meet-ups ended. They would restart them with support from us and have already been thinking of doing so. The meet-ups have a good location (quality, company agnostic, well-known). Similar support form us as for Durbs would be great and very helpful, especially on inviting people to attend and for some of us attending and speaking. Feelings toward DASA is positive noting that it does feel Johannesburg heavy, but that that's not necessarily a bad thing; It would be nice if we include more Cape Townian people somehow though.
+
+A 2Stroke: Rehan Otto, also asked about core sprinting plans in SA recently. Spoke to him about attending and speaking technically at the CT meet-ups and him and another tech guy at 2Stroke may be interested to start, we can make a business case for the business and creative folk there to attend later too.
+
+Didn't get through to or return calls from Sonja and the guys at NimbleDoo, out of time now.
+
+Notes:
+
+Reporter and Backup: 
+
+Completed / Agreed: ✔ / ✘
 
 
 DrupalCamp 2014/5?
