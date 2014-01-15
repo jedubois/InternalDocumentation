@@ -114,6 +114,19 @@ Reporter and Backup:
 Completed / Agreed: ✔ / ✘
 
 
+DASA Shared Calendar
+----------------------
+*≈ 5 min*
+
+Should we create a shared calendar of all the meetups for the year so that people can subscribe to it. Maybe one calendar per area. We could also add other DASA related events to the calendar.
+
+Notes:
+
+Reporter and Backup: 
+
+Completed / Agreed: ✔ / ✘
+
+
 Voting via GitHub
 -----------------
 *≈ 10 min*
