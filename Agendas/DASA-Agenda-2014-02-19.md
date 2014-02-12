@@ -23,6 +23,8 @@ Attending / Apologies
 
 A list of people attending and apologies for not attending the DASA meeting on Wednesday evening 15 January 2014.
 
+Apologies from Riaan, in Nigeria just before and may not make the meeting.
+
     Person   Attending ✔ / ✘ Apologies
     ===============================================
     Greg McKeen        ✔ / ✘
@@ -55,6 +57,8 @@ Website Content
 
 Monique reports: On content other associations and the main DA hosts on their websites and perhaps ideas of what we can host.
 
+Riaan: I've not had time to familiarise myself with the Jekyll website, how to participate in content generation and to then add a how-to to the website to make it easier for others. Anyone else get time to do this or something similar? Richard? Sure I heard you mention something - but it could have been the Sambucca...
+
 Notes:
 
 Reporter and Backup: 
@@ -80,6 +84,15 @@ Accounting
 *≈ 5 min*
 
 Riaan reports: Balance, transactions and new notes list of any casual donations on dasa.org.za.
+
+    Date,       Amount, Balance, Description
+    2014/01/24, -25.00, 794.50,  #PLATINUM CARD FEE
+    2014/01/24, -25.00, 819.50,  #PLATINUM CARD FEE
+    2014/01/14, 300.00, 844.50,  FNB OB PMT            DONATION: ROBBOTO     Donation: Robotto
+    2014/01/11, -55.50, 544.50,  #MONTHLY ACCOUNT FEE
+    2014/01/11, -55.50, 544.50,  #MONTHLY ACCOUNT FEE                        Bank Fees: FNB
+    2013/12/18, 500.00, 600.00,  CELL TRF FROM         TRANSFER FROM CHEQ95  Donation: Telamenta
+    2013/12/11, 100.00, 100.00,  INTERNET TRF FROM     BURTRONIX DONATION    Donation: Burtronix
 
 Notes:
 
@@ -133,6 +146,8 @@ Durban
 
 Riaan reports: On Durbs' state. Ian's availability and possible reboot needed for Durbs.
 
+Riaan: Durban will need a reboot. There are people interested in attenting one, but it will need a host and help from us. I propose that we first help out in Cape Town then tend to Durban.
+
 Reporter and Backup: 
 
 Completed / Agreed: ✔ / ✘
@@ -142,7 +157,9 @@ Cape Town
 ---------
 *≈ 20 min*
 
-Riaan reports: On Mother City state...
+~~Riaan~~ Robin reports: On Mother City state...
+
+Riaan: Robin's friend down there that I handed over to should have more information on how things are going.
 
 Reporter and Backup: 
 
@@ -162,8 +179,8 @@ Reporter and Backup:
 Completed / Agreed:  ✔ / ✘
 
 
-Mission and Vissiion Statements
--------------------------------
+Mission and Vission Statements
+------------------------------
 *≈ ? min*
 
 Lance and Adam reports: Our proposed mission and vision statements and any other such business documentation we may have/need?
