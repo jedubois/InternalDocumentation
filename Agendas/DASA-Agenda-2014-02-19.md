@@ -25,6 +25,8 @@ A list of people attending and apologies for not attending the DASA meeting on W
 
 Apologies from Riaan, in Nigeria just before and may not make the meeting.
 
+Apologies from Freda, who is unable to attend.
+
     Person   Attending ✔ / ✘ Apologies
     ===============================================
     Greg McKeen        ✔ / ✘
