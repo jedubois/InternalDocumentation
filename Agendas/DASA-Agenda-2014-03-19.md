@@ -186,6 +186,8 @@ Riaan reports (clarification): On Durbs' state. Ian's availability and possible 
 
 Riaan: Durban will need a reboot. There are people interested in attending one, but it will need a host and help from us. I propose that we first help out in Cape Town then tend to Durban.
 
+For reference: https://groups.drupal.org/node/300318#comment-1011258 OllieB would like to attend a Durban meet-up.
+
 Reporter and Backup: Riaan
 
 Notes:
