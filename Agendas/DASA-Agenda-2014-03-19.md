@@ -25,6 +25,8 @@ A list of people attending and apologies for not attending the DASA meeting on W
 
 Notes:
 
+- Apologies received from Robin, driving to durban for a family commitment.
+
 Completed / Agreed: ✔ / ✘
 
 Confirm Next Meeting
@@ -210,6 +212,8 @@ Robin reports:
 
 Reporter and Backup: Robin
 
+Robin in absentia: For the Drupal Cape Town Meetup a tentative date has been set for 30 April 2014. And Jason has secured the same venue as before. He is meeting with the people from Perceptum today and I will SMS you an update from the outcome of that meeting. He has requested that, if possible, some people from the JHB group could come done, and maybe also give a talk. I will try to go down for the meet up and am certain I will be able to make it. Would be nice if someone else could go as well. Could you ask the group if there is anyone else who would like to go.
+
 Notes:
 
 Completed / Agreed: ✔ / ✘
@@ -235,6 +239,8 @@ Robin, Ivan, Freda and Monique reports: NWU interest, dates, co-sponsorship etc.
 * This year?
 
 Reporter and Backup: Robin, Ivan, Lance, Freda
+
+Robin in absentia: I have done some basic research into organising a conference with a venue, AV equipment and catering. I used the Centurion Conference Venue as one reference and doing something there with 120 people, full AV and catering would come to around 80K.
 
 Completed / Agreed:  ✔ / ✘
 
