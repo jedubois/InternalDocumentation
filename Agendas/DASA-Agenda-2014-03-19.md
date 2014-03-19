@@ -11,23 +11,25 @@ A list of people attending and apologies for not attending the DASA meeting on W
 
     Person   Attending ✔ / ✘ Apologies
     ===============================================
-    Greg McKeen        ✔ / ✘
-    Lancelot Nyachoto  ✔ / ✘
-    Riaan Burger       ✔ / ✘
-    Adam Dunn          ✔ / ✘
-    Ivan Breet         ✔ / ✘
-    Robin Prieschl     ✔ / ✘
-    Lee Taylor         ✔ / ✘
-    Monique Afonso     ✔ / ✘
-    Richard Banks      ✔ / ✘
-    Freda Browne       ✔ / ✘
-    Ilsoda Musa        ✔ / ✘
+    Greg McKeen        ✔ 
+    Lancelot Nyachoto  ✔
+    Riaan Burger       ✔
+    Adam Dunn          ✔ 
+    Ivan Breet         ✔
+    Robin Prieschl     ✘
+    Lee Taylor         ✔
+    Monique Afonso     ✘
+    Richard Banks      ✘
+    Freda Browne       ✔
+    Ilsoda Musa        ✘
+
+Quorum achieved: ✔
 
 Notes:
 
-- Apologies received from Robin, driving to durban for a family commitment.
+- Apologies received from Robin, driving to Durban for a family commitment.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 Confirm Next Meeting
 --------------------
@@ -35,9 +37,9 @@ Confirm Next Meeting
 
 Wednesday 16 April 2014 (third Wednesday of April).
 
-Notes:
+Notes: No notes
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 dasa.org.za Website
@@ -45,31 +47,34 @@ dasa.org.za Website
 *≈ 30 min*
 
 Why are we hosted in the EU?
+ - GitHub is hosted in the EU.
 
 With a focus on building the website, assign sections:
 
 Topics:
 
-* Vision
-* Mission
-* Community
-* Sponsors
-* Who are we
-* The team
-* How will we help?
-* Membership packages
-* Where does the money go?
-* News
-* Meet-ups list and attendance
-* Finance (and Donations (monetary and incidental), listed and solicitation)
+* Vision: Adam
+* Mission: Adam
+* Community: Robin -  Links to meetups of each group?
+* Sponsors: Robin - Comment out for now, add when applicable
+* Who are we: Lance
+* The team: Everyone
+* How will we help: Greg
+* Membership packages: Riaan
+* Where does the money go: Riaan
+* News: Lee
+* Meet-ups list and attendance: Robin & Ivan
+* Finance (and Donations (monetary and incidental), listed and solicitation): Riaan
+* Add links to the shared calendars, so that people can subscribe
 
-How-to for contributing to the website (in markdown).
+On GitHub:
+* How-to for contributing to the website (in markdown): Ivan
 
-Reporter and Backup: 
+Reporter and Backup: Everybody, Everybody!
 
-Notes:
+Notes: Have some commits ready for our next meetup please.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Attendance Register for Meet-ups
@@ -88,9 +93,9 @@ Ideas:
  
 Reporter and Backup: Ivan
 
-Notes:
+Notes: Instead of publishing our own register, we will use meet-ups. Allow members to signup at the beginning of the meeting, to get them using the system for communication. On dasa.org.za, add links to the meetup.com groups. Robin to be notified to speak to the Cape Town guys to ensure they are on board with the decision.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Accounting
@@ -120,9 +125,9 @@ Regarding cost for potentially useless card: Riaan: I can donate for the costs f
 
 Reporter and Backup: Greg, Riaan
 
-Notes:
+Notes: Riaan is happy to donate the fees for the card.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 
 E-mail and Distributions List
@@ -135,9 +140,9 @@ Adam/Lee reports: info@ to Adam, core@ to board and contrib@ to all the regular 
 
 Reporter and Backup: Lee
 
-Notes:
+Notes: Everyone who is core, should be added to the contrib group. Please add a list of users in each group.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DASA Shared Calendar
@@ -147,7 +152,9 @@ DASA Shared Calendar
 Adam and Lee reports:
 
 * Do we have dates for Cape Town and Durbs yet
+    * CT: 30th April?, DBN is not currently scheduled
 * The PHP Conference
+    * 4th & 5th April (http://www.phpsouthafrica.com)
 * DrupalCons
 * Any other dates to add?
 
@@ -158,8 +165,14 @@ Adam and Lee reports:
 Reporter and Backup: Adam and Lee
 
 Notes:
+Calendars for:
 
-Completed / Agreed: ✔ / ✘
+* JHB - Robin & Ivan
+* DBN - on hold for now until we have a representative
+* CT - Jason (Lee needs an e-mail address here please)
+* National - Robin & Adam
+
+Completed / Agreed: ✔
 
 
 Voting via GitHub
@@ -170,14 +183,15 @@ We're happy with the use of GitHub and we still need to:
 
 * Document the process of voting on the website
 * Adam will tally votes
-* Possible limitation to people who attended a meet-up at least once, later
-* Engage people to vote via e-mail lists, newsletters, groups.drupal, website, and other.
+* Possible limitation to people who attended a Drupal meet-up at least once in the year, later
+* Engage people to vote by contacting them via e-mail lists, newsletters, groups.drupal, website, and other.
 
 Reporter and Backup: Adam
 
-Notes:
+Notes: Sign up for a mail-chimp account (Ivan) and place it on the website.
+Riaan will provide a write-up on the process of voting via GitHub.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Durban
@@ -190,11 +204,11 @@ Riaan: Durban will need a reboot. There are people interested in attending one, 
 
 For reference: https://groups.drupal.org/node/300318#comment-1011258 OllieB would like to attend a Durban meet-up.
 
-Reporter and Backup: Riaan
+Reporter and Backup: Lance to co-ordinate with Riaan, start a contact list and drive the engagement from Durban, find an administrator.
 
-Notes:
+Notes: At the April meetup, have a Google Hangout setup so that Durban and Cape Town guys can experience the Johannesburg meetups. Send out a mailer that this will be setup, with a link. Publish to groups.drupal.org. Lee will work with Ivan to setup at Adcorp offices, and will send the URL to Robin, Richard, and others.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Cape Town
@@ -204,7 +218,10 @@ Cape Town
 Robin reports:
 
 * First meet-up coming up
+    * Robin and Riaan will be going.  
 * Johannesburg attendants (and possible speaker)
+    * Greg may potentially be able to go for a short visit, to confirm in mid-April.
+    * Ivan will also discuss with Willem.
 * Probable attendants and supporters (NimbleDoo, 2Stroke etc.)
 * Status from Jason
 * Venue
@@ -212,11 +229,16 @@ Robin reports:
 
 Reporter and Backup: Robin
 
-Robin in absentia: For the Drupal Cape Town Meetup a tentative date has been set for 30 April 2014. And Jason has secured the same venue as before. He is meeting with the people from Perceptum today and I will SMS you an update from the outcome of that meeting. He has requested that, if possible, some people from the JHB group could come done, and maybe also give a talk. I will try to go down for the meet up and am certain I will be able to make it. Would be nice if someone else could go as well. Could you ask the group if there is anyone else who would like to go.
+Robin in absentia: For the Drupal Cape Town Meetup a tentative date has been set for 30 April 2014. And Jason has secured the same venue as before. He is meeting with the people from Perceptum (Nimbledoo) today and I will SMS you an update from the outcome of that meeting. He has requested that, if possible, some people from the JHB group could come down, and maybe also give a talk. I will try to go down for the meet up and am certain I will be able to make it. Would be nice if someone else could go as well. Could you ask the group if there is anyone else who would like to go.
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+* Which venue is that?
+* First mailer should go out by the end of next week. 
+* Notify Charles Tanton, Roger Saner, and others, Dillon Kin. Ask them to invite friends, and others.
+* Robin will be the communications officer. Jason should send the comms out. Riaan will notify Robin of his responsibilities here. 
+
+Completed / Agreed: ✔
 
 
 DrupalCamp 2014/5?
@@ -242,7 +264,11 @@ Reporter and Backup: Robin, Ivan, Lance, Freda
 
 Robin in absentia: I have done some basic research into organising a conference with a venue, AV equipment and catering. I used the Centurion Conference Venue as one reference and doing something there with 120 people, full AV and catering would come to around 80K.
 
-Completed / Agreed:  ✔ / ✘
+Next steps:
+
+* Freda will contact NWU (via Monique) to find out about dates, potential ideas, and have a contact person to discuss ideas. Co-ordinate with Adam.
+
+Completed / Agreed:  ✔ 
 
 
 Mission and Vission Statements
@@ -253,9 +279,9 @@ Lance and Adam reports: Are we in acceptance of Adam's and Lance' copy? Then we 
 
 Reporter and Backup: Adam, Lance
 
-Notes:
+Notes: Achievment unlocked!
 
-Completed / Agreed:  ✔ / ✘
+Completed / Agreed:  ✔
 
 
 DASA CI
@@ -268,6 +294,7 @@ Robin Reports:
 
 Reporter and Backup: Robin
 
+Notes: None
 
 Any Other Business
 ------------------
@@ -276,5 +303,9 @@ Any Other Business
 Anything arising at the meeting or not on the agenda. Go around the table asking each attendee if they have any other business they want to address.
 
 Notes: 
+
+* Acquia will be here for 4 days next week. 
+* Lee will speak to them about meeting some of the board, and then perhaps have another meeting later in the week for the community.
+* Robin has to wear something blue at the next Drupal association meeting.
 
 Completed / Agreed   ✔
