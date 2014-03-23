@@ -35,7 +35,7 @@ Confirm Next Meeting
 
 Wednesday 21 May 2014 (third Wednesday of May).
 
-Notes: 
+Notes:
 
 Completed / Agreed: ✔ / ✘
 
@@ -47,15 +47,15 @@ dasa.org.za Website
 Topics:
 
 * Front Page: Slogan, Vision, Mission
-  
+
   Adam reports:
-  
+
 * Front Page: Community
 
   Links to meet-ups of each geographic group on meetup.com
-  
+
   Robin reports:
-  
+
 * About: Who we are
 
   Lance reports:
@@ -63,34 +63,43 @@ Topics:
 * About: The team
 
   Everyone reports:
-  
+
 * About: How will we help
 
   Greg reports:
-  
+
 * Membership: Options
 
   Riaan reports: Added options but we should probably discuss how people sign up as members and add that to the site too. Then add a members list here too once we have some.
-  
+
 * Membership: Where does the money go:
 
-  Riaan reports: Added basic content, check if it is okay like that.
+  Riaan reports:
+
+  * Added basic content, check if it is okay like that.
+  * Should we add method to become a member text - pay to our account and send us reference with name, surname and e-mail address? Company / personal link?
 
 * News
 
   Lee reports:
-  
+
 * Community: Meet-ups list and attendance
 
   Contact list with e-mails, names only published.
 
   Robin & Ivan reports:
-  
-* Membership: List donations (monitary and incidental)
+
+* Membership: List donations (monetary and incidental)
 
   Riaan reports: As above, but perhaps it should be it's own section on the page.
-  
+
 * Add links to the shared calendars, so that people can subscribe
+
+  ? reports:
+
+* Membership: Benefits of membership
+
+  Consider DA's content.
 
   ? reports:
 
@@ -100,7 +109,7 @@ On GitHub:
 
   Ivan reports:
 
-Notes: 
+Notes:
 
 Completed / Agreed: ✔ / ✘
 
@@ -132,15 +141,15 @@ Riaan reports: Balance, transactions and new notes list of any casual donations 
 
     Account:, 62446745492
     Balance:, 1324.50, 1324.50
-    
+
     Date        Amount  Balance  Description
     2014/03/22, 666.00, 1324.50, INTERNET TRF FROM     BURTRONIX DONATION
     2014/03/11, -55.50, 658.50,  #MONTHLY ACCOUNT FEE
     2014/02/25, -25.00, 714.00,  #PLATINUM CARD FEE
-    
+
     R 55.50 times 12 = R 666 ;-) The Devil's in the details.
 
-Notes: 
+Notes:
 
 Completed / Agreed: ✔ / ✘
 
@@ -149,15 +158,15 @@ E-mail and Distributions List
 -----------------------------
 *≈ 5 min*
 
-List the names (not e-mail addresses) of people on the @core and @contrib list here, updated each month.
+List the names (not e-mail addresses) of people on the core@ and contrib@ list here, updated each month.
 
-Add all governing board members to @contrib.
+Add all governing board members to contrib@.
 
 We should add core@ and contrib@ to the website, right?
 
 Lee reports:
 
-Notes: 
+Notes:
 
 Completed / Agreed: ✔ / ✘
 
@@ -182,7 +191,7 @@ Voting via GitHub
 -----------------
 *≈ 10 min*
 
-* Riaan will document the process of voting on GitHub int he issue queue.
+* Riaan will document the process of voting on GitHub in the issue queue.
 * Adam tallies votes.
 
 Riaan and Adam reports:
@@ -209,17 +218,17 @@ Durban
 ------
 *≈ 10 min*
 
-Durban awaits a reboot. We will pay it more attention once we have a succesful Cape Town user group meet-up.
+Durban awaits a reboot. We will pay it more attention once we have a successful Cape Town user group meet-up.
 
 Lance and Riaan will collect contacts of people that may want to attend, including https://groups.drupal.org/node/300318#comment-1011258 OllieB. We'll be looking for a good host there.
 
 Riaan and Lance reports:
 
-Lee will assist Ivan at the next Johannesburg Drupal user group meet-up beforehand to set up a Google Hanout so that we're able to present the meet-up live and record it for archive and download.
+Lee will assist Ivan at the next Johannesburg Drupal user group meet-up beforehand to set up a Google Hangout so that we're able to present the meet-up live and record it for archive and download.
 
 Lee and Ivan reports:
 
-Notes: 
+Notes:
 
 Completed / Agreed: ✔ / ✘
 
@@ -249,7 +258,7 @@ DrupalCamp 2014/5?
 ------------------
 *≈ 30 min*
 
-Freda to liaiase with Monique and coordinate with Adam to make direct contact with NWU regarding their interest and assertain more details on:
+Freda to liaise with Monique and coordinate with Adam to make direct contact with NWU regarding their interest and ascertain more details on:
 
 * Venue and Capacity
 * AV Equipment
@@ -262,7 +271,7 @@ Freda and Adam reports:
 
 Robin reports: I have done some basic research into organising a conference with a venue, AV equipment and catering. I used the Centurion Conference Venue as one reference and doing something there with 120 people, full AV and catering would come to around 80K.
 
-Ivan reports on any interest from UJ: 
+Ivan reports on any interest from UJ:
 
 Notes:
 
@@ -277,7 +286,7 @@ DASA CI
 
 Robin Reports:
 
-Notes: 
+Notes:
 
 Completed / Agreed: ✔ / ✘
 
@@ -288,7 +297,7 @@ Any Other Business
 
 Anything arising at the meeting or not on the agenda. Go around the table asking each attendee if they have any other business they want to address.
 
-Notes: 
+Notes:
 
 * Robin has to wear something blue at this Drupal association meeting ;-)
 
