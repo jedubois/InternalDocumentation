@@ -11,23 +11,23 @@ A list of people attending and apologies for not attending the DASA meeting on W
 
     Person   Attending ✔ / ✘ Apologies
     ===============================================
-    Greg McKeen        ✔ / ✘
-    Lancelot Nyachoto  ✔ / ✘
-    Riaan Burger       ✔ / ✘
-    Adam Dunn          ✔ / ✘
-    Ivan Breet         ✔ / ✘
-    Robin Prieschl     ✔ / ✘
-    Lee Taylor         ✔ / ✘
-    Monique Afonso     ✔ / ✘
-    Richard Banks      ✔ / ✘
-    Freda Browne       ✔ / ✘
-    Ilsoda Musa        ✔ / ✘
+    Greg McKeen        ✔ 
+    Lancelot Nyachoto  ✔
+    Riaan Burger       ✔ 
+    Adam Dunn          ✔
+    Ivan Breet         ✔
+    Robin Prieschl     ✘
+    Lee Taylor         ✔
+    Monique Afonso     ✘
+    Richard Banks      ✘
+    Freda Browne       ✘
+    Ilsoda Musa        ✘
 
-Quorum achieved: ✔ / ✘
+Quorum achieved: ✔
 
-Notes:
+Notes: Freda and Robin send their apologies. Richard sent apologies through meetup.com. If Monique and Ilsoda aren't attending anymore, we can remove them from the attendance register.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 Confirm Next Meeting
 --------------------
@@ -35,9 +35,9 @@ Confirm Next Meeting
 
 Wednesday 21 May 2014 (third Wednesday of May).
 
-Notes:
+Notes: Happy :)
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 
 dasa.org.za Website
@@ -48,25 +48,25 @@ Topics:
 
 * Front Page: Slogan, Vision, Mission
 
-  Adam reports:
+  Adam reports: Adam needs help with committing to the GitHub of dasa.org.za. Ivan will help.
 
 * Front Page: Community
 
   Links to meet-ups of each geographic group on meetup.com
 
-  Robin reports:
+  Robin reports: No update this evening, will review next month.
 
 * About: Who we are
 
-  Lance reports:
+  Lance reports: Please accept my pull-request Ivan.
 
 * About: The team
 
-  Everyone reports:
+  Everyone reports: Riaan and Lance have updated their details. Greg, Lee, Adam, Robin and Ivan are still to complete.
 
 * About: How will we help
 
-  Greg reports:
+  Greg reports: Working on this at the Easter weekend.
 
 * Membership: Options
 
@@ -77,17 +77,17 @@ Topics:
   Riaan reports:
 
   * Added basic content, check if it is okay like that.
-  * Should we add method to become a member text - pay to our account and send us reference with name, surname and e-mail address? Company / personal link?
+  * Should we add method to become a member text - pay to our account and send us reference with name, surname and e-mail address? Company / personal link? Yes, Riaan must do this.
 
 * News
 
-  Lee reports:
+  Lee reports: No news is good news. Will add a story about DASA meeting Acquia. Riaan will source a photo for Lee.
 
 * Community: Meet-ups list and attendance
 
   Contact list with e-mails, names only published.
 
-  Robin & Ivan reports:
+  Robin & Ivan reports: Nothing has been done yet. Postponed to next month.
 
 * Membership: List donations (monetary and incidental)
 
@@ -95,30 +95,30 @@ Topics:
 
 * Add links to the shared calendars, so that people can subscribe
 
-  ? reports:
+  Lee reports: Will do when I get to the above.
 
 * Membership: Benefits of membership
 
   Consider DA's content.
 
-  ? reports:
+  Riaan reports: Will review the list from the Drupal Assocation and advise. Lance has already added some content in this regard.
 
 On GitHub:
 
 * How-to for contributing to the website (in markdown)
 
-  Ivan reports:
+  Ivan reports: Ivan will write a basic How To before the next Association Meeting.
 
-Notes:
+Notes: Fail of a month, but we've all been busy. Next month has a few holidays, which could go either way.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 
 Attendance Register for Meet-ups
 --------------------------------
 *≈ 15 min*
 
-In stead of an attendance register we will use meetup.com. This will require serious push at meet-ups to make sure people have registered with meetup.com and regularly subscribe to events.
+Instead of an attendance register we will use meetup.com. This will require serious push at meet-ups to make sure people have registered with meetup.com and regularly subscribe to events.
 
 At meet-ups during the go-around to introduce one self we'll verify people marked themselves as coming to the meet-up and for the first three that have not, assist them in doing so right there and then.
 
@@ -126,11 +126,13 @@ Links on dasa.org.za will link to the meetup.com events.
 
 Robin to bring the Cape Town guys up to date with this.
 
-Ivan and Robin reports:
+Ivan and Robin reports: Ivan gave speeches at the JHB meetup to ask attendees to signup. 
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+* Investigate widgets/api from meetup.com to place the meetups on the dasa.org.za site.
+
+Completed / Agreed: ✔
 
 
 Accounting
@@ -152,9 +154,9 @@ Riaan reports: Balance, transactions and new notes list of any casual donations 
 
     R 55.50 times 12 = R 666 ;-) The Devil's in the details.
 
-Notes:
+Notes: 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 E-mail and Distributions List
@@ -169,25 +171,28 @@ We should add core@ and contrib@ to the website, right?
 
 Lee reports:
 
-Notes:
+* Core: 
+* Contrib: 
 
-Completed / Agreed: ✔ / ✘
+Notes: No, use the info@ address for public.
+
+Completed / Agreed: ✔
 
 
 DASA Shared Calendar
 ----------------------
 *≈ 15 min*
 
-Date for Cape Town user group meet-up in calendar? 30 April
-Date for PHP Conference in calendar? 4th & 5th April
-Date for DrupalCons in calendar? Austin: 2-6 June; Amsterdam: 29 Sep - 3 Oct
-National and Regional CT and JHB set up?
+* Date for Cape Town user group meet-up in calendar? 28 May
+* Date for PHP Conference in calendar? 4th & 5th April
+* Date for DrupalCons in calendar? Austin: 2-6 June; Amsterdam: 29 Sep - 3 Oct
+* National and Regional CT and JHB set up?
 
-Adam and Lee reports:
+Adam and Lee reports: Events will be added.
 
-Notes:
+Notes: 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Voting via GitHub
@@ -197,11 +202,11 @@ Voting via GitHub
 * Riaan will document the process of voting on GitHub in the issue queue.
 * Adam tallies votes.
 
-Riaan and Adam reports:
+Riaan and Adam reports: Still to be done. 
 
-Notes:
+Notes: Voting for the board will need to be done soon, we need this process in place before that. We will also need to make a public push for getting people to the voting session to have a new/updated board.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 
 MailChimp
@@ -210,11 +215,11 @@ MailChimp
 
 Ivan to sign up for a MailChimp account and set it up. Then add it to the website.
 
-Ivan reports:
+Ivan reports: Ivan will add a widget to the dasa.org.za website.
 
-Notes:
+Notes: We need a custodian of the newsletter to send one out every month. Robin is the mail-chimp guru & communications officer.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Durban
@@ -229,32 +234,32 @@ Riaan and Lance reports:
 
 Lee will assist Ivan at the next Johannesburg Drupal user group meet-up beforehand to set up a Google Hangout so that we're able to present the meet-up live and record it for archive and download.
 
-Lee and Ivan reports:
+Lee and Ivan reports: Hangout was published for users to view, there was some online participation. It will be done at future meetups to allow others to see the meetups.
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Cape Town
 ---------
 *≈ 20 min*
 
-Tentative date for 30 April organised by Jason (reference Robin).
+Tentative date for 28 May organised by Jason (reference Robin).
 
 * Robin and Riaan will go.
 * Greg and Ivan/Willem will possibly speak.
 * Need status and report from Jason.
-* Jason to be briefed of the use and importance of meetup.com.
+* Jason to be briefed of the use and importance of meetup.com by Robin.
 * Use our MailChimp to support the meet-up.
-* Invite Charles Tanton, Roger Saner, Dillon Kin and ask them to invite others.
+* Invite Charles Tanton, Dillon Kin and ask them to invite others.
 * Robin is communications officer for meet-ups (Riaan to notify) ;-)
 
-Robin reports:
+Robin reports: Robin to report at next meeting.
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 
 DrupalCamp 2014/5?
@@ -270,15 +275,15 @@ Freda to liaise with Monique and coordinate with Adam to make direct contact wit
 * Potential Dates
 * Sponsorship
 
-Freda and Adam reports:
+Freda and Adam reports: None
 
 Robin reports: I have done some basic research into organising a conference with a venue, AV equipment and catering. I used the Centurion Conference Venue as one reference and doing something there with 120 people, full AV and catering would come to around 80K.
 
-Ivan reports on any interest from UJ:
+Ivan reports on any interest from UJ: Ivan still needs to speak to the guy.
 
-Notes:
+Notes: Find out why Monique and Ilsoda havent been to meetings, and if they need any help towards the DrupalCamp.
 
-Completed / Agreed:  ✔ / ✘
+Completed / Agreed:  ✔ 
 
 
 DASA CI
@@ -287,11 +292,11 @@ DASA CI
 
 * Status of CI submissions
 
-Robin Reports:
+Robin Reports: None
 
-Notes:
+Notes: Riaan will ask Tamian Perrins to make a submission.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Any Other Business
@@ -300,8 +305,8 @@ Any Other Business
 
 Anything arising at the meeting or not on the agenda. Go around the table asking each attendee if they have any other business they want to address.
 
-Notes:
+Notes: Next meeting should be focussed on developing the site, with less focus on the agenda.
 
-* Robin has to wear something blue at this Drupal association meeting ;-)
+* Robin has to wear something blue at this Drupal association meeting ;-) And a colourful tie.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
