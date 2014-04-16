@@ -140,9 +140,12 @@ Accounting
 Riaan reports: Balance, transactions and new notes list of any casual donations on dasa.org.za.
 
     Account:, 62446745492
-    Balance:, 1324.50, 1324.50
+    Balance:, 1744.00, 1744.00
 
     Date        Amount  Balance  Description
+    2014/04/11, -55.50, 1744.00, #MONTHLY ACCOUNT FEE
+    2014/03/26, 500.00, 1799.50, FNB OB PMT            LEENX DONATION TO DA
+    2014/03/25, -25.00, 1299.50, #PLATINUM CARD FEE
     2014/03/22, 666.00, 1324.50, INTERNET TRF FROM     BURTRONIX DONATION
     2014/03/11, -55.50, 658.50,  #MONTHLY ACCOUNT FEE
     2014/02/25, -25.00, 714.00,  #PLATINUM CARD FEE
