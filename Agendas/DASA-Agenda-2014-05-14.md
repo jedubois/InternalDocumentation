@@ -20,6 +20,8 @@ A list of people attending and apologies for not attending the DASA meeting on W
     Lee Taylor         ✔ / ✘
     Richard Banks      ✔ / ✘
     Freda Browne       ✔ / ✘
+    Monique Afonso     ✔ / ✘
+    Ilsoda Musa        ✔ / ✘
 
 Quorum achieved: ✔ / ✘
 
