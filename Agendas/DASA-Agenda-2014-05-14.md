@@ -98,13 +98,33 @@ List of the the names (not e-mail addresses) of people on:
 
 * core@dasa.org.za:
 
-    * Lee to list members here.
+    * Adam
+    * Ivan
+    * Lancelot
+    * Lee
+    * Greg
+    * Riann
+    * Robin
 
 *  contrib@dasa.org.za:
 
-    * Lee to list members here.
+    * Core
+    * Freda
+    * Richard
 
-Lee reports: Updated ✔ / ✘
+*  git@dasa.org.za:
+
+    * Ivan
+
+*  info@dasa.org.za:
+
+    * Adam
+
+*  ci-submissions@dasa.org.za:
+
+    * Robin (gmail and robboto)
+
+Lee reports: Updated ✔
 
 Notes:
 
