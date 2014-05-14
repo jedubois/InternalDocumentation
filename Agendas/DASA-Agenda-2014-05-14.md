@@ -23,6 +23,8 @@ A list of people attending and apologies for not attending the DASA meeting on W
     Monique Afonso     ✔ / ✘
     Ilsoda Musa        ✔ / ✘
 
+Apologies: From Adam (Pigeon season commitments).
+
 Quorum achieved: ✔ / ✘
 
 Notes:
