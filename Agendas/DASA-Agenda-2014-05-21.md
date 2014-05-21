@@ -11,25 +11,25 @@ A list of people attending and apologies for not attending the DASA meeting on W
 
     Person   Attending ✔ / ✘ Apologies
     ===============================================
-    Greg McKeen        ✔ / ✘
-    Lancelot Nyachoto  ✔ / ✘
-    Riaan Burger       ✔ / ✘
-    Adam Dunn          ✔ / ✘
-    Ivan Breet         ✔ / ✘
-    Robin Prieschl     ✔ / ✘
-    Lee Taylor         ✔ / ✘
-    Richard Banks      ✔ / ✘
-    Freda Browne       ✔ / ✘
-    Monique Afonso     ✔ / ✘
-    Ilsoda Musa        ✔ / ✘
+    Greg McKeen        ✔
+    Lancelot Nyachoto  ✔
+    Riaan Burger       ✔
+    Adam Dunn          ✔
+    Ivan Breet         ✘
+    Robin Prieschl     ✔
+    Lee Taylor         ✔
+    Richard Banks      ✘
+    Freda Browne       ✔
+    Monique Afonso     ✘
+    Ilsoda Musa        ✘
 
-Apologies: From Adam (Pigeon season commitments).
+Apologies: From Ivan (Travelling).
 
-Quorum achieved: ✔ / ✘
+Quorum achieved: ✔
 
-Notes:
+Notes: Meeting stated at 19:10
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 Confirm Next Meeting
 --------------------
@@ -39,7 +39,7 @@ Wednesday 18 June 2014 (third Wednesday of June).
 
 Notes: Happy :)
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Medium-Term Stable Items
@@ -54,13 +54,13 @@ Meetup.com for Drupal User Group Meet-ups
 * On DASA.org.za link to meetup.com
 * On DASA.org.za investigate widgets for meetup.com.
 
-Ivan Reports:
+Lee Reports: Sign-ups weren't done at the previous meetup in JHB. Will be done at the next one.
 
-Robin Reports:
+Robin Reports: http://www.meetup.com/meetup_api/foundry/
 
-Notes:
+Notes: Working on the website shortly. Will add widgets and link ASAP.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Accounting
@@ -82,9 +82,9 @@ Accounting
 
     R 55.50 times 12 = R 666 ;-) The Devil's in the details.
 
-Riaan reports: Updated ✔ / ✘
+Riaan reports: Updated ✔
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 E-mail and Distributions List
@@ -126,9 +126,9 @@ List of the the names (not e-mail addresses) of people on:
 
 Lee reports: Updated ✔
 
-Notes:
+Notes: None
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Current Attention Items
@@ -141,9 +141,9 @@ Membership
 
 * How will membership upgrades work. Bronze to Gold, mid-term, for example. Pro rata?
 
-Notes:
+Notes: To upgrade, new memberships are issued for another year, credited by the remaining value from the previous membership.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 MailChimp
@@ -152,38 +152,52 @@ MailChimp
 
 * Ivan to sign up for a MailChimp account and set it up. Then add it to the website.
 * Ivan to add the widget to the website.
+* Try capture where users are located.
 * Verify if Robin can/will be the editor of the newsletter (mail-chimp guru & communications officer).
 
-Ivan reports:
+Ivan reports: Not present. Link for the widgets added below
 
-Robin reports:
+Robin reports: Happy to be the editor. 
+* Items to be discussed at a DASA meeting in the future: 
+    * Provided content for the newsletter?
+    * Report on each event in the newsletter?
+    * Showcase projects, people, community?
+    * Frequency of e-mails?
+* Focus on getting a routine going, and then keep adding to it.
+* One newsletter for the entire country for now.
+* Communicate the elections, how it works, and nominations via the Newsletter.
 
-Notes:
+Notes: http://connect.mailchimp.com/
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Governing Board Elections
 -------------------------
 *≈ 20 min*
 
+* Provide a list of candidates, and open to the public to submit their own nominations for either themselves or someone else.
 * Use [Borda Count](https://en.wikipedia.org/wiki/Borda_count)
 * Pick date for elections. Current board was announced November 2013.
     * Results should be published in October
     * Voting should close end of September
-    * Voting in September
+    * Voting in September, with another reminder
     * Promoting upcoming vote in August
-* Plan to promoite participation, perhaps through an early text vote open to the community/members.
+    * Nominations from July
+* Plan to promote participation, perhaps through an early text vote open to the community/members.
 * [Constitutionn](https://docs.google.com/document/d/1DYY133KEg320wm4mIIBMDMd8f31LpndEimysmFUe6oU) requires:
-    * A definition of members
+    * A definition of members - people who can vote?
+        * Voting must happen on groups.drupal.org/South-Africa for now, which ensures members are part of the drupal.org community to have a vote.
     * At least one governing board member must retire and cannot be a member for 12 months thereafter
     * No governing board member may remain a member for more than three consecutive years
+    * A minimum of 5 members are required
+    * Participation is still open to members, but only Governing Board members can vote.
 
 Riaan: Considering that only voting at meetings (and not actual attendance and participation) is what I'll miss and I know I'll still do everything I do now and more and that I trust in the vote of the other people on the current board, I propose that I step down for 12 months.
 
-Notes:
+Notes: The Board disagree's with Riaan's assertion to leave. The idea is that the person with the least amount of votes can leave for the year.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Voting via GitHub
@@ -195,9 +209,9 @@ Voting via GitHub
 
 Riaan and Adam reports: Still to be done.
 
-Notes:
+Notes: This has changed to groups.drupal.org
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DASA Shared Calendar
@@ -212,11 +226,11 @@ DASA Shared Calendar
     * DrupalCon Amsterdam: 29 Sep - 3 Oct
     * DrupalCon Bogota (Colombia) Feb 2015
 
-Adam and Lee reports:
+Adam and Lee reports: Lee went through the list, and has added South African meetings. 
 
-Notes:
+Notes: Add International Events to the newsletter instead of the South African calendars.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DASA CI
@@ -226,11 +240,11 @@ DASA CI
 * Status of CI submissions
 * Can we have original artwork for website
 
-Robin Reports:
+Robin Reports: Will submit onto groups.drupal.org 
 
-Notes:
+Notes: Robin will send the artwork to Riaan
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Drupal User Group Meet-ups
@@ -244,12 +258,14 @@ Johannesburg
 * Initial discussion. Topics and status.
 * Google Hangouts
 
-Ivan reports:
-Lee reports:
+Lee reports: Google Hangouts last week weren't done due to the topics revolving around "un-conferencing". 
 
-Notes:
+Notes: 
+* Hangouts again in June, process will be made smoother. Pre-create Hangout, send out the link.
+* Initial discussion on topics and status:
+    * Moved over to the next meeting. The board wants to have a discussion regarding the content of meet-ups and it's relevance to the Drupal Community
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Cape Town
@@ -257,8 +273,8 @@ Cape Town
 *≈ 10 min*
 
 * Wednesday 28 May organised by Jason (reference Robin).
+* Robin and Riaan going to the event in May.
 * Thereafter every fourth Wednesday of the month.
-* Robin and Riaan going.
 * Ivan/Willem and Greg may speak.
 * Jason will submit a status report.
 
@@ -269,9 +285,9 @@ In Future:
 
 Robin reports:
 
-Notes:
+Notes: Greg no longer going. Ivan went too early. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Durban
@@ -281,11 +297,17 @@ Durban
 * Durban awaits a reboot. We will pay it more attention once we have a successful Cape Town user group meet-up.
 * Lance and Riaan will collect contacts of people that may want to attend, including https://groups.drupal.org/node/300318#comment-1011258 OllieB. We'll be looking for a good host there.
 
-Riaan, Lance and Robin reports:
+Riaan, Lance and Robin reports: No feedback
 
-Notes:
+Notes: 
+* Suggestions:
+    * Have one person visit once a month
+    * Do install-fests
+    * Drum up interest
+    * Have the newsletter promote events
+    * Train people there to help JHB companies, provide a return of investment to people's commitments to the community
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Other
@@ -294,9 +316,9 @@ Other
 
 * Should we actively pursue additional national or even Southern-African meet-ups. Alternatively perhaps poll every six months on GDo and our newsletter to check on interest.
 
-Notes:
+Notes: Ping the network for interest at points. First focus on South Africa.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DrupalCamp 2014/5?
@@ -304,16 +326,21 @@ DrupalCamp 2014/5?
 *≈ 15 min*
 
 Freda to liaise with Monique and coordinate with Adam to make direct contact with NWU regarding their interest and ascertain more details on:
+* Adam to contact Monique to get contact details of the NWU people
+* Ivan to speak to UJ to find out what their interest is
+* Adam and Freda will liase to discuss next steps based on Monique and NWU & UJ feedback, including a list of TODO items
+* Lee will speak to Schalk from H4H.
 
-Robin with early estimates and planning work reports:
+Robin with early estimates and planning work reports: Robin will create a GitHub issue with information gathered about Venues, Displays, Recording, Catering, Accommodation, etc.
 
-Freda and Adam reports:
+Freda and Adam reports: Will follow up during the month and provide feedback next month.
 
-Ivan reports on any interest from UJ:
+Ivan reports on any interest from UJ: 
 
 Notes:
+* Next Steps: Find Speakers (Innovation Hub, Business People, Developers, Drupal 8?) etc
 
-Completed / Agreed:  ✔ / ✘
+Completed / Agreed:  ✔
 
 
 
@@ -329,72 +356,7 @@ Riaan: This [BlackTie Spot Agency](http://www.blacktie.co/2013/10/spot-freelance
 * At least a better Jekyll theme/structure - perhaps our own. (I can probably tackle this).
 * To use Drupal which, considering the association we're running, we all have some talent in.
 
-Topics:
-
-* Front Page: Slogan, Vision, Mission
-
-  Adam reports: Adam needs help with committing to the GitHub of dasa.org.za. Ivan will help.
-
-* Front Page: Community
-
-  Links to meet-ups of each geographic group on meetup.com
-
-  Robin reports: No update this evening, will review next month.
-
-* About: Who we are
-
-  Lance reports: Please accept my pull-request Ivan.
-
-* About: The team
-
-  Everyone reports: Riaan and Lance have updated their details. Greg, Lee, Adam, Robin and Ivan are still to complete.
-
-* About: How will we help
-
-  Greg reports: Working on this at the Easter weekend.
-
-* Membership: Options
-
-  Riaan reports: Added options but we should probably discuss how people sign up as members and add that to the site too. Then add a members list here too once we have some.
-
-* Membership: Where does the money go:
-
-  Riaan reports:
-
-  * Added basic content, check if it is okay like that.
-  * Should we add method to become a member text - pay to our account and send us reference with name, surname and e-mail address? Company / personal link? Yes, Riaan must do this.
-
-* News
-
-  Lee reports: No news is good news. Will add a story about DASA meeting Acquia. Riaan will source a photo for Lee.
-
-* Community: Meet-ups list and attendance
-
-  Contact list with e-mails, names only published.
-
-  Robin & Ivan reports: Nothing has been done yet. Postponed to next month.
-
-* Membership: List donations (monetary and incidental)
-
-  Riaan reports: As above, but perhaps it should be it's own section on the page.
-
-* Add links to the shared calendars, so that people can subscribe
-
-  Lee reports: Will do when I get to the above.
-
-* Membership: Benefits of membership
-
-  Consider DA's content.
-
-  Riaan reports: Will review the list from the Drupal Association and advise. Lance has already added some content in this regard.
-
-On GitHub:
-
-* How-to for contributing to the website (in markdown)
-
-  Ivan reports: Ivan will write a basic How To before the next Association Meeting.
-
-Notes: Fail of a month, but we've all been busy. Next month has a few holidays, which could go either way.
+Notes: Make a final decision on the platform to use. General favour leans towards using a Drupal system. We will have a final vote at the June meeting. Leaving discussion open for Ivan to tackle the Jekkyl issue if he would like.
 
 Completed / Agreed: ✔
 
@@ -405,6 +367,7 @@ Any Other Business
 
 Anything arising at the meeting or not on the agenda. Go around the table asking each attendee if they have any other business they want to address.
 
-Notes:
+Notes: 
+* Lance has requested looking at business discussions at meetups: How to cost projects, project management, learning management and training, etc
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
