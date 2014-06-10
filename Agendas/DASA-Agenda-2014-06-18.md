@@ -94,7 +94,7 @@ E-mail and Distributions List
 
 Review:
 
-* Governing board should all be on contrib@dasa.org.za.
+* Governing board should all be on core@dasa.org.za.
 * User info@dasa.org.za for public publications.
 
 List of the the names (not e-mail addresses) of people on:
@@ -251,7 +251,7 @@ Johannesburg
 * Hangouts status
 * Topics
     * Initial discussion to assist with topical matters at meet-up if it will help. May help the CT meetups too.
-* Reporter needed (for our newsletter)
+* Reporters needed (for our newsletter)
 
 Lee reports:
 
@@ -290,6 +290,8 @@ Durban
 * At least two CT attendees offered to come to Durban, with two from JHB too, we just need to build a contact list for Durban.
 * Lance and Riaan will collect contacts of people that may want to attend, including https://groups.drupal.org/node/300318#comment-1011258 OllieB. We'll be looking for a good host there.
 * Perhaps an early meetup.com account with a very early 2nd Wednesday fo the month date for Feb 2015 published to gather attendees so long?
+
+Riaan: Created an internal Google Doc on DASA space (people's personal contact details) to keep initial Durban contacts, added Mark so long. Sahred with Lance so he can also add people.
 
 Riaan, Lance and Robin reports: No feedback
 
