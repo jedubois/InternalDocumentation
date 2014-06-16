@@ -1,7 +1,7 @@
 Drupal Association South Africa
 ===============================
 
-Agenda 2014-05-21
+Agenda 2014-06-18
 -----------------
 
 Attending / Apologies
@@ -23,7 +23,7 @@ A list of people attending and apologies for not attending the DASA meeting on W
     Monique Afonso     ✔ / ✘
     Ilsoda Musa        ✔ / ✘
 
-Apologies:
+Apologies: Apologies received from Ivan: geographically dislocated.
 
 Quorum achieved: ✔ / ✘
 
@@ -69,21 +69,13 @@ Accounting
 Overview:
 
     Account:, 62446745492
-    Balance:, 2219.00, 2219.00
+    Balance:, 2108.00, 2608.00
 
     Date        Amount  Balance  Description
-    2014/04/26, 500.00, 2219.00, INT-BANKING PMT FRM   DONATION: LANCELOT N
-    2014/04/24, -25.00, 1719.00, #PLATINUM CARD FEE
-    2014/04/11, -55.50, 1744.00, #MONTHLY ACCOUNT FEE
-    2014/03/26, 500.00, 1799.50, FNB OB PMT            LEENX DONATION TO DA
-    2014/03/25, -25.00, 1299.50, #PLATINUM CARD FEE
-    2014/03/22, 666.00, 1324.50, INTERNET TRF FROM     BURTRONIX DONATION
-    2014/03/11, -55.50, 658.50,  #MONTHLY ACCOUNT FEE
-    2014/02/25, -25.00, 714.00,  #PLATINUM CARD FEE
+    2014/06/17, 500.00, 0.00,    INTERNET TRF FROM     BURTRONIX DONATION
+    2014/06/11, -55.50, 2108.00, #MONTHLY ACCOUNT FEE
 
-    R 55.50 times 12 = R 666 ;-) The Devil's in the details.
-
-Riaan reports: Updated ✔ / ✘
+Riaan reports: Updated ✔
 
 Completed / Agreed: ✔ / ✘
 
