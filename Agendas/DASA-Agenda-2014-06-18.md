@@ -11,25 +11,25 @@ A list of people attending and apologies for not attending the DASA meeting on W
 
     Person   Attending ✔ / ✘ Apologies
     ==================================
-    Greg McKeen        ✔ / ✘
-    Lancelot Nyachoto  ✔ / ✘
-    Riaan Burger       ✔ / ✘
-    Adam Dunn          ✔ / ✘
-    Ivan Breet         ✔ / ✘
-    Robin Prieschl     ✔ / ✘
-    Lee Taylor         ✔ / ✘
-    Richard Banks      ✔ / ✘
-    Freda Browne       ✔ / ✘
-    Monique Afonso     ✔ / ✘
-    Ilsoda Musa        ✔ / ✘
+    Greg McKeen        ✔
+    Lancelot Nyachoto  ✔
+    Riaan Burger       ✔
+    Adam Dunn          ✔
+    Ivan Breet         ✘
+    Robin Prieschl     ✘
+    Lee Taylor         ✔
+    Richard Banks      ✘
+    Freda Browne       ✔
+    Monique Afonso     ✘
+    Ilsoda Musa        ✘
 
-Apologies: Apologies received from Ivan: geographically dislocated.
+Apologies: Apologies received from Ivan: geographically dislocated. Robin has a work emergency
 
-Quorum achieved: ✔ / ✘
+Quorum achieved: ✔
 
-Notes:
+Notes: Please note the meeting starts at 6 for 6:30.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 Confirm Next Meeting
 --------------------
@@ -37,9 +37,9 @@ Confirm Next Meeting
 
 Wednesday 16 July 2014 (third Wednesday of July).
 
-Notes:
+Notes: Everyone is happy.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Medium-Term Stable Items
@@ -57,9 +57,9 @@ Review:
 
 Riaan reports: Meetup.com widgets work well enough on the test site.
 
-Notes:
+Notes: Riaan has suggested working with the OpenAPI instead of the normal widgets. Adam has suggested keeping the current widgets, which just show the amount of members in the group. Riaan will speak to Robin about using the new localised Logos on meetup.com
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Accounting
@@ -77,7 +77,7 @@ Overview:
 
 Riaan reports: Updated ✔
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 E-mail and Distributions List
@@ -87,9 +87,9 @@ E-mail and Distributions List
 Review:
 
 * Governing board should all be on core@dasa.org.za.
-* User info@dasa.org.za for public publications.
+* Use info@dasa.org.za for public publications.
 
-List of the the names (not e-mail addresses) of people on:
+List of the names (not e-mail addresses) of people on:
 
 * core@dasa.org.za:
 
@@ -119,11 +119,11 @@ List of the the names (not e-mail addresses) of people on:
 
     * Robin (gmail and robboto)
 
-Lee reports: Updated ✔ / ✘
+Lee reports: Updated ✔
 
-Notes:
+Notes: Setup and working.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DASA Shared Calendar
@@ -141,11 +141,11 @@ Review
     * DrupalCon Amsterdam: 29 Sep - 3 Oct
     * DrupalCon Bogota (Colombia) Feb 2015
 
-Adam and Lee reports:
+Adam and Lee reports: No issues.
 
-Notes:
+Notes: TODO: Add links to the calendars onto the website.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DASA CI
@@ -154,11 +154,11 @@ DASA CI
 
 Any related matters...
 
-Robin Reports:
+Robin Reports: Not in attendance
 
-Notes:
+Notes: Ensure there is localisation of the logos for each region (JHB, CPT, DBN). Review the Font, purchase if necessary. Please report back on the price & license to approve. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Current Attention Items
@@ -177,22 +177,26 @@ Overview:
 Discuss (postpone to next meeting for website completion and MailChimp account creation):
 
 * Urgent (for upcoming elections).
+    * Riaan to contact Ivan, before the next meeting to ensure this is done ASAP.  
 
 * Content sources for the newsletter.
     * Reports on past events?
     * Showcase projects, people, community?
-    * Frequency of e-mails?
 * Focus on getting a routine going, and then keep adding to it.
 * One newsletter for the entire country for now.
 * Communicate the elections, how it works, and nominations via the Newsletter.
 
-Ivan reports:
+Ivan reports: Not in attendance
 
-Robin reports:
+Robin reports: Not in attendance
 
 Notes:
+* Post an article on groups.drupal.org to explain reasons to subscribe to the newsletter. 
+    * To be notified about the elections
+    * Keep abreast with community news, and meetup dates
+    * Frequency of e-mails
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Governing Board Elections
@@ -203,11 +207,11 @@ Governing Board Elections
 * Gather candidates' details (short bio and photo) **one week**.
 * Open Polls **open time spanning at least the JHB and CT meetup dates and one week after**:
     * Primary post on GDoSA
-        * Anyone a member of GDoSA can vote.
+        * Anyone a member of GDoSA can vote, as long as they were a member before the "call for candidates" opened this will allow us to try to ensure that fake accounts aren't setup before hand.
         * Vote by supplying a list in order of preference of up to 7 candidates.
-        * Only one vote per person, the latest of multiple votes cast by one person invalidates the preceding ones by that person unless the latest is invalid, the the latest preceding one, if one exists will count.
+        * Only one vote per person, the latest of multiple votes cast by one person invalidates the preceding ones by that person unless the latest is invalid, then the latest preceding one, if one exists will count.
         * Adam and Riaan will tally the votes **< one week**. Counting 7 points for the highest preference and one less point for every one thereafter per vote.
-        * Greg will publish the results.
+        * Greg will audit and publish the results.
     * Use MailChimp
     * Use Google+
     * Use dasa.org.za
@@ -228,8 +232,12 @@ Governing Board Elections
     * Before: Promote upcoming elections
 
 Notes:
+* Recommend more stringent rules for voting for the 2015 elections.
+    * Suggestion: Candidates have to have attended a certain number of Drupal Meetups over the year.
+* Riaan: Add a "can I vote?" widget to the website
+* Make sure that as we send out communications until the "call for candidates" we send information about the current board, achievements, etc.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Drupal User Group Meet-ups
@@ -245,13 +253,19 @@ Johannesburg
     * Initial discussion to assist with topical matters at meet-up if it will help. May help the CT meetups too.
 * Reporters needed (for our newsletter)
 
-Lee reports:
+Lee reports: 
+* I dont know if we can use Ivan's equipment, it died after 2 hours, and then the recording went missing. Lee will investigate better options, and physically setup a process to record the session.
 
-Ivan reports:
+Ivan reports: Not in attendance
 
-Notes:
+Notes: 
+* Previous Drupal meetup had live presentations, these should be discouraged. Slideshows are preferred and keep people more entertained and provide some interactivity, without having delays and wasting. Small, short demonstrations that are smooth and concise can be added to the presentation.
+* Short talks are better than Long talks.
+* Provide a form on the website for people to submit talks to DASA so they can be pinged for when we need talks. Or for people to ask for talks they would like to hear. Look at ways of exposing this info and allowing voting systems to float topics to the top.
+* We want to try produce a schedule for the year/upcoming months, that way users have an idea of the outcome of a specific meeting.
+* TODO: Think about how provide this service, and discuss at the next DASA meeting.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Cape Town
@@ -267,11 +281,16 @@ In Future:
 * Robin is communications officer for meet-ups
 * JHB should try to visit at least quarterly, who will go in 3rd quarter 2014?
 
-Robin reports:
+Robin reports: Not in attendance.
 
 Notes:
+* Attendance was great. About 20 people were there. Very diverse crowd.
+* Presentations centered about the new meetup and questions about how to run and setup a meetup.
+* Some people need an Enterprise Workflow with Features and GIT, they will need a representative from JHB at some time.
+* Next meetup on the 25th June. 
+* Lee is happy to go talk about Varnish, MemCache and Drupal Performance.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Durban
@@ -279,17 +298,17 @@ Durban
 *≈ 15 min*
 
 * Planned to start in 2015
-* At least two CT attendees offered to come to Durban, with two from JHB too, we just need to build a contact list for Durban.
+* At least two CT attendees offered to come to Durban, with two from JHB as well, we just need to build a contact list for Durban.
 * Lance and Riaan will collect contacts of people that may want to attend, including https://groups.drupal.org/node/300318#comment-1011258 OllieB. We'll be looking for a good host there.
 * Perhaps an early meetup.com account with a very early 2nd Wednesday fo the month date for Feb 2015 published to gather attendees so long?
 
-Riaan: Created an internal Google Doc on DASA space (people's personal contact details) to keep initial Durban contacts, added Mark so long. Sahred with Lance so he can also add people.
+Riaan: Created an internal Google Doc on DASA space (people's personal contact details) to keep initial Durban contacts, added Mark so long. Shared with Lance so he can also add people.
 
 Riaan, Lance and Robin reports: No feedback
 
-Notes:
+Notes: None
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Other
@@ -303,7 +322,7 @@ Review
 
 Notes: Awaiting Durban success.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Business Topics
@@ -313,6 +332,10 @@ Business Topics
 * Look at business discussions at meetups: How to cost projects, project management, learning management and training, etc
 * Also requested in Cape Town
 
+
+Notes: As above, this will be discussed at the next association meeting.
+
+Completed / Agreed: ✔
 
 DrupalCamp 2014/5?
 ------------------
@@ -329,15 +352,16 @@ Freda to liaise with Monique and coordinate with Adam to make direct contact wit
 
 Robin with early estimates and planning work reports: Robin will create a GitHub issue with information gathered about Venues, Displays, Recording, Catering, Accommodation, etc.
 
-Freda and Adam reports: Will follow up during the month and provide feedback next month.
+Freda and Adam reports: Adam got hold of Monique, and they are unclear of what the expectation from the University is. They wanted to know if we could recommend a speaker, to present at a conference with Wordpress, Drupal and other platforms (web-dev conference). 
 
-Ivan reports on any interest from UJ:
+Ivan reports on any interest from UJ: Not in attendance.
 
 Notes:
-
+* Setup a plan. Riaan will then distribute via mailing list. Everyone to comment on thoughts, ideas and changes.
+* Riaan to visit Business Connextion (Adams venue)
 * Next Steps: Find Speakers (Innovation Hub, Business People, Developers, Drupal 8?) etc
 
-Completed / Agreed:  ✔ / ✘
+Completed / Agreed:  ✔
 
 
 
@@ -362,7 +386,9 @@ Riaan: This [BlackTie Spot Agency](http://www.blacktie.co/2013/10/spot-freelance
 
 Notes: Make a final decision on the platform to use. General favour leans towards using a Drupal system. We will have a final vote at the June meeting. Leaving discussion open for Ivan to tackle the Jekkyl issue if he would like.
 
-Completed / Agreed: ✔ / ✘
+* No decision has been made yet. All members of the board MUST be present to have a discussion and make a decision on the matter. If the meeting must be moved to accommodate this, then that will need to happen.
+
+Completed / Agreed: ✔
 
 
 Any Other Business
@@ -372,5 +398,7 @@ Any Other Business
 Anything arising at the meeting or not on the agenda. Go around the table asking each attendee if they have any other business they want to address.
 
 Notes:
+* We need to start considering advertising options. 
+* Can we ask Robin to start looking at a fullpage ad that exposes PC Format/.net magazine readers to Drupal JHB, CPT, DBN meetups.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
