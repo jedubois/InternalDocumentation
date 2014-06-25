@@ -385,21 +385,28 @@ DrupalCamp 2014/5?
 
 Tasks:
 
-* Riaan to visit Business Connection to see the venue.
+* Riaan to visit Business Connection to see the venue. ✔
 * Riaan to draw up a speculative schedule and dates to circulate to core@ for
-  contributions and refinement.
+  contributions and refinement. ✔ / ✘
 * Everyone: Comment critically on the speculative schedule adding thoughts and
-  ideas.
-* Lee: Feedback from H4H (Schalk).
+  ideas. ✔ / ✘
+* Lee: Feedback from H4H (Schalk). ✔ / ✘
 
 Tasks (later):
 
-* Consider keynote speakers (local and international).
-* Contact Monique, Ivan etc. for potential sponsors (NWU, UJ).
+* Consider keynote speakers (local and international). ✔ / ✘
+* Contact Monique, Ivan etc. for potential sponsors (NWU, UJ). ✔ / ✘
 * Build on Robin's first estimates for costs (Venues, Displays, Recording,
-  Catering, Accommodation, Travel).
+  Catering, Accommodation, Travel). ✔ / ✘
 * Can we sponsor or subsidize travel for a few from CT/DBN. Speakers?
-* Should we have an attendance fee?
+   ✔ / ✘
+* Should we have an attendance fee? ✔ / ✘
+
+Riaan reports: Visited Adam at Business Connection on Wed 25 Jun. Venue is
+perfect and includes AV equipped Auditorium for 250, 2 medium boardrooms ideal
+for BoF sessions (≈ 10 seated and 20 standing), 2 smaller boardrooms, ample safe
+parking, careering facilities with good food and loads of space for the hallway
+track.
 
 Notes:
 
@@ -466,9 +473,12 @@ Tasks:
   local community enticing new developers to pick Drupal as a career path, web
   shops to consider Drupal as a focus etc. and promoting the national meet-ups.
   ✔ / ✘
-* Riaan to get some pricing for ads in PC Format. ✔ / ✘
+* Riaan to get some pricing for ads in PC Format. ✔
 * Everyone to consider their information sources of preference for additional
   options to advertise through. ✔ / ✘
+
+Riaan reports: PC Format will stop local publication. Stuff rate for full page
+is R 29 700. Also consider Google Ads.
 
 Notes:
 
