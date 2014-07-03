@@ -23,6 +23,7 @@ Wednesday evening 16 July 2014.
     Freda Browne       ✔ / ✘
     Monique Afonso     ✔ / ✘
     Ilsoda Musa        ✔ / ✘
+    Lauro Scott-Parkin ✔ / ✘
 
 Apologies:
 
@@ -483,6 +484,24 @@ is R 29 700. Also consider Google Ads.
 Notes:
 
 Completed / Agreed: ✔ / ✘
+
+Small Business Interests
+------------------------
+*≈ 20 min*
+
+Lauro presents a new service DASA may be able to help small business Drupal
+shops with that may have a greater supporting effect for the rest of the Drupal
+community too. Our first community requested service may deal with supporting
+Drupal shops on how address non-performing clients. In this first example the
+non-performing client appears to be a serial problem that affected several
+Drupal shops already.
+
+Lauro reports:
+
+Notes:
+
+Completed / Agreed: ✔ / ✘
+
 
 Any Other Business
 ------------------
