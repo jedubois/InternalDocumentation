@@ -1,7 +1,7 @@
 Drupal Association South Africa
 ===============================
 
-Agenda 2014-06-18
+Agenda 2014-07-16
 -----------------
 
 Attending / Apologies
