@@ -200,8 +200,8 @@ Tasks:
 
 * Riaan to contact Ivan urgently, before the next meeting to ensure this is done
   as soon as possible so that we have this in place for sign-ups and the
-  upcoming DASA elections. ✔ / ✘
-* Ivan to sign up for a MailChimp account and set it up. ✔ / ✘
+  upcoming DASA elections. ✔
+* Ivan to sign up for a MailChimp account and set it up. ✔
 * Robin to author the newsletter as the mail-chimp guru & communications
   officer. ✔ / ✘
 * Unassigned:
@@ -242,7 +242,7 @@ Governing Board Elections
     *  19 November:   New Board
         * Thank old board
         * Assign portfolios
-        * Review [Constitutionn](https://docs.google.com/document/d/1DYY133KEg320wm4mIIBMDMd8f31LpndEimysmFUe6oU) and confirm duties
+        * Review [Constitution](https://docs.google.com/document/d/1DYY133KEg320wm4mIIBMDMd8f31LpndEimysmFUe6oU) and confirm duties
     * <31 October:   Publish results
     *  24 October:   Close voting
     *   1 October:   Open voting
@@ -380,8 +380,8 @@ Notes:
 Completed / Agreed: ✔ / ✘
 
 
-DrupalCamp 2014/5?
-------------------
+DrupalCamp 2015
+---------------
 *≈ 20 min*
 
 Tasks:
