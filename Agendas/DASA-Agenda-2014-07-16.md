@@ -345,7 +345,11 @@ Tasks:
   the list so far. ✔ / ✘
 * Robin (once we agree on the date) to create a meetup.com group with the date
   so that we can collect attendees in the mean time. ✔ / ✘
-* Riaan to request contact details for those interested on GDoSA. ✔ / ✘
+* Riaan to request contact details for those interested on GDoSA. ✔
+
+Riaan reports: GDoSA post didn't get the meetup.com group any new members. I
+compiled a list of 30 Durban webshops that we can invite to the meetup. Anyone
+up for a couple of cold call invitations.
 
 Notes:
 
@@ -388,7 +392,7 @@ Tasks:
 
 * Riaan to visit Business Connection to see the venue. ✔
 * Riaan to draw up a speculative schedule and dates to circulate to core@ for
-  contributions and refinement. ✔ / ✘
+  contributions and refinement. ✔
 * Everyone: Comment critically on the speculative schedule adding thoughts and
   ideas. ✔ / ✘
 * Lee: Feedback from H4H (Schalk). ✔ / ✘
@@ -408,6 +412,11 @@ perfect and includes AV equipped Auditorium for 250, 2 medium boardrooms ideal
 for BoF sessions (≈ 10 seated and 20 standing), 2 smaller boardrooms, ample safe
 parking, careering facilities with good food and loads of space for the hallway
 track.
+
+Riaan reports: Drew up the speculative schedule, but it would appear to be a lot
+more work than can be covered at the existing DASA meetings and may involve more
+or different people. Perhaps we can arrange another Wednesday of the month for
+DrupalCamp planning?
 
 Notes:
 
