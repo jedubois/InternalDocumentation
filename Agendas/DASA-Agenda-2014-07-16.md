@@ -12,24 +12,24 @@ Wednesday evening 16 July 2014.
 
     Person   Attending ✔ / ✘ Apologies
     ==================================
-    Greg McKeen        ✔ / ✘
-    Lancelot Nyachoto  ✔ / ✘
-    Riaan Burger       ✔ / ✘
-    Adam Dunn          ✔ / ✘
-    Ivan Breet         ✔ / ✘
-    Robin Prieschl     ✔ / ✘
-    Lee Taylor         ✔ / ✘
-    Richard Banks      ✔ / ✘
-    Freda Browne       ✔ / ✘
-    Monique Afonso     ✔ / ✘
-    Ilsoda Musa        ✔ / ✘
-    Lauro Scott-Parkin ✔ / ✘
+    Greg McKeen        ✔
+    Lancelot Nyachoto  ✔ (arrived late)
+    Riaan Burger       ✔
+    Adam Dunn          ✔
+    Ivan Breet         ✔
+    Robin Prieschl     ✘
+    Lee Taylor         ✔
+    Richard Banks      ✘
+    Freda Browne       ✔
+    Monique Afonso     ✘
+    Ilsoda Musa        ✘
+    Lauro Scott-Parkin ✘
 
-Apologies:
+Apologies: Robin
 
-Quorum achieved: ✔ / ✘
+Quorum achieved: ✔
 
-Notes:
+Notes: Meeting started at 6:30pm
 
 Completed / Agreed: ✔ / ✘
 
@@ -37,11 +37,11 @@ Confirm Next Meeting
 --------------------
 *≈ 2 min*
 
-Wednesday 16 August 2014 (third Wednesday of August).
+Wednesday 20 August 2014 (third Wednesday of August).
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Medium-Term Stable Items
@@ -61,11 +61,11 @@ Review:
 Tasks:
 
 * Riaan to speak to Robin about making use of the new localized national logos
-  for the meetup.com groups. ✔ / ✘
+  for the meetup.com groups. ✔
 
-Notes:
+Notes: Jason through Robin will work on the CI for the local meetups (PTA, DBN, CPT, JHB). 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Accounting
@@ -90,7 +90,7 @@ Tasks:
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 E-mail and Distributions List
@@ -119,6 +119,8 @@ List of the names (not e-mail addresses) of people on:
     * Core
     * Freda
     * Richard
+    * Mark (recently added)
+    * Jason (to be added) (email to be supplied by Robin)
 
 *  git@dasa.org.za:
 
@@ -134,11 +136,11 @@ List of the names (not e-mail addresses) of people on:
 
 Tasks:
 
-* Lee to keep up to date: ✔ / ✘
+* Lee to keep up to date: ✔
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DASA Shared Calendar
@@ -157,10 +159,11 @@ Review
 
 Tasks:
 
+* Adam and Lee to keep up to date: ✔
 * After website is up: Add links to the calendar to the website. ✔ / ✘
-* Adam and Lee to keep up to date: ✔ / ✘
+* Next meetup: Lee to provide the link ✔ / ✘
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DASA CI
@@ -174,11 +177,11 @@ Tasks:
 * Robin: Ensure there is localization of the logos for each national region.
 * Robin: Review the font and report on licensing costs if needed.
 
-Robin Reports:
+Robin Reports: Font and Licencing to be checked at the next meetup.
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Current Attention Items
@@ -206,7 +209,7 @@ Tasks:
   upcoming DASA elections. ✔
 * Ivan to sign up for a MailChimp account and set it up. ✔
 * Robin to author the newsletter as the mail-chimp guru & communications
-  officer. ✔ / ✘
+  officer. ✔
 * Unassigned:
   * Post an article on groups.drupal.org to explain reasons to subscribe to the
     newsletter:
@@ -214,13 +217,9 @@ Tasks:
     * Keep abreast with community news, and meet-up dates
     * Describe frequency of e-mails
 
-Ivan reports:
-
-Robin reports:
-
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Governing Board Elections
@@ -260,12 +259,13 @@ Tasks:
 * Riaan (once we have a website): Add a "Can I vote?" widget to the website
   which will simply check if the submitter's Drupal.org username is subscribed
   to the GDoSA group and recommend they do if not. ✔ / ✘
-* Unassigned: Ensure we send out the current board and attendees' profiles as
+* Freda: Ensure we send out the current board and attendees' profiles as
   part of the pre-elections information campaign. ✔ / ✘
+* Greg: Create a How-To Template for Future Elections. Have this available for adjustment throughout the election season.
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Drupal User Group Meet-ups
@@ -294,19 +294,23 @@ Topics:
 
 Tasks:
 
-* Lee reports on ongoing efforts to better our video casting. ✔ / ✘
+* Lee reports on ongoing efforts to better our video casting. ✔
 * Ivan reports on general status and requirements for the Johanneburg meet-up.
-  ✔ / ✘
+  ✔
 * Greg (once we have a website): Provide a form on the website for people to
   submit talks to DASA so they can be pinged for when we need talks. Or for
   people to ask for talks they would like to hear. Look at ways of exposing this
   info and allowing voting systems to float topics to the top. ✔ / ✘
-* Everyone: To consider how we can provide these services so that we can
+* (?) Everyone: To consider how we can provide these services so that we can
   discuss it more thoroughly at this meeting. ✔ / ✘
 
-Notes:
 
-Completed / Agreed: ✔ / ✘
+Notes:
+* Lee: Attempted a netbook at the last meeting. It struggled. We need another, better notebook. Lee has a secondhand one he will try at the next meetup. 
+* Ivan: Offices have moved to a new venue. Next meetup will require some organisation to get a new boardroom in the new office, and find extra chairs. If the meetups get bigger than 25/30, a new venue will be required. Currently there is a decent turnout, people are happy. 
+* Consider if the need exists to split events and have an advanced and novice session. It was suggested to have Wednesday evening as Advanced, and announce a beginners one on the weekend where workshops are held, etc. 
+
+Completed / Agreed: ✔
 
 
 Cape Town
@@ -320,17 +324,18 @@ Cape Town
 Tasks:
 
 * Robin reports on general status and requirements as supplied by Jason from
-  Cape Town for the Cape Town meet-up. ✔ / ✘
+  Cape Town for the Cape Town meet-up. ✔
 * Robin (once MailChimp is up) continue to support through the newsletter.
-  ✔ / ✘
+  ✔
 * Everyone: Consider a new date for one or more of us to go to Cape Town.
   Possible five dates: 24 July, 27 August, 24 September (Holiday, so may change),
   22 October, 26 November.
 * Lee: Can go talk about performance, Varnish, MemCache and Drupal.
 
 Notes:
+* Adam would like to congratulate the guys who helped start the Cape Town meetup again.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Durban
@@ -345,7 +350,7 @@ Tasks:
 
 * Riaan and Lance maintains a list of potential attendees on a DASA Google Doc
   kept there because it contains people's personal details. Only one person on
-  the list so far. ✔ / ✘
+  the list so far. ✔
 * Robin (once we agree on the date) to create a meetup.com group with the date
   so that we can collect attendees in the mean time. ✔ / ✘
 * Riaan to request contact details for those interested on GDoSA. ✔
@@ -354,9 +359,9 @@ Riaan reports: GDoSA post didn't get the meetup.com group any new members. I
 compiled a list of 30 Durban webshops that we can invite to the meetup. Anyone
 up for a couple of cold call invitations.
 
-Notes:
+Notes: Happy to phone some people.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Other
@@ -369,9 +374,13 @@ Review
 * Once Durban is up, we'll ping the network for demand to determine other
   locations.
 
+Tasks:
+
+* Lance will speak to his team in Windhoek to find about what their interest is, how strong their community ties are, and if they have an extended network.
+
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Business Topics
@@ -382,9 +391,13 @@ Business Topics
   management, learning management and training, etc
 * Also requested in Cape Town
 
+Tasks:
+
+* Greg will do a quick talk on "How to cost projects"
+
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DrupalCamp 2015
@@ -397,7 +410,7 @@ Tasks:
 * Riaan to draw up a speculative schedule and dates to circulate to core@ for
   contributions and refinement. ✔
 * Everyone: Comment critically on the speculative schedule adding thoughts and
-  ideas. ✔ / ✘
+  ideas. ✔
 * Lee: Feedback from H4H (Schalk). ✔ / ✘
 
 Tasks (later):
@@ -409,6 +422,7 @@ Tasks (later):
 * Can we sponsor or subsidize travel for a few from CT/DBN. Speakers?
    ✔ / ✘
 * Should we have an attendance fee? ✔ / ✘
+* Generate some CI documents with DrupalCamp info for presentation to sponsorships and other companies/media, etc.
 
 Riaan reports: Visited Adam at Business Connection on Wed 25 Jun. Venue is
 perfect and includes AV equipped Auditorium for 250, 2 medium boardrooms ideal
@@ -422,6 +436,7 @@ or different people. Perhaps we can arrange another Wednesday of the month for
 DrupalCamp planning?
 
 Notes:
+* Adam suggests having BCX speak about Cloud services, perhaps with Drupal sites.
 
 Completed / Agreed: ✔ / ✘
 
@@ -464,15 +479,18 @@ even indents. I think we'll need at least one of the following:
   have a discussion and make a decision on the matter. If the meeting must be
   moved to accommodate this, then that will need to happen.
 
-To Add (one we have a website):
+To Add (once we have a website):
 
 * For mid-term membership upgrade the new memberships are issued for another
   year, credited by the remaining value from the previous membership.
 * MailChimp: Add widgets: http://connect.mailchimp.com
 
 Notes:
+* Decision taken to stick with Jekyll
+* Robin will design
+* Riaan will build
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Advertising
@@ -488,14 +506,19 @@ Tasks:
   ✔ / ✘
 * Riaan to get some pricing for ads in PC Format. ✔
 * Everyone to consider their information sources of preference for additional
-  options to advertise through. ✔ / ✘
+  options to advertise through. ✔
 
 Riaan reports: PC Format will stop local publication. Stuff rate for full page
 is R 29 700. Also consider Google Ads.
+Ivan reports: Robin isn't happy with a full-page spread. Target market may be missed, etc.
 
 Notes:
+* Student Radio / Student Gazettes
+* 702
+* Midrand Radio
+* Provide detail on the website when ads are running, talks, etc.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 Small Business Interests
 ------------------------
@@ -508,11 +531,13 @@ Drupal shops on how address non-performing clients. In this first example the
 non-performing client appears to be a serial problem that affected several
 Drupal shops already.
 
-Lauro reports:
+Lauro reports: Lauro did not attend this meetup. 
 
 Notes:
+* Provide a How-To somewhere on firing clients and client selection and management, evaluating value, rights and responsibilities.
+* Consider long term impact of the tax bad clients have on the community.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Any Other Business
@@ -524,5 +549,6 @@ Any Other Business
   want to address.
 
 Notes:
+* Freda to plan with Riaan around the DrupalCamp
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
