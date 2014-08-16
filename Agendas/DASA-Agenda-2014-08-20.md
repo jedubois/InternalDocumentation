@@ -86,7 +86,7 @@ Tasks:
 
 Notes:
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 
 E-mail and Distributions List
@@ -270,7 +270,8 @@ Topics:
 Tasks:
 
 * Lee reports on ongoing efforts to better our video casting. ✔ / ✘
-* Riaan reports on whether he obtained a box that can be used for video. ✔ / ✘
+* Riaan reports on whether he obtained a box that can be used for video.
+  He did not ✘
 * Ivan reports on status and requirements for the Johannesburg meet-up. ✔ / ✘
 
 Notes:
@@ -318,7 +319,7 @@ Durban
 
 Tasks:
 
-* Riaan: Create the meetup.com event meet-end-greet when date and place is
+* Riaan: Create the meetup.com event meet-and-greet when date and place is
   confirmed. ✔ / ✘
 * Riaan: Create boilerplate contact information for the meet-and-greet. ✔ / ✘
 * Riaan: Get the list of 30+ web companies to Freda who will coordinate people
@@ -362,7 +363,7 @@ Business Topics at Meetups
 
 Tasks:
 
-* Greg: Will do a quick talk on "How to cost projects".
+* Greg: Will do a quick talk on "How to cost projects". ✔
 
 Notes:
 
@@ -375,10 +376,14 @@ dasa.org.za Website
 
 Tasks:
 
-Robin: Send designs to Riaan.
-Riaan: Implement a Jekyll website.
+* Riaan: Update gulp with new setup.
+* Ivan: Please review Riaan's setup critically.
+* Robin: Continued theme upgrades.
+* Everyone: Fork and help update and expand. We also probably should pursue
+  helping specific people learn how to update the site. Identify those that may
+  have a need to, like Jason in CT and Adam as our secretary.
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 
 Advertising
@@ -414,6 +419,7 @@ GDoSA Maintenance
 *≈ 15 min*
 
 Tasks:
+
 * Riaan: Once the website is up, update the Wiki with reference links to the
   DASA website.
 
@@ -422,38 +428,342 @@ Notes:
 Completed / Agreed: ✔ / ✘
 
 
-DrupalCamp 2015
-===============
-*≈ 20 min*
+DCJHB'15
+========
 
-* We need an early, firm date to book speakers and secure the venue.
+Venue
+-----
+*≈ 5 min*
 
-**Riaan: From here down I still need to integrate the DrupalCamp planning into
-this agenda.**
-
-Tasks (later):
-
-* Consider keynote speakers (local and international). ✔ / ✘
-* Contact Monique, Ivan etc. for potential sponsors (NWU, UJ). ✔ / ✘
-* Build on Robin's first estimates for costs (Venues, Displays, Recording,
-  Catering, Accommodation, Travel). ✔ / ✘
-* Can we sponsor or subsidize travel for a few from CT/DBN. Speakers?
-   ✔ / ✘
-* Should we have an attendance fee? ✔ / ✘
-* Generate some CI documents with DrupalCamp info for presentation to sponsorships and other companies/media, etc.
-
-Riaan reports: Visited Adam at Business Connection on Wed 25 Jun. Venue is
+Once we have a firm date we can confirm Business Connection, Midrand. Venue is
 perfect and includes AV equipped Auditorium for 250, 2 medium boardrooms ideal
 for BoF sessions (≈ 10 seated and 20 standing), 2 smaller boardrooms, ample safe
-parking, careering facilities with good food and loads of space for the hallway
+parking, catering facilities with good food and loads of space for the hallway
 track.
 
-Riaan reports: Drew up the speculative schedule, but it would appear to be a lot
-more work than can be covered at the existing DASA meetings and may involve more
-or different people. Perhaps we can arrange another Wednesday of the month for
-DrupalCamp planning?
+
+Dates & Times
+-------------
+*≈ 30 min*
+
+### Dates
+
+* Should we do two (CT and JHB) or one camp per year alternating cities?
+* We need an early, firm date to book speakers and secure the venue.\
+* The earlier suggested date of **Saturday the 7th of March** may be too early
+  if we cannot:
+  * devote more time in-between meetings to discuss and execute on stuff
+    virtually,
+  * have a dedicated additional Wednesday meeting per month for DCJ and/or
+  * bring additional portfolio holders and/or volunteers on board.
+* It is a great date though! So perhaps we should postpone anything that can
+  hold up the time frames for DCJHB to the DCCT. By March students are nicely
+  back to work, the year is in full swing and people don't remember the
+  financial drain that the December holidays caused, but are still inspired to
+  find new opportunities to more the next December more affordable, it's after
+  April's holidays and it's not all that cold yet.
+
+Tasks:
+
+* Decide on frequency.
+* Decide on how we want to plan planning.
+* Decide on whether we should have a planning committee.
+* Decide on a date or a date to decide on a date.
+* Write actionable tasks here for specific people if needed.
 
 Notes:
-* Adam suggests having BCX speak about Cloud services, perhaps with Drupal sites.
+
+Completed / Agreed: ✔ / ✘
+
+### Times
+
+I've attended a few conferences of late and they all do start indecently early
+without the lack of attendance due to the early time that I expected. So perhaps
+it may be a good idea to start earlier than this suggested programme:
+
+Schedule
+
+    (AU) Auditorium (250 people seated, maybe another 50-80 standing)
+    (B1) Boardroom 1 (10 seated, maybe 15-25 standing)
+    (B2) Boardroom 2 (10 seated, maybe 5-8 standing)
+         Unconfirmed Classrooms (30 seated, maybe 10-15 standing)
+    (HT) Hallway Track
+    (GZ) Gazebo
+
+Topical Matters:
+
+    (B) Business
+    (F) Front End
+    (O) DevOps
+    (D) Development
+    (I) Implementation
+    (-) Other (Keynote, Community, Drupal 8, Closing / Group Photo)
+
+* Fill up for 15min, speak for 45min.
+
+Stagger topics so that there's something to stay for for everyone, maybe we can
+start an hour earlier?:
+
+    11:00   AU:- (Keynote)
+    12:00   AU:B   B1:F   B2:O
+    13:00   AU:F   B1:O   B2:D
+    14:00   Lunch
+    15:00   AU:O   B1:D   B2:I
+    16:00   AU:D   B1:I   B2:-
+    17:00   AU:I   B1:-   B2:B
+    18:00   AU:- (Closing followed by Group Photo)
+
+    19:00 / 20:00
+    After Party with speakers, say at Cobblestones Monte.
+
+* If we have some shorter talks that match, say Sass and Less ones or Grunt and
+  Gulp ones, we can bundle them in an hour with two speakers.
+* A business show-and-tell may work well with one presenter inviting several
+  speakers to each give a 10min talk.
+* Boardrooms can be used for Birds of a Feather when speakers are not available
+  and can also function like more topic-specific guided conversations similar to
+  meet-ups.
+
+If attendance is low, the hallway track won't be as happening as some
+DrupalCamps, if attendance is high even the keynote will be skipped by many and
+only watched afterwards on downloads or if shown on screens in the hallways. We
+can therefore probably accommodate 300 to 400 people and in a pinch even 500.
+From my DrupalCon and even nightclubs experience, more than half the people
+don't partake at any one time in the actual presentations (or live bands) and
+prefer to communicate in the hallways and on the lawns. This is more true for
+well-attended events with more opportunity interpersonal connections.
+
+Tasks:
+
+* Discuss the proposed schedule and make notes on discussion.
+* Assign early talks or people we know we can invite to talk as tasks.
+* Write actionable tasks here for specific people if needed.
+
+Notes:
+
+Completed / Agreed: ✔ / ✘
+
+
+Speakers
+--------
+*≈ 15 min*
+
+* Promote national representation by considering sponsored travel for people not
+  from Johannesburg. Identify and invite people from at least also Cape Town and
+  Durban.
+* While open voted-for sessions may be an ideal, it may be too administratively
+  onerous... perhaps for the DCJHB'15 we should invite generally, consider such
+  submissions and also invite specifically.
+* We should urge speakers to prepare off-line slides and ideally, GitHub based
+  JS slides that we will make off-line copies of. On the day the internet isn't
+  likely to be fast.
+
+Speakers:
+
+* Adam suggests having BCX speak about Cloud services, perhaps with Drupal sites
+  which will require an assigned experienced Drupal user from us to advise them.
+
+Tasks:
+
+* Riaan to contact a few international luminaries for tentative talks once we're
+  okay with our website.
+
+Notes:
+
+Completed / Agreed: ✔ / ✘
+
+
+Promotion / Advertising
+-----------------------
+*≈ 15 min*
+
+* Magazine advertising is expensive; May be best to target people with Google
+  advertising if we do advertise.
+
+Sponsored Attendance
+
+* Sending one or two sponsored tickets to schools with IT departments will
+  definitely fill us up nicely with the top IT students also fulfilling our
+  mandate to promote Drupal. We'll have to cover the cost of catering.
+* Similarly, sponsoring universities with some free attendance for students will
+  add more interested and skilled new attendees to introduce to Drupal.
+* Sponsorships can help and attendance ticket prices can be set at the cost for
+  catering for two or 2.5 people thus covering the cost for sponsored
+  attendance.
+* Such sponsorship will be much more direct, targeted and effective in terms of
+  marketing.
+
+Tasks:
+
+* Robin to make some nice DASA CI for tickets, printables etc.
+* Write actionable tasks here for specific people as needed.
+
+Notes:
+
+Completed / Agreed: ✔ / ✘
+
+
+Sponsorship
+-----------
+*≈ 25 min*
+
+Based on discussions in the past on GDoSA, we should try not to leave anyone out
+or focus on a single sponsor. With that in mind, perhaps this will be a good
+structure:
+
+Up to 5 Primary/**Platinum** sponsors: R 50 000 / sponsor
+
+* Comes with 12 free tickets
+* Opportunity for universities and enterprise Drupal users
+* Allowance for one on stage far-on-the-sides roller-banner at own cost
+* Allowance for one curved wall banner at entrance at own cost
+* Allowance for four sharkfins outside at own cost
+* Printed sponsorship logo (larger) on front of programme
+* May place printed advertorial material at entrance (front row)
+* May place any amount of printed material and stickers in the conference bag
+* May co-brand (with DASA CI) additional sponsored corporate gifts numbering 500
+  or more pens, USB sticks, T-shirts, badges, stickers, keyrings
+* One free first choice of hour of the Jobs Gazebo
+* Banners and fins to show DASA/DrupalCamp CI over 10% of presentation space
+
+Any number of Secondary/**Gold** sponsors: R 8 000 / sponsor
+
+* Comes with 4 free tickets
+* Allowance for one roller-banner at entrance at own cost
+* Allowance for one sharkfin outside at own cost
+* Banners and fins to show DASA/DrupalCamp CI over 10% of presentation space
+* May place printed advertorial material at entrance (second row)
+* May place one printed A4 and one sticker in the conference bag
+* R 2 000 less for second choice of hour of the Jobs Gazebo
+* Printed sponsorship logo (medium) on back of programme
+
+Any number of Tertiary/**Bronze** sponsors: R 1 500 / sponsor
+
+* Printed name (smaller) on back of programme
+* May place a printed A5 advertorial material at entrance (last row)
+* Comes with 1 free ticket
+
+**Individual** top sponsors: R 500
+
+* Name and link (to GDo profile) on web only (listed first)
+
+**Individual** supporting sponsors: R 350
+
+* Name and link (to GDo profile) on web only (listed second)
+
+Jobs gazebo for employers looking for staff to talk and meet job seekers.
+
+* R 15 000 for an hour booking if available.
+* Anything can be handed out here.
+* Will be outside by the entrance if not raining, inside if raining.
+* 3x3m DASA-branded Gazebo
+* If the Gazebo is fully booked, we can always get a second one ;-) or:
+  * Own Gazebo with 10% space co-branded with DASA for the full day: R 30 000 -
+    cost of Gazebo for not included (R 9 000).
+
+DASA governing board members will not take sponsorship slots within the first
+month of sponsorship being promoted and made available to the rest of the
+community. The community comes first.
+
+Unused sponsorship money will go to DASA.
+
+Tasks:
+
+* Write actionable tasks here for specific people as needed.
+
+Notes:
+
+Completed / Agreed: ✔ / ✘
+
+Ticketing
+---------
+*≈ 15 min*
+
+Some early estimates:
+
+* Early bird: R 300 (buy in 2014)
+* Regular: R 400 (buy before end of March)
+* Late: R 500 (before day of event)
+* On the day: R 600 (day of event)
+
+Students can apply for sponsored attendance (if invitations we sent to schools
+and varsities are not taken up).
+
+This will allow us to sell up to 200 tickets and sponsor another 200. Overflow /
+urgent may in a pinch take this up to 500.
+
+Tasks:
+
+* Write actionable tasks here for specific people as needed.
+
+Notes:
+
+Completed / Agreed: ✔ / ✘
+
+Costs
+-----
+*≈ 20 min*
+
+**Note** Very speculative!
+
+* Catering
+  Adam will let us know.
+* Sundries
+  Paper and pens ;-) Yup, we'll need em.
+* Printing
+  * Programmes, notes for speakers that prepare them for us.
+  * Roller Banners (2 x R 1 000)
+  * Sharkfins (6 x R 1 300) (directs people the last mile)
+  * Conference name tags
+  * Gazebo (branded) (1 x R 9 000)
+  * Most of this can be used again.
+* Staff
+  * Volunteers
+    Admin helper may need funding: for example, managing the payments and
+    tickets for up to 500 people isn't light volunteer work.
+    AV guys may need some pay - it can be gruelling.
+    Some others may need some student pocket money - sign in etc.
+* Swag
+  * Stickers (plenty)
+  * Pins
+  * Speaker Pins
+  * T-shirt (maybe sold, not free)
+  * Swag bag (Branded Accentuate Conference Tote) R 35 / bag
+  * Maybe notebook and pen (works great at other conferences).
+* Sponsorhip (travel, food, residence, speaker cost)
+* Advertising
+
+* **We need to bring this together into a budget as early as possible!**
+
+Tasks:
+
+* Write actionable tasks here for specific people as needed.
+
+Notes:
+
+Completed / Agreed: ✔ / ✘
+
+
+General
+-------
+*≈ 20 min*
+
+* We need to think of some big start and big end events, and perhaps swag
+  handouts at those times. This will keep people there for the full experience.
+* If we get a good uptake of valid and enthusiastic students, we may want to try
+  to arrange for the use of the classrooms at the BCX facility. Their
+  availability is by no means assured.
+* Video capture and upload, super fast (need non-Drupal guys to help else the
+  Drupal-guy, likely Lee, will miss some cool shit). Along the same lines, if
+  we're central to the operation and discourse of the day, we need volunteers or
+  paid for students to handle administration so that we can contribute the the
+  actual hall track, eventualities and speakership. We need a cat herder or two
+  for speakers, boardrooms and staff.
+
+Tasks:
+
+* Write actionable tasks here for specific people as needed.
+
+Notes:
 
 Completed / Agreed: ✔ / ✘
