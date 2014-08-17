@@ -84,7 +84,7 @@ Overview:
 
 Tasks:
 
-* Riaan to keep up to date: ✔ / ✘
+* Riaan to keep up to date: ✔
 
 Notes:
 
