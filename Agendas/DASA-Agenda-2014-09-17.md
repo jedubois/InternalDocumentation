@@ -12,22 +12,24 @@ Wednesday evening 17 September 2014.
 
     Person   Attending ✔ / ✘ Apologies
     ==================================
-    Greg McKeen        ✔ / ✘
-    Lancelot Nyachoto  ✔ / ✘
-    Riaan Burger       ✔ / ✘
-    Adam Dunn          ✔ / ✘
-    Ivan Breet         ✔ / ✘
-    Robin Prieschl     ✔ / ✘
-    Lee Taylor         ✔ / ✘
-    Freda Browne       ✔ / ✘
+    Greg McKeen        ✔
+    Lancelot Nyachoto  ✔
+    Riaan Burger       ✔
+    Adam Dunn          ✔ 
+    Ivan Breet         ✔ 
+    Robin Prieschl     ✘
+    Lee Taylor         ✔
+    Freda Browne       ✔
+    Renate Ehlers      ✔
+    Jason Legodi       ✔
 
-Apologies:
+Apologies: Robin has sent his apologies
 
-Quorum achieved: ✔ / ✘
+Quorum achieved: ✔
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 Confirm Next Meeting
 --------------------
@@ -37,7 +39,7 @@ Wednesday 15 October 2014 (third Wednesday of October).
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Medium-Term Stable Items
@@ -56,15 +58,18 @@ Review:
 Tasks:
 
 * Robin (Jason) to provide localized CI for the meet-ups (PTA, DBN, CPT, JHB).
-  ✔ / ✘
+  ✔
 
 Reports:
 
 * Riaan: Meetup.com widgets now on DASA.org.za.
 
 Notes:
+* No need for abbreviations on the logos.
+* Drupal drops with Dark Blue on the outside are best
+* Vote is for the main option 2, the rain instead of the paw.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Accounting
@@ -90,8 +95,10 @@ Tasks:
 * Riaan to keep up to date: ✔
 
 Notes:
+* On the new website is a list of donations. It's a YAML file, so anyone can edit the content.
+* Cape Town needs to provide a list of their donations. TODO: Jason
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 
 E-mail and Distributions List
@@ -138,13 +145,14 @@ List of the names (not e-mail addresses) of people on:
 
 Tasks:
 
-* Lee to keep up to date: ✔ / ✘
-* Robin to provide Lee with Jason's address to be added to contrib@: ✔ / ✘
+* Lee to keep up to date: ✔
+* Robin to provide Lee with Jason's address to be added to contrib@: ✘
 * Can we drop the ci-submissions@ now?
+* Lee to add Renate to the Contrib list. Jason Legodi too.
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DASA Shared Calendar
@@ -153,11 +161,11 @@ DASA Shared Calendar
 
 Tasks:
 
-* Adam and Lee to keep up to date: ✔ / ✘
-* After website is up: Add links to the calendar to the website. ✔ / ✘
-* Next meet-up: Lee to provide the link ✔ / ✘
+* Adam and Lee to keep up to date: ✔
+* After website is up: Add links to the calendar to the website. ✘
+* Next meet-up: Lee to provide the link ✘
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DASA CI
@@ -168,13 +176,14 @@ Any related matters...
 
 Tasks:
 
-* Robin: Review the font and report on licensing costs if needed. ✔ / ✘
+* Robin: Review the font and report on licensing costs if needed. ✘
 
 Robin Reports:
+* No report today. 
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Current Attention Items
@@ -197,8 +206,8 @@ Content:
 
 Tasks:
 
-* Robin to author the newsletter. ✔ / ✘
-* Riaan: Get the MailChimp sign-up page and post to GDoSA. ✔ / ✘
+* Robin to author the newsletter. ✘
+* Riaan: Get the MailChimp sign-up page and post to GDoSA. ✘
   * Post an article on groups.drupal.org to explain reasons to subscribe to the
     newsletter:
     * To be notified about the elections
@@ -207,7 +216,7 @@ Tasks:
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Lost August
@@ -225,8 +234,10 @@ Content:
 * More virtual work.
 
 Notes:
+* We have started using the GitHub issue queues to manage tasks. This will allow people to comment on their tasks and update the team, especially if they cant make the meeting. 
+* We need to work closer to a Google Hangout thing on the meetings to accomodate Capetonians. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Governing Board Elections
@@ -268,15 +279,16 @@ Tasks:
   many such new members do we bring on board?
 * Riaan (once we have a website): Add a "Can I vote?" widget to the website
   which will simply check if the submitter's Drupal.org username is subscribed
-  to the GDoSA group and recommend they do if not. ✔ / ✘
+  to the GDoSA group and recommend they do if not. ✘
 * Freda: Ensure we send out the current board and attendees' profiles as
-  part of the pre-elections information campaign. ✔ / ✘
+  part of the pre-elections information campaign. ✘
 * Greg: Create a How-To Template for Future Elections. Have this available for
-  adjustment throughout the election season. ✔ / ✘
+  adjustment throughout the election season. ✘
 
 Notes:
+* Cut off is 7 board members.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Drupal User Group Meet-ups
@@ -297,14 +309,16 @@ Topics:
 
 Tasks:
 
-* Lee reports on ongoing efforts to better our video casting. ✔ / ✘
+* Lee reports on ongoing efforts to better our video casting. ✘
 * Riaan reports on whether he obtained a box that can be used for video.
   He did not ✘
-* Ivan reports on status and requirements for the Johannesburg meet-up. ✔ / ✘
+* Ivan reports on status and requirements for the Johannesburg meet-up. ✔
 
 Notes:
+* Ivan is happy with the way things are going. Scheduling people, etc.
 
-Completed / Agreed: ✔ / ✘
+
+Completed / Agreed: ✔
 
 
 Cape Town
@@ -320,15 +334,18 @@ Cape Town
 Tasks:
 
 * Robin reports on status and requirements as supplied by Jason from Cape Town
-  for the Cape Town meet-up. ✔ / ✘
+  for the Cape Town meet-up. ✘
 * Robin (once MailChimp is up) continue to support through the newsletter.
-  ✔ / ✘
+  ✔
 * Riaan: Book to go and consider Lee sponsored. Check with Greg and Robin about
   going. ✔
 
 Notes:
+* The newsletter is being handled by Jason (Robotto).
+* Jason Legodi was sent down to Cape Town earlier.
+* We have funds to bring someone up from Cape Town to talk at the JHB meetup.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Durban
@@ -343,20 +360,22 @@ Durban
 Tasks:
 
 * Riaan: Create the meetup.com event meet-and-greet when date and place is
-  confirmed. ✔ / ✘
-* Riaan: Create boilerplate contact information for the meet-and-greet. ✔ / ✘
+  confirmed. ✘
+* Riaan: Create boilerplate contact information for the meet-and-greet. ✘
 * Riaan: Get the list of 30+ web companies to Freda who will coordinate people
-  that may help contacting them. ✔ / ✘
+  that may help contacting them. ✘
 * Freda: Coordinate and contact web companies in Durban for the meet-and-greet.
-  ✔ / ✘
+  ✘
 
 Reports:
 
 * Riaan: Didn't proceed further yet due to August personal commitments.
 
 Notes:
+* 5 people are keen and subscribed to the meetup.com events.
+* Riaan and Ivan to co-ordinate on Durban plans and things.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Other Areas
@@ -373,11 +392,12 @@ Tasks:
 
 * Lance: Will speak to his team in Windhoek to find about what their interest
   is, how strong their community ties are, and if they have an extended network.
-  ✔ / ✘
+  ✘
 
 Notes:
+* Lance reports. Windhoek seems keen but need some convincing. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Business Topics at Meetups
@@ -389,12 +409,12 @@ Business Topics at Meetups
 * Also requested in Cape Town
 
 Tasks:
-
-* Greg: Will do a quick talk on "How to cost projects". ✔
+* Ivan to request a business topic from one of the speakers. 
 
 Notes:
+* Adams lawyer friend is available to talk about patents, contracts, etc.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 dasa.org.za Website
@@ -414,8 +434,9 @@ Tasks:
 Reports:
 
 * Riaan: Current gulp/browser-sync setup is broken (npm dependency problem).
+* Dependency issue has been resolved.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Advertising
@@ -429,10 +450,12 @@ Advertising
 * Turn these into actionable tasks by people.
 
 Tasks:
+* Decide on a direction, and put together a plan.
 
 Notes:
+* Renate has contacts at TuksFM
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Any Other Business
@@ -442,8 +465,9 @@ Any Other Business
 * Anything arising at the meeting or not on the agenda.
 
 Notes:
+* No other business at this time
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 GDoSA Maintenance
@@ -457,7 +481,7 @@ Tasks:
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DCJHB'15
@@ -481,7 +505,7 @@ Dates & Times
 ### Dates
 
 * Should we do two (CT and JHB) or one camp per year alternating cities?
-* We need an early, firm date to book speakers and secure the venue.\
+* We need an early, firm date to book speakers and secure the venue.
 * The earlier suggested date of **Saturday the 7th of March** may be too early
   if we cannot:
   * devote more time in-between meetings to discuss and execute on stuff
@@ -492,7 +516,7 @@ Dates & Times
   hold up the time frames for DCJHB to the DCCT. By March students are nicely
   back to work, the year is in full swing and people don't remember the
   financial drain that the December holidays caused, but are still inspired to
-  find new opportunities to more the next December more affordable, it's after
+  find new opportunities to more the next December more affordable, it's before
   April's holidays and it's not all that cold yet.
 
 Tasks:
@@ -502,6 +526,7 @@ Tasks:
 * Decide on whether we should have a planning committee.
 * Decide on a date or a date to decide on a date.
 * Write actionable tasks here for specific people if needed.
+* Discuss with Cape Town if they are keen to put together a mini-camp. 
 
 Notes:
 
@@ -572,8 +597,9 @@ Tasks:
 * Write actionable tasks here for specific people if needed.
 
 Notes:
+* Adam says we need to be out the venue by 5. Adjust timelines to reflect 9am - 3pm
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Speakers
@@ -592,17 +618,24 @@ Speakers
 
 Speakers:
 
+* General speakers from previous meetups (Ivan, Greg, Riaan, Jason Legodi, Lee, Lancelot)
 * Adam suggests having BCX speak about Cloud services, perhaps with Drupal sites
   which will require an assigned experienced Drupal user from us to advise them.
+* Michael Needhamm (CT)
+* Renate has confirmed her availability to be a speaker
+* Mark Theunisen (Pantheon) (DBN)
+* André Ellis
+* TODO: Cape Town and Durban Speakers
 
 Tasks:
 
 * Riaan to contact a few international luminaries for tentative talks once we're
   okay with our website.
+* Put out a call on G.D.o/SA to ask for speakers to nominate themselves.
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Promotion / Advertising
@@ -611,6 +644,8 @@ Promotion / Advertising
 
 * Magazine advertising is expensive; May be best to target people with Google
   advertising if we do advertise.
+* Radio advertising is also viable. 
+* Attend Linux user-groups, node.js groups, etc.
 
 Sponsored Attendance
 
@@ -628,11 +663,11 @@ Sponsored Attendance
 Tasks:
 
 * Robin to make some nice DASA CI for tickets, printables etc.
-* Write actionable tasks here for specific people as needed.
 
 Notes:
+* Adam will get a menu for catering costs, so that we can work out sponsorship costs, etc.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 
 Sponsorship
@@ -705,7 +740,7 @@ Tasks:
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 Ticketing
 ---------
@@ -714,7 +749,7 @@ Ticketing
 Some early estimates:
 
 * Early bird: R 300 (buy in 2014)
-* Regular: R 400 (buy before end of March)
+* Regular: R 400 (buy before end of Feb)
 * Late: R 500 (before day of event)
 * On the day: R 600 (day of event)
 
@@ -726,7 +761,8 @@ urgent may in a pinch take this up to 500.
 
 Tasks:
 
-* Write actionable tasks here for specific people as needed.
+* Look at quicket to sell tickets for us.
+* Review pricing once we have cost structures.
 
 Notes:
 
@@ -773,7 +809,7 @@ Tasks:
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 General
@@ -789,13 +825,13 @@ General
   Drupal-guy, likely Lee, will miss some cool shit). Along the same lines, if
   we're central to the operation and discourse of the day, we need volunteers or
   paid for students to handle administration so that we can contribute the the
-  actual hall track, eventualities and speakership. We need a cat herder or two
-  for speakers, boardrooms and staff.
+  actual hall track, eventualities and speakership. 
+* We need a cat herder or two for speakers, boardrooms and staff.
 
 Tasks:
 
-* Write actionable tasks here for specific people as needed.
+* Please, everyone, ensure you complete your tasks. Especially for the costs that are required to build an event like this.
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
