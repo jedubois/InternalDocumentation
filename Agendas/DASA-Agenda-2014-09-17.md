@@ -74,8 +74,9 @@ Accounting
 Overview:
 
     Account:, 62446745492
-    Balance:, 3672.00, 3672.00
+    Balance:, 4050.00, 4050.00
 
+    2014/09/11,  -61.00, 4050.00, #MONTHLY ACCOUNT FEE
     2014/08/11,  -61.00, 4111.00, #MONTHLY ACCOUNT FEE
     2014/08/11,  500.00, 4172.00, INTERNET TRF FROM     BURTRONIX DONATION
     2014/07/11,  -61.00, 3672.00, #MONTHLY ACCOUNT FEE
@@ -88,6 +89,8 @@ Overview:
 Tasks:
 
 * Riaan to keep up to date: ✔
+* We can now sign up for individual and company membership.
+* Can we consider making R 100/200 monthly donations?
 
 Notes:
 
