@@ -12,24 +12,25 @@ Wednesday evening 15 October 2014.
 
     Person   Attending ✔ / ✘ Apologies
     ==================================
-    Greg McKeen        ✔ / ✘
-    Lancelot Nyachoto  ✔ / ✘
-    Riaan Burger       ✔ / ✘
-    Adam Dunn          ✔ / ✘
-    Ivan Breet         ✔ / ✘
-    Robin Prieschl     ✔ / ✘
-    Lee Taylor         ✔ / ✘
-    Freda Browne       ✔ / ✘
-    Renate Ehlers      ✔ / ✘
-    Jason Legodi       ✔ / ✘
+    Greg McKeen        ✔ 
+    Lancelot Nyachoto  ✘
+    Riaan Burger       ✘
+    Adam Dunn          ✔
+    Ivan Breet         ✔
+    Robin Prieschl     ✔
+    Lee Taylor         ✔
+    Freda Browne       ✘
+    Renate Ehlers      ✔
+    Jason Legodi       ✘
 
 Apologies:
+* Received from Riaan, Freda and Lancelot who all have the flu. 
 
-Quorum achieved: ✔ / ✘
+Quorum achieved: ✔
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 Confirm Next Meeting
 --------------------
@@ -39,7 +40,7 @@ Wednesday 19 November 2014 (third Wednesday of November).
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Medium-Term Stable Items
@@ -66,13 +67,14 @@ Tasks:
 * Robin (Jason) to provide localized CI for the meet-ups (PTA, DBN, CPT, JHB).
   Still need to upload to our Google Drive in separated PDFs for the rest of us
   to be able to use it.
-  ✔ / ✘
+  ✔
 
 Reports:
+* Revised Logos available at the end of the week: 17th Oct.
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Accounting
@@ -97,12 +99,13 @@ Overview:
 Tasks:
 
 * Riaan to keep up to date: ✔
-* We can now sign up for individual and company membership. ✔ / ✘
-* Can we consider making R 100/200 monthly donations? ✔ / ✘
+* We can now sign up for individual and company membership. ✔
+* Can we consider making R 100/200 monthly donations? ✔
 
 Notes:
+* Depending on peoples ability to donate, they will.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 E-mail and Distributions List
@@ -133,8 +136,8 @@ List of the names (not e-mail addresses) of people on:
     * Freda
     * Richard
     * Mark
-    * Jason (CT)
-    * Jason (CT)
+    * Jason Legodi (CT)
+    * Jason Lewis (CT)
     * Renate
     * Johan (CT)
 
@@ -146,22 +149,19 @@ List of the names (not e-mail addresses) of people on:
 
     * Adam
 
-*  ci-submissions@dasa.org.za:
-
-    * Robin (gmail and robboto)
-
 Tasks:
 
 * Lee to keep up to date: ✔
-* Can we drop the ci-submissions@ now? ✔ / ✘
+* Can we drop the ci-submissions@ now? ✔
 
 Reports:
 
 * Lee: Up to date.
 
 Notes:
+* Lee is unpublishing that account now.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DASA Shared Calendar
@@ -170,11 +170,11 @@ DASA Shared Calendar
 
 Tasks:
 
-* Adam and Lee to keep up to date: ✔ / ✘
+* Adam and Lee to keep up to date: ✔
 * Riaan: Add links to the calendar to the website. ✘
-* Lee: Provide the link ✔ / ✘
+* Lee: Provide the link ✔
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 DASA CI
@@ -185,13 +185,16 @@ Any related matters...
 
 Tasks:
 
-* Robin: Review the font and report on licensing costs if needed. ✔ / ✘
+* Robin: Review the font and report on licensing costs if needed. ✔
 
 Robin Reports:
+* Graphics were created by Robotto who has a licence.
+* Fonts, in plain text format, need to use an Open Source font.
 
 Notes:
+* TODO: Find an open source font - OpenSans is a good one.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Current Attention Items
@@ -214,7 +217,7 @@ Content:
 
 Tasks:
 
-* Robin to author the newsletter. ✔ / ✘
+* Robin to author the newsletter. ✔
   * (who) Post an article on groups.drupal.org to explain reasons to subscribe
     to the newsletter:
     * To be notified about the elections
@@ -227,7 +230,7 @@ Reports:
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 GitHub Issues
@@ -240,7 +243,7 @@ GitHub Issues
   agenda. They have only titles, mostly unintelligible outside of the context of
   the meeting.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Governing Board Elections
@@ -281,8 +284,9 @@ Tasks:
   adjustment throughout the election season. ✔ / ✘
 
 Notes:
+* Everyone has been asked to request that friends/colleagues, etc vote in the elections before next week.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Drupal User Group Meet-ups
@@ -301,14 +305,21 @@ Topics:
 
 Tasks:
 
-* Lee reports on ongoing efforts to better our video casting. ✔ / ✘
-* Ivan reports on status and requirements for the Johannesburg meet-up. ✔ / ✘
+* Lee reports on ongoing efforts to better our video casting. ✔
+* Ivan reports on status and requirements for the Johannesburg meet-up. ✔
 
 Notes:
 * Ivan is happy with the way things are going. Scheduling people, etc.
 
+* Last Meetups Debauchery:
+    * Notifying the community in a press release represents us badly, even if in an open way, no-one will have known outside of the meetup. 
+    * A lot of people don't feel comfortable standing up and announcing their feelings to a group of unknown people.
+    * Alcohol needs to be monitored and kept under control. Meetups are for everyone, and we cannot let a small group of individuals ruin the night for the majority. 
+    * Everyone's opinion matters and should be listened to, and respected. Not belittled in any way.
+    * Interrupting speakers is NOT allowed. Put up your hand, and engage with the speaker when the speaker is ready.
 
-Completed / Agreed: ✔ / ✘
+
+Completed / Agreed: ✔
 
 
 Cape Town
@@ -324,11 +335,11 @@ Cape Town
 Tasks:
 
 * Robin reports on status and requirements as supplied by Jason from Cape Town
-  for the Cape Town meet-up. ✔ / ✘
+  for the Cape Town meet-up. ✔
 * Robin (once MailChimp is up) continue to support through the newsletter.
-  ✔ / ✘
+  ✔
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Durban
@@ -368,12 +379,15 @@ Pretoria
 * Book a selection of speakers from Johannesburg up to three months in advance.
 
 Tasks:
+* Ivan will phone some people at the University to find about a venue
+* Ivan and Renate will coordinate
+* Riaan and Renate to look at dates and which week of the month.
 
 Reports:
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Other Areas
@@ -389,11 +403,11 @@ Review
 Tasks:
 
 * Lance: His team in Windhoek is interested, but will need some enticing help in
-  the new year. ✔ / ✘
+  the new year. ✔
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Adam's Lawyer Friend
@@ -403,10 +417,11 @@ Adam's Lawyer Friend
 * We need more questions for him.
 
 Tasks:
+* First task: Give this guy a name. Ravick van der Merwe.
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 dasa.org.za Website
@@ -421,10 +436,13 @@ Tasks:
 * Everyone: Fork and help update and expand. We also probably should pursue
   helping specific people learn how to update the site. Identify those that may
   have a need to, like Jason in CT and Adam as our secretary.
+* Add a list of past board members.
 
 Reports:
+* Renate will help with Riaans guidance.
+* Greg will help Adam setup GitHub account and subscribe to the DASA organisation.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Advertising
@@ -438,21 +456,12 @@ Advertising
 * Turn these into actionable tasks by people.
 
 Tasks:
+* Setup an ad on Tuks FM when Pretoria meetup is setup.
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
-
-Any Other Business
-------------------
-*≈ 20 min*
-
-* Anything arising at the meeting or not on the agenda.
-
-Notes:
-
-Completed / Agreed: ✔ / ✘
 
 
 GDoSA Maintenance
@@ -465,6 +474,7 @@ Tasks:
   DASA website. I can do with someone taking this up? One of the Jasons?
 
 Notes:
+* Find out from Riaan next time.
 
 Completed / Agreed: ✔ / ✘
 
@@ -494,10 +504,23 @@ Invite Johan from Cape Town
   him for his travels.
 
 Tasks:
+* Votes were cast. 6/7 Yays. Lancelot absent. Andre proxied for Riaan.
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
+
+
+Any Other Business
+------------------
+*≈ 20 min*
+
+* Anything arising at the meeting or not on the agenda.
+
+Notes:
+* Drupal 8 launch party should be be thrown by the JHB organisers in JHB. DASA should have some oversight into the events planning, and drive the party instead of corporate entities specifically having ownership of the event.
+
+Completed / Agreed: ✔
 
 
 DCJHB'15
@@ -507,15 +530,16 @@ Warning
 -------
 *≈ 5 min*
 
-We may not have a December meeting;; Even if we do, it's unlikely that we'll get
+We may not have a December meeting; Even if we do, it's unlikely that we'll get
 much done over December. We didn't get much done since last month. Can we do
 this in time?
 
 Tasks:
 
 Notes:
+* Everyone is in favour of moving the Camp to September/October 2015.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Venue
@@ -531,8 +555,9 @@ track.
 Tasks:
 
 Notes:
+* Business Connexion may not be available, and carries a high risk of being lost as a potential venue. Even if we commit with them, their strategy may change and we may not be able to use them.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 
 Dates & Times
@@ -566,6 +591,7 @@ Tasks:
 * Discuss with Cape Town if they are keen to put together a mini-camp.
 
 Notes:
+* Use the new board to focus on planning the plan.
 
 Completed / Agreed: ✔ / ✘
 
@@ -635,7 +661,7 @@ Tasks:
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 
 Speakers
@@ -699,13 +725,13 @@ Sponsored Attendance
 
 Tasks:
 
-* Robin to make some nice DASA CI for tickets, printables etc. ✔ / ✘
+* Robin to make some nice DASA CI for tickets, printables etc. ✔
 * Adam will get a menu for catering costs, so that we can work out sponsorship
   costs, etc.
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 Sponsorship
@@ -778,7 +804,7 @@ Tasks:
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 Ticketing
 ---------
@@ -804,7 +830,7 @@ Tasks:
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 Costs
 -----
@@ -847,7 +873,7 @@ Tasks:
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 General
@@ -873,4 +899,4 @@ Tasks:
 
 Notes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
