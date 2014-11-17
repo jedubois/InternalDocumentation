@@ -563,7 +563,7 @@ DASA Shared Calendar *Lee / Adam*
 Tasks:
 
 * *Riaan:* Add links to the calendar to the website.
-* *Lee:* Provide the link.
+* *Lee:* [#11](https://github.com/DrupalAssociationSA/InternalDocumentation/issues/11#issuecomment-63364481)
 
 Tasks:
 
