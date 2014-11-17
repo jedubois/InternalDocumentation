@@ -519,11 +519,24 @@ List of the names (not e-mail addresses) of people on:
 
 * core@dasa.org.za:
 
-    * (to be updated by Lee)
+    * Adam
+    * Freda
+    * Jason (L)
+    * Johan
+    * Greg
+    * Riaan
+    * Robin
 
 *  contrib@dasa.org.za:
 
-    * (to be updated by Lee)
+    * Core
+    * Richard
+    * Ivan
+    * Lancelot
+    * Lee
+    * Mark
+    * Jason (M)
+    * Renate
 
 *  git@dasa.org.za:
 
