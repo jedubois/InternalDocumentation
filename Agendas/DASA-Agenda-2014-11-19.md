@@ -120,12 +120,12 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-Discussion: Cape Town Government & Drupal *Johan / N/A*
+Discussion: Western Cape government & Drupal *Johan / N/A*
 -------------------------------------------------------
 *≈ 25 min*
 
-Johan will lead a discussion regarding the Cape Town Government use of Drupal
-and alignment we may find with the work of DASA.
+* Overview of e-Government for Citizens and the use of Drupal by the Western Cape government.
+* How collaboration between DASA and Western Cape government can contribute to a healthy Drupal ecosystem in South Africa.  
 
 Agenda Notes:
 
