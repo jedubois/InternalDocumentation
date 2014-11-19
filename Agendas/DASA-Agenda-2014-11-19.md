@@ -125,7 +125,7 @@ Discussion: Western Cape government & Drupal *Johan / N/A*
 *≈ 25 min*
 
 * Overview of e-Government for Citizens and the use of Drupal by the Western Cape government.
-* How collaboration between DASA and Western Cape government can contribute to a healthy Drupal ecosystem in South Africa.  
+* How collaboration between DASA and Western Cape government can contribute to a healthy Drupal ecosystem in South Africa.
 
 Agenda Notes:
 
@@ -584,6 +584,14 @@ Overview:
     Account:, 62446745492
     Balance:, 4050.00, 4050.00
 
+    2014/11/17,  500.00, 6228.00, INTERNET TRF FROM     BURTRONIX DONATION
+    2014/11/11,  -61.00, 5728.00, #MONTHLY ACCOUNT FEE
+    2014/11/10,  500.00, 5789.00, INTERNET TRF FROM     BURTRONIX DONATION
+    2014/10/13,  150.00, 5289.00, FNB OB PMT            LEENX-INDIVIDUAL MEM
+    2014/10/11,  -61.00, 5139.00, #MONTHLY ACCOUNT FEE
+    2014/10/10,  500.00, 5200.00, INTERNET TRF FROM     BURTRONIX
+    2014/10/09,  500.00, 4700.00, INT-BANKING PMT FRM   ADAM DUNN
+    2014/10/08,  150.00, 4200.00, INT-BANKING PMT FRM   DUBOIS
     2014/09/11,  -61.00, 4050.00, #MONTHLY ACCOUNT FEE
     2014/08/11,  -61.00, 4111.00, #MONTHLY ACCOUNT FEE
     2014/08/11,  500.00, 4172.00, INTERNET TRF FROM     BURTRONIX DONATION
