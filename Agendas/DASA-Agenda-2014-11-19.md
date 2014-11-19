@@ -20,17 +20,17 @@ Wednesday evening 19 November 2014.
 
     Person   Attending ✔ / ✘ Apologies
     ==================================
-    Riaan Burger       ✔ / ✘
-    Greg McKeen        ✔ / ✘
-    Jason Lewis        ✔ / ✘
-    Adam Dunn          ✔ / ✘
-    Robin Prieschl     ✔ / ✘
-    Johan du Bois      ✔ / ✘
-    Freda Browne       ✔ / ✘
-    Lancelot Nyachoto  ✔ / ✘
-    Ivan Breet         ✔ / ✘
-    Lee Taylor         ✔ / ✘
-    Renate Ehlers      ✔ / ✘
+    Riaan Burger       ✔ 
+    Greg McKeen        ✔
+    Jason Lewis        ✘
+    Adam Dunn          ✔
+    Robin Prieschl     ✔
+    Johan du Bois      ✔
+    Freda Browne       ✔
+    Lancelot Nyachoto  ✔
+    Ivan Breet         ✔
+    Lee Taylor         ✔
+    Renate Ehlers      ✔
 
 Quorum achieved: ✔ / ✘
 
@@ -39,8 +39,9 @@ Agenda Notes:
 * *Riaan:* Apologies from Jason (on leave), proxy to Robin.
 
 Minutes:
+* Meeting started at 6:45pm.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -48,15 +49,16 @@ Confirm Next Meeting *Greg / Lance*
 -----------------------------------
 *≈ 2 min*
 
-Wednesday 12 December 2014 (second Wednesday of December).
+Wednesday 10 December 2014 (second Wednesday of December).
 
 Agenda Notes:
 
 * *Riaan:* Moved one Wednesday earlier in the month to allow for the holidays.
 
 Minutes:
+* For those who are not present in JHB for the meetings, join the Hangout as a participant. Lee and Johan to test this.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -85,8 +87,15 @@ Agenda Notes:
 Tasks:
 
 Minutes:
+* Freda has resigned from the Board. Renate, as the next elected person, takes her place on the board.
+* Portfolio
+  * Chairman: Riaan Burger
+  * Vice Chairman: Renate Ehlers
+  * Secretary: Greg McKeen
+  * Treasurer: Adam Dunn
+  * Portfolio Manager: Robin Prieschl
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -115,8 +124,17 @@ Agenda Notes:
 Tasks:
 
 Minutes:
+* Portfolio assignments:
+    * Meetups & Training:
+        * National: Robin/Ivan
+        * JHB: Ivan
+        * CT: Jason Lewis
+        * PTA: Renate
+    * Infrastructure & Security: Lee
+    * Communications & Marketting: Robin
+    * Webmaster: Riaan
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -130,10 +148,25 @@ Discussion: Western Cape government & Drupal *Johan / N/A*
 Agenda Notes:
 
 Tasks:
+* NPO Registration: Johan du Bois
+* Develop a needs analysis on the things that DASA needs from potential partners.
 
 Minutes:
+* Public funds entrusted to provide services and deliver on value.
+* Using Drupal and Open Source help generate the value.
+* Make available the tools we use to deliver the service.
+* Focus is on moving from site building, modules, etc to providing Drupal as a Service. Core dev team on tool making. Surrounded by a group of site builders. Have content and site owners around that team.
+* Put together a Drupal platform.
+* Engage with the community to take certain contrib modules to the next level. Eg: Workflow on all entities, instead of just nodes. 
+* To understand what is happening in the community, future of Drupal etc.
+* Future has austerity, and thus cost cutting.
+* Grow the community of Drupal.
+* Look at other Governments and how they too can integrate with DASA.
+* Major issue is the NPO registration. Means the Government can engage with Drupal and DASA.
+* Be tool makers and empower tool makers.
+* Rely on community and developers to keep the platforms relevant.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -158,8 +191,9 @@ Agenda Notes:
 Tasks:
 
 Minutes:
+* Accepted
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -175,7 +209,7 @@ Agenda Notes:
   domains have been used in the past to advantage the current owner. The DA may
   ultimately be approached to assist in this matter, but we should first
   consider every opportunity to resolve this matter amicably.
-* A year have now passed, the DASA board is now elected, we should assign
+* A year has now passed, the DASA board is now elected, we should assign
   someone with the conviction and the diplomatic talent to approach the current
   owner before taking this up with the DA to see if the matter can be resolved.
 * Ideally it would be someone other than myself (Riaan) because I have been a
@@ -185,8 +219,11 @@ Agenda Notes:
 Tasks:
 
 Minutes:
+* Postponed this discussion until mid 2015. 
+* Current agreement is to engage with the owners to improve the site.
+* Have negotiations to move the domains to DASA, in a mutually acceptable way.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -203,13 +240,15 @@ Governing Board Elections *Greg / Riaan*
 Tasks:
 
 * *Greg:* Create a How-To Template for Future Elections. Have this available for
-  adjustment throughout the election season. ✔ / ✘
+  adjustment throughout the election season. ✘
 
 Agenda Notes:
 
 Minutes:
+* Greg did not get to the template. Will be available at the next meeting.
+* Johan says thank you to Riaan and Greg for driving the voting.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -224,8 +263,9 @@ Tasks:
 Agenda Notes:
 
 Minutes:
+* Robin has pushed his tasks to December.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -243,12 +283,14 @@ Localised CI *Robin / Jason*
   * Rain drops (tail up) in stead of paw print (tails mixed) for main logo.
 
 Tasks:
+* Send versions to the custodians of pages.
 
 Agenda Notes:
 
 Minutes:
+* Will be completed in December.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -263,8 +305,10 @@ Tasks:
 Agenda Notes:
 
 Minutes:
+* Request for Board Members to sign up as members of DASA.
+* Encourage friends/co-workers to join and become members.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -292,7 +336,7 @@ Agenda Notes:
 
 Minutes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -309,8 +353,10 @@ Tasks:
 Agenda Notes:
 
 Minutes:
+* December meetup will be happening. No January meetup.
+* Ivan to ask if we can use the video stuff in the meeting room.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 
 ------------------------------------------------------------------------------
@@ -326,12 +372,15 @@ Cape Town *Jason / Robin*
   company sponsors the other half and the slides are DASA slides?
 
 Tasks:
+* Speak to UCT, CPUT about Cape Town meetups.
 
 Agenda Notes:
 
 Minutes:
+* No meetup in November, or December.
+* Organise meetups 4 weeks ahead of the time.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -344,18 +393,24 @@ Pretoria *Renate / Ivan*
 * Book a selection of speakers from Johannesburg up to three months in advance.
 
 Tasks:
-
 * Ivan will phone some people at the University to find about a venue.
 * Ivan and Renate will coordinate.
 * Riaan and Renate to look at dates and which week of the month.
+* Renate to speak to TUKS about getting it on the Radio.
 
 Tasks:
+* Renate to contact Ivan to get contact details.
+* Riaan to add PTA to the website.
 
 Agenda Notes:
 
 Minutes:
+* Start in March, targetting Universities around the area. 
+* Some people that are interested, will be attending our JHB meetup. 
+* Made contact with a company who has a developer using Drupal.
+* Ivan has been discussing to the Angular guys, and they meetup in Brooklyn. They are keep to help.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -376,12 +431,13 @@ Tasks:
   that may help contacting them.
 * *Freda:* Coordinate and contact web companies in Durban for the
    meet-and-greet.
+* *Riaan:* Set a date.
 
 Agenda Notes:
 
 Minutes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -405,7 +461,7 @@ Agenda Notes:
 
 Minutes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -437,8 +493,9 @@ Tasks:
 Agenda Notes:
 
 Minutes:
+* 6 people subscribed to the newsletter.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -457,14 +514,15 @@ Tasks:
   * Update with the new governing board and portfolios.
   * Update with the old governing board.
   * Update listing everyone who voted in our first elections.
-* *Greg:* Will help Adam setup GitHub account and subscribe to the DASA
+* *Lee:* Will help Adam setup GitHub account and subscribe to the DASA
   organisation.
 
 Agenda Notes:
 
 Minutes:
+* Riaan is the Webmaster
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -482,7 +540,7 @@ Agenda Notes:
 
 Minutes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -496,7 +554,7 @@ Agenda Notes:
 
 Minutes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -547,12 +605,14 @@ List of the names (not e-mail addresses) of people on:
     * Adam
 
 Tasks:
+* remove Freda, replace with Renate on the core@dasa 
+* info@dasa to point to Greg.
 
 Agenda Notes:
 
 Minutes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -562,7 +622,7 @@ DASA Shared Calendar *Lee / Adam*
 
 Tasks:
 
-* *Riaan:* Add links to the calendar to the website.
+* *Lancelot:* Add links to the calendar to the website.
 * *Lee:* [#11](https://github.com/DrupalAssociationSA/InternalDocumentation/issues/11#issuecomment-63364481)
 
 Tasks:
@@ -570,8 +630,9 @@ Tasks:
 Agenda Notes:
 
 Minutes:
+* Lancelot will help put this on the website.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -608,7 +669,7 @@ Agenda Notes:
 
 Minutes:
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -621,8 +682,9 @@ Any Other Business *N/A*
 Agenda Notes:
 
 Minutes:
+* Off the record discussions, should be held off camera. A new section of the agenda will be created for sensitive discussions, and a summary placed into the minutes.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -640,10 +702,14 @@ General / Overall *? / ?*
 * Alternate with Cape Town.
 
 Tasks:
+* Adam will speak to BCX and report back at the next meeting.
 
 Agenda Notes:
 
 Minutes:
+* Mini camp on the 28th March first, then a major camp in September, 27th potentially.
+* Speak to BCX about being part of the Computer Fair m-What.
+* What are the other ways we can move our indicators of success in our direction.
 
 Completed / Agreed: ✔ / ✘
 
