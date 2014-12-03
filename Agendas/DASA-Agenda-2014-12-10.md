@@ -142,6 +142,8 @@ Tasks:
 * *Robin* / *Jason* to create localised CI for Pretoria and Windhoek.
 * *Robin* / *Jason* to create design elements for our Google+ page. Then provide
   to *Lee* for implementation.
+* *Robin* / *Jason* to create design elements for our GitHub account and page.
+  Then provide to *Ivan* for implementation.
 * *Riaan* to help *Robin* create a GitHub repo for the CI.
 * *Robin* / *Jason* to send versions to the custodians of meetup.com pages.
 
