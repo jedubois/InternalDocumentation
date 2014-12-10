@@ -20,27 +20,28 @@ Wednesday evening 19 November 2014.
 
     Person   Attending ✔ / ✘ Apologies
     ==================================
-    Riaan Burger       ✔ / ✘
-    Greg McKeen        ✔ / ✘
-    Jason Lewis        ✔ / ✘
-    Adam Dunn          ✔ / ✘
-    Robin Prieschl     ✔ / ✘
-    Johan du Bois      ✔ / ✘
-    Freda Browne       ✔ / ✘
-    Lancelot Nyachoto  ✔ / ✘
-    Ivan Breet         ✔ / ✘
-    Lee Taylor         ✔ / ✘
-    Renate Ehlers      ✔ / ✘
+    Riaan Burger       ✔ 
+    Greg McKeen        ✔
+    Jason Lewis        ✘
+    Adam Dunn          ✔ 
+    Robin Prieschl     ✘
+    Johan du Bois      ✘
+    Lancelot Nyachoto  ✘
+    Ivan Breet         ✔ 
+    Lee Taylor         ✘
+    Renate Ehlers      ✔
+    Andre      ✔
 
-Quorum achieved: ✔ / ✘
+Quorum achieved: ✔
 
 Agenda Notes:
+Apologies from Jason, Robin, Johan, Lee.
 
 Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -50,18 +51,18 @@ Confirm Next Meeting *Greg / Lance*
 
 Agenda Notes:
 
-* Wednesday 17 January 2015 (third Wednesday of January).
+* Wednesday 21 January 2015 (third Wednesday of January).
 
 Tasks:
 
-* Confirm *Lee* and *Johan* (and *Jason*) tested virtual attendance using
+* Confirm *Greg* and *Johan* (and *Jason*) tested virtual attendance using
   Hangouts.
 
 Minutes:
 
-*
+* We need to invest in conference materials, so that we don't have to rely on Lee, who can't always be in attendance. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -78,12 +79,13 @@ Tasks:
 * Assure *Greg* (Secretary) files the signed papers.
 * Assure *Greg* (Secretary) has the filed paperwork for DASA (from *Adam*).
 * Assure *Adam* (Treasurer) gains *Greg*'s access to the DASA bank account.
+* Riaan to e-mail *Johan* and *Jason* about *Greg* collecting the constitution in Cape Town.
 
 Minutes:
 
-*
+* Johan still has the constitution in Cape Town. Jason still has to sign. Greg will attempt to fetch it when he is in Cape Town.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -104,9 +106,9 @@ Tasks:
 
 Minutes:
 
-*
+* Postponed until Johan is back from leave.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -123,9 +125,9 @@ Tasks:
 
 Minutes:
 
-*
+* Not done yet.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -149,13 +151,13 @@ Tasks:
 
 Minutes:
 
-*
+* Robin is really busy at the moment and will tend to these tasks in the next two to three weeks.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
-Membership & Fund-raising *N/A*
+Membership & Fund-raising *Renate/Robin*
 -------------------------------
 *≈ 5 min*
 
@@ -164,20 +166,19 @@ Membership & Fund-raising *N/A*
 
 Agenda Notes:
 
-* We need to assign this to someone. It's *N/A* right now in the heading.
-
 Tasks:
 
 * *Everyone* able to sign up as individual and agency members.
 * *Everyone* to encourage agencies and friends  to sign up as individual and
   agency members.
 * *Everyone* able to try to donate R 100 / R 200 per month.
+* *Riaan* to follow up with the project managers
 
 Minutes:
 
-*
+* *Renate* and *Robin* will post messages to the newsletter and groups.drupal.org/South-Africa
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -208,7 +209,9 @@ Tasks:
 
 Minutes:
 
-Completed / Agreed: ✔ / ✘
+* No minutes
+
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -229,9 +232,11 @@ Tasks:
 
 Minutes:
 
-*
+* Last meetup was not recorded, there was no video conferencing available.
+* Ivan might revisit the app development programme for next year, with some restructuring of the topics and taking into consideration topics requested by others.
+* Ivan will speak to the video resource guys when they are back from leave.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ------------------------------------------------------------------------------
 
@@ -251,9 +256,9 @@ Tasks:
 
 Minutes:
 
-*
+* Both Jason and Robin weren't at the meeting to report. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -285,9 +290,10 @@ Tasks:
 
 Minutes:
 
-*
+* Continues over until March. 
+* DASA will sponsor the Meetup.com cost for the Pretoria meetup.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -312,9 +318,9 @@ Tasks:
 
 Minutes:
 
-*
+* Continues over until next year.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -337,8 +343,9 @@ Agenda Notes:
 Tasks:
 
 Minutes:
+* Continues over until sometime next year.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -347,7 +354,7 @@ Communication
 
 --------------------------------------------------------------------------------
 
-Newsletter (MailChimp) *Robin / N/A*
+Newsletter (MailChimp) *Robin / André*
 ------------------------------------
 *≈ 10 min*
 
@@ -379,9 +386,10 @@ Tasks:
 
 Minutes:
 
-*
+* Robin will attend to these tasks in the next two to three weeks.
+* André will second this task to help Robin.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -406,9 +414,11 @@ Tasks:
 
 Minutes:
 
-*
+* *Renate* will have the site setup shortly on her local machine, to continue development.
+* *Lee* and *Adam* have the system setup. 
+* Links will be reviewed every three months to ensure there isn't a top-heavy degree of abuse from companies.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -428,13 +438,13 @@ Tasks:
 
 Minutes:
 
-*
+* Continutes over until next year.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
-GDoSA Maintenance *? / ?*
+GDoSA Maintenance *André/Renate/Robin*
 -------------------------
 *≈ 5 min*
 
@@ -450,9 +460,9 @@ Tasks:
 
 Minutes:
 
-*
+* Fix wiki pages, etc.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -470,12 +480,12 @@ Agenda Notes:
 * core@dasa.org.za:
 
     * Adam
-    * Freda
     * Jason (L)
     * Johan
     * Greg
     * Riaan
     * Robin
+    * Renate
 
 *  contrib@dasa.org.za:
 
@@ -495,7 +505,7 @@ Agenda Notes:
 
 *  info@dasa.org.za:
 
-    * Adam
+    * Greg
 
 Tasks:
 
@@ -506,9 +516,9 @@ Tasks:
 
 Minutes:
 
-*
+* Lee has completed these tasks.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -526,9 +536,9 @@ Tasks:
 
 Minutes:
 
-*
+* Riaan hasn't spoken to Lancelot. This will happen before the next meetup.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -553,10 +563,34 @@ Tasks:
 
 Minutes:
 
-*
+* Greg has kept his signatory on the bank account, so that there is someone in Cape Town (when he moves) with access.
+* Adam and Riaan will be JHB signatories.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
+--------------------------------------------------------------------------------
+Branded items for Meetups *Renate*
+----------------------------------
+*≈ 10min*
+
+To help professionalize the Drupal user-group meetups we want to add a podium
+and a 'backdrop' banner with a full-colour DASA logo. This should present our
+speakers, community and Drupal in a more professional light.
+
+Tasks:
+* *Ivan* and *Renate* will get a few more quotes.
+
+Agenda Notes:
+
+* *Renate:* Podium: R 3 900, Banner: R 2 274.30
+
+Minutes:
+
+* Ivan and Renate will get a few more quotes.
+* Consider getting a microphone instead of a podium, as the new Adcorp offices may have podiums.
+* Also get quotes on Video Conferencing stuff, if possible: Small Portable Computer (wifi), Video, Microphone.
+
+Completed / Agreed: ✔
 --------------------------------------------------------------------------------
 
 Any Other Business *Everyone*
@@ -569,9 +603,9 @@ Agenda Notes:
 
 Minutes:
 
-*
+* Official Drupal 8 launch party for JHB will be setup by DASA, at Cobblestones in Monte Casino. Date will be set when the official launch is announced.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -618,26 +652,33 @@ Tasks:
 
 Minutes:
 
+* *Project Manager*
+  * Renate Ehlers
 * *Venue*
-  *
+  * BCX. Requires a discussion on setting up Drupal on their Cloud. Greg and Adam will set a time, to have a meeting.
 * *Date*
-  *
+  * TBD
 * *Times*
-  *
+  * TBD - 40 minutes slots. 10 min break. 5 min file in, file out.
 * *Speakers*
-  *
+  * Business Connection
+  * Mark Theunisen
+  * Johan
+  * Add others
+  * Ivan - Reserve
 * *Promotion*
-  *
+  * g.d.o/s-a
+  * meetup.com
 * *Cost of Attendance*
-  *
+  * Free. Each person will pay for their own catering.
 * *Sponsorship*
-  *
+  * A list of items will be setup, and then request sponsorships. 
 * *Costs of Organisation*
-  *
+  * Unknown?
 
 * What are the other ways we can move our indicators of success in our direction.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -976,8 +1017,8 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
-The End.
+The End. 9 PM
