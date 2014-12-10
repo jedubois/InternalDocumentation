@@ -392,6 +392,12 @@ dasa.org.za Website *Riaan / Renate*
 Agenda Notes:
 
 * *Riaan* remade with Bootstrap and better gulp build; Data updated.
+* *Riaan* suggestion to change attribution in line with Drupal core new commit
+  attributions to enhance value for companies contributing.
+  * *JHB Venue by Ivan Breet* becomes *JHB Venue by Ivan Breet at AdCorp*
+  We currently link to Drupal user accounts for people, but companies no longer
+  have publick links on drupal.org. Should we link to companies' home pages with
+  norel? This also applies to membership listings.
 
 Tasks:
 
@@ -474,13 +480,14 @@ Agenda Notes:
 *  contrib@dasa.org.za:
 
     * Core
-    * Richard
+    * Andre
     * Ivan
+    * Jason (M)
     * Lancelot
     * Lee
     * Mark
-    * Jason (M)
     * Renate
+    * Richard
 
 *  git@dasa.org.za:
 
@@ -493,6 +500,7 @@ Agenda Notes:
 Tasks:
 
 * *Lee* to move Freda to contrib, replace with Renate in core.
+* *Lee* to add Andre to contrib.
 * *Lee* point info@dasa to Greg.
 * *Everyone* notify *Lee* to add people working with DASA.
 
@@ -536,6 +544,8 @@ Agenda Notes:
     2014/11/17,  500.00, 6228.00, INTERNET TRF FROM     BURTRONIX DONATION
     2014/11/11,  -61.00, 5728.00, #MONTHLY ACCOUNT FEE
     2014/11/10,  500.00, 5789.00, INTERNET TRF FROM     BURTRONIX DONATION
+
+ * *Greg*, *Adam* and *Riaan* went to FNB to add *Adam* to the account.
 
 Tasks:
 
