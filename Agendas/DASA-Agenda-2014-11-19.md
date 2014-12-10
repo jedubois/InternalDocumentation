@@ -20,7 +20,7 @@ Wednesday evening 19 November 2014.
 
     Person   Attending ✔ / ✘ Apologies
     ==================================
-    Riaan Burger       ✔ 
+    Riaan Burger       ✔
     Greg McKeen        ✔
     Jason Lewis        ✘
     Adam Dunn          ✔
@@ -157,7 +157,7 @@ Minutes:
 * Make available the tools we use to deliver the service.
 * Focus is on moving from site building, modules, etc to providing Drupal as a Service. Core dev team on tool making. Surrounded by a group of site builders. Have content and site owners around that team.
 * Put together a Drupal platform.
-* Engage with the community to take certain contrib modules to the next level. Eg: Workflow on all entities, instead of just nodes. 
+* Engage with the community to take certain contrib modules to the next level. Eg: Workflow on all entities, instead of just nodes.
 * To understand what is happening in the community, future of Drupal etc.
 * Future has austerity, and thus cost cutting.
 * Grow the community of Drupal.
@@ -219,7 +219,7 @@ Agenda Notes:
 Tasks:
 
 Minutes:
-* Postponed this discussion until mid 2015. 
+* Postponed this discussion until mid 2015.
 * Current agreement is to engage with the owners to improve the site.
 * Have negotiations to move the domains to DASA, in a mutually acceptable way.
 
@@ -308,7 +308,7 @@ Minutes:
 * Request for Board Members to sign up as members of DASA.
 * Encourage friends/co-workers to join and become members.
 
-Completed / Agreed: ✔ 
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -405,8 +405,8 @@ Tasks:
 Agenda Notes:
 
 Minutes:
-* Start in March, targetting Universities around the area. 
-* Some people that are interested, will be attending our JHB meetup. 
+* Start in March, targetting Universities around the area.
+* Some people that are interested, will be attending our JHB meetup.
 * Made contact with a company who has a developer using Drupal.
 * Ivan has been discussing to the Angular guys, and they meetup in Brooklyn. They are keep to help.
 
@@ -461,7 +461,7 @@ Agenda Notes:
 
 Minutes:
 
-Completed / Agreed: ✔ 
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -495,7 +495,7 @@ Agenda Notes:
 Minutes:
 * 6 people subscribed to the newsletter.
 
-Completed / Agreed: ✔ 
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -554,7 +554,7 @@ Agenda Notes:
 
 Minutes:
 
-Completed / Agreed: ✔ 
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -605,7 +605,7 @@ List of the names (not e-mail addresses) of people on:
     * Adam
 
 Tasks:
-* remove Freda, replace with Renate on the core@dasa 
+* remove Freda, replace with Renate on the core@dasa
 * info@dasa to point to Greg.
 
 Agenda Notes:
@@ -669,7 +669,27 @@ Agenda Notes:
 
 Minutes:
 
-Completed / Agreed: ✔ 
+Completed / Agreed: ✔
+
+--------------------------------------------------------------------------------
+
+Branded items for Meetups
+--------------------------
+*≈ 10min*
+
+To help professionalize the Drupal user-group meetups we want to add a podium
+and a 'backdrop' banner with a full-colour DASA logo. This should present our
+speakers, community and Drupal in a more professional light.
+
+Tasks:
+
+Agenda Notes:
+
+* *Renate:* Podium: R 3 900, Banner: R 2 274.30
+
+Minutes:
+
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
