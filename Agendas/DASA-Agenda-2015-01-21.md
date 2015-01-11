@@ -515,6 +515,34 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
+DASA Domains *Lee / Adam*
+---------------------------------
+*≈ 5 min*
+
+Agenda Notes:
+
+Tasks:
+
+* dasa.org.za was deleted by Hetzner when Adam explained that we did not need hosting any more
+   *Lee* I registered and re-build the zone as best as I remember it, seeing that Hetzner did not seem to have
+   a copy of zone that they could give to us.
+
+* Other domains that came up while I was re-registering dasa.org.za:
+ * drupal.net.za
+ * drupal.web.za
+ * dasa.net.za
+ * dasa.web.za
+
+* These are registered and *Lee* will donate them, should get the DASA details so that they are the register
+
+Minutes:
+
+*
+
+Completed / Agreed: ✔ / ✘
+
+--------------------------------------------------------------------------------
+
 Accounting *Adam / Riaan*
 -------------------------
 *≈ 2 min*
