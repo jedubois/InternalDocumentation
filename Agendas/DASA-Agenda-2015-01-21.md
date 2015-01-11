@@ -523,8 +523,8 @@ Agenda Notes:
 
 Tasks:
 
-* dasa.org.za was deleted by Hetzner when Adam explained that we did not need hosting any more
-   *Lee* I registered and re-build the zone as best as I remember it, seeing that Hetzner did not seem to have
+* dasa.org.za was deleted by Hetzner when Adam explained that we did not need hosting any more  
+   *Lee* I registered and re-build the zone as best as I *Lee* remember it, seeing that Hetzner did not seem to have
    a copy of zone that they could give to us.
 
 * Other domains that came up while I was re-registering dasa.org.za:
@@ -533,7 +533,8 @@ Tasks:
  * dasa.net.za
  * dasa.web.za
 
-* These are registered and *Lee* will donate them, should get the DASA details so that they are the register
+* These are registered and *Lee* will donate them to DASA, should get the DASA details so that DASA is recorded as the registrant.
+* *Lee* will setup redirects to dasa.org.za for all the domains, mail has already been alises in GApps.
 
 Minutes:
 
