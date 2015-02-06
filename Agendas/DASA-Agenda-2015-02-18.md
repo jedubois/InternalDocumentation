@@ -221,9 +221,12 @@ Completed / Agreed: ✔ / ✘
 
 Johannesburg *Ivan / Lee*
 -------------------------
-*≈ 5 min*
+*≈ 15 min*
 
 Agenda Notes:
+
+* Incredible disruption by an individual need to be addressed in a way that will
+  make 100% sure that it will not happen again.
 
 Tasks:
 
