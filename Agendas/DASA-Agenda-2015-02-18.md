@@ -221,7 +221,7 @@ Completed / Agreed: ✔ / ✘
 
 Johannesburg *Ivan / Lee*
 -------------------------
-*≈ 5 min*
+*≈ 15 min*
 
 Agenda Notes:
 
