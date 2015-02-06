@@ -225,6 +225,9 @@ Johannesburg *Ivan / Lee*
 
 Agenda Notes:
 
+* Incredible disruption by an individual need to be addressed in a way that will
+  make 100% sure that it will not happen again.
+
 Tasks:
 
 * *Lee:* Reports on ongoing efforts to better our video casting.
