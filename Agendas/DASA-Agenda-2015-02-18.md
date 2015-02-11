@@ -12,7 +12,7 @@ At meetings, only the **✔ / ✘** and **Minutes** sections will be updated.
 Agenda 2015-02-18
 -----------------
 
-Attending / Apologies *Greg / Lance*
+1. Attending / Apologies *Greg / Lance*
 ------------------------------------
 
 A list of people attending and apologies for not attending the DASA meeting on
@@ -46,7 +46,7 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-Confirm Next Meeting *Greg / Lance*
+2. Confirm Next Meeting *Greg / Lance*
 -----------------------------------
 *≈ 2 min*
 
@@ -67,7 +67,7 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-New Board *Greg / Lance*
+3. New Board *Greg / Lance*
 ------------------------
 *≈ 2 min*
 
@@ -88,9 +88,9 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-Western Cape Government & Drupal *Johan / Jason*
+NPO Registration  *Johan*
 ------------------------------------------------
-*≈ ? min*
+*≈ 1 min*
 
 Agenda Notes:
 
@@ -120,6 +120,26 @@ Minutes:
 Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
+
+Planning 2015/16  *Johan*
+------------------------------------------------
+*≈ 1 min*
+
+Agenda Notes:
+
+* Reporting for 2014-15
+    * Narative report.
+    * Financial reports signed by accounting officer.
+
+Tasks:
+* *Johan* to develop a needs analysis on the things that DASA needs from
+  potential partners. (parked pending indicators)
+
+Minutes:
+
+*
+
+Completed / Agreed: ✔ / ✘
 
 Governing Board Elections *Greg / Riaan*
 ----------------------------------------
