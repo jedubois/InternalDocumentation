@@ -122,11 +122,11 @@ Completed / Agreed: ✔ / ✘
 
 5. Planning 2015/16  *Johan*
 ------------------------------------------------
-*≈ 1 min*
+*≈ 10 min*
 
 Agenda Notes:
 
-* Reporting for 2014-15 to be adopted at AGM within 6 months of financial year end:
+* Reporting for 2014-15 to be adopted at AGM within 6 months of financial year end (i.e. before end August):
     * Narative report (chairperson)
     * Financial report (treasurer)
 
