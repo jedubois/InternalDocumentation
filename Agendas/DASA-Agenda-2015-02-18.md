@@ -12,7 +12,7 @@ At meetings, only the **✔ / ✘** and **Minutes** sections will be updated.
 Agenda 2015-02-18
 -----------------
 
-Attending / Apologies *Greg / Lance*
+1. Attending / Apologies *Greg / Lance*
 ------------------------------------
 
 A list of people attending and apologies for not attending the DASA meeting on
@@ -46,7 +46,7 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-Confirm Next Meeting *Greg / Lance*
+2. Confirm Next Meeting *Greg / Lance*
 -----------------------------------
 *≈ 2 min*
 
@@ -67,11 +67,13 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-New Board *Greg / Lance*
+3. New Board *Greg / Lance*
 ------------------------
 *≈ 2 min*
 
 Agenda Notes:
+* Johan: We forgot to deal with the constitution at the January Cape Town meet-up. Riaan is here again in February so let's not forget again. :p
+
 
 Tasks:
 
@@ -88,9 +90,9 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-Western Cape Government & Drupal *Johan / Jason*
+4. NPO Registration  *Johan*
 ------------------------------------------------
-*≈ ? min*
+*≈ 1 min*
 
 Agenda Notes:
 
@@ -109,9 +111,6 @@ Tasks:
     * Narative report.
     * Financial reports signed by accounting officer.
     * Changes to board / leadership / constitution should be noted.
-* *Johan* to develop a needs analysis on the things that DASA needs from
-  potential partners.
-* *Johan* to split this into two agenda items and retitle it.
 
 Minutes:
 
@@ -121,7 +120,28 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-Governing Board Elections *Greg / Riaan*
+5. Planning 2015/16  *Johan*
+------------------------------------------------
+*≈ 10 min*
+
+Agenda Notes:
+
+* Reporting for 2014-15 to be adopted at AGM within 6 months of financial year end (i.e. before end August):
+    * Narative report (chairperson)
+    * Financial report (treasurer)
+
+Tasks:
+* *Johan* to circulate proposed indicators for 2015-16 to core & contrib. 
+* *Johan* to develop a needs analysis on the things that DASA needs from
+  potential partners. (parked pending indicators)
+
+Minutes:
+
+*
+
+Completed / Agreed: ✔ / ✘
+
+6. Governing Board Elections *Greg / Riaan*
 ----------------------------------------
 *≈ 2 min*
 
@@ -140,7 +160,7 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-Design Work *Robin / Jason*
+7. Design Work *Robin / Jason*
 ---------------------------
 *≈ 5 min*
 
@@ -165,7 +185,7 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-Membership & Fund-raising *Renate / Robin*
+8. Membership & Fund-raising *Renate / Robin*
 ------------------------------------------
 *≈ 5 min*
 
@@ -552,30 +572,6 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-Moving Our Indicators *Johan / N/A*
-------------------------------------
-*≈ 5 min*
-
-Agenda Notes:
-
-* We need to assign a backup for this to someone. It's *N/A* right now in the
-  heading.
-* Investigate other methods than meetups and camps to move DASA's indicators
-  of success in a positive direction.
-
-Tasks:
-
-* *Johan* to to describe this more clearly for future agendas and perhaps to
-  compile a few suggestions for discussion.
-* *Johan* will circulate a proposal to the contrib mail list.
-
-Minutes:
-
-*
-
-Completed / Agreed: ✔ / ✘
-
---------------------------------------------------------------------------------
 
 Any Other Business *Everyone*
 -----------------------------
