@@ -129,13 +129,15 @@ Planning 2015/16  *Johan / N/A*
 
 Agenda Notes:
 
-* Reporting for 2014-15 to be adopted at AGM within 6 months of financial year end (i.e. before end August):
-    * Narative report (chairperson)
-    * Financial report (treasurer)
+* Reporting for 2014-15 to be adopted at AGM within 6 months of financial year
+  end (i.e. before end August):
+    * Narrative report (Chairman)
+    * Financial report (Treasurer)
 * We need to assign a backup for this to someone. It's *N/A* right now in the
   heading.
 
 Tasks:
+
 * *Johan* to circulate proposed indicators for 2015-16 to core & contrib.
 * *Johan* to develop a needs analysis on the things that DASA needs from
   potential partners. (parked pending indicators)
@@ -145,6 +147,8 @@ Minutes:
 *
 
 Completed / Agreed: ✔ / ✘
+
+--------------------------------------------------------------------------------
 
 Governing Board Elections *Greg / Riaan*
 ----------------------------------------
@@ -201,12 +205,10 @@ Agenda Notes:
 Tasks:
 
 * *Everyone* able to sign up as individual and agency members.
-* *Everyone* to encourage agencies and friends  to sign up as individual and
+* *Everyone* to encourage agencies and friends to sign up as individual and
   agency members.
 * *Everyone* able to try to donate R 100 / R 200 per month.
-* *Riaan* to follow up with the project managers.
 * *Renate* and *Robin* will post messages to the newsletter and GDoSA.
-* *Adam* will post the banking details for donations to contrib@dasa.org.za.
 
 Minutes:
 
@@ -282,7 +284,6 @@ Tasks:
 * *Jason* / *Johan* Speak to Mark Theunissen about potentially speaking.
 * *Jason* will speak to the Cape Town guys, to find out if anyone wants to come
    to Johanneburg to speak.
-* *Jason* will send quotes on a backdrop banner to core@dasa.org.za.
 * *Jason* will send quotes and designs for national speaker t-shirts.
 
 Minutes:
@@ -400,20 +401,17 @@ Agenda Notes:
 
 Tasks:
 
-* *Riaan* to ask *Jason* to update with Cape Town data (donations).
-* *Adam* or *Riaan* (fall-back) to update general and Johanneburg data.
-* *Jason* to update Cape Town data or notify *Riaan* or *Adam* with the data to
-  update.
+* *Adam* or *Riaan* (fall-back) to update general and Johannesburg data.
+* *Jason* to update Cape Town data or notify *Riaan* with the data.
 * *Renate* to bring the site up for local development, on success becoming
   webmaster and point of contact for updates.
 * *Riaan*, once we have >= 10 companies donating or as members, change
   attribution from *Donation by Person* to *Donation by Person at Company*.
-  * Currently we have 6: DunnLofts, Burtronix, AdCorp, Robboto, SuproNet and
-  eConsultant.
+  * Currently we have 8: DunnLofts, Burtronix, AdCorp, Robboto, SuproNet and
+  eConsultant, Amazee, Ingen Media.
 * *Riaan* to place a review of the company links by the board on the agenda
   in April, August and December. We're checking that the new company links does
   not become "top-heavy" looking abusive or highlighting few over many.
-* *Riaan* to remove the actual value of monetary donations.
 
 Minutes:
 
@@ -456,7 +454,7 @@ Agenda Notes:
 Tasks:
 
 * *Andre* to do an overall update of the Wiki including with reference links to
-  the DASA website, Meetup.com groups and our newsletter.
+  the DASA website, Meetup.com groups, our newsletter and our site.
 
 Minutes:
 
@@ -480,8 +478,8 @@ Agenda Notes:
     Account:, 62446745492
     Balance:, 7406.00, 7406.00
 
-    2015/01/16, 100.00, 7406.00, INTERNET TRF FROM      DUNNLOFTS TO DASA
-    2015/01/10, -61.00, 7306.00, #MONTHLY ACCOUNT FEE
+    2015/01/16, 100.00,  7406.00, INTERNET TRF FROM      DUNNLOFTS TO DASA
+    2015/01/10, -61.00,  7306.00, #MONTHLY ACCOUNT FEE
     2014/12/27, 1200.00, 7367.00, INTERNET TRF FROM     BURTRONIX DONATION
     2014/11/17,  500.00, 6228.00, INTERNET TRF FROM     BURTRONIX DONATION
     2014/11/11,  -61.00, 5728.00, #MONTHLY ACCOUNT FEE
@@ -509,8 +507,6 @@ Agenda Notes:
 
 Tasks:
 
-* *Jason* will send quotes on a backdrop banner for CT to core@dasa.org.za.
-* *Renante* will send quotes on a backdrop banner for JHB to core@dasa.org.za.
 * *Jason* and *Robin* will send quotes and designs for speaker shirts for CT,
   JHB and PTA to core@dasa.org.za.
 * *Renate* to authorize a banner solution for JHB and CT.
@@ -576,7 +572,6 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-
 Any Other Business *Everyone*
 -----------------------------
 *≈ 15 min*
@@ -620,12 +615,11 @@ General / Overall *Renate / N/A*
 
 Agenda Notes:
 
-*
+* Status from *Renate*.
 
 Tasks:
 
-* *Robin* to design attendance, sponsor (four grades of sponsorship), speaker
-  and organiser badges suitable to be printed on vinyl stickers.
+*
 
 Minutes:
 
@@ -645,7 +639,6 @@ Agenda Notes:
 
 Tasks:
 
-* *Riaan*, *Ivan* and *Adam* to meet Business Connection guys urgently.
 * *Adam* to confirm food solution accommodating Halal & Vegetarians, can also
   just be take-away orders.
 * *Adam* will find out if we have access to the network or will have to use
@@ -673,7 +666,8 @@ Agenda Notes:
 Tasks:
 
 * *Renate* to compile a schedule here of the times, speakers and lunch break.
-  * Lunch break about 11:30 - 12:30.
+  * Lunch break around 11:30 - 12:30.
+  * *Adam* wrangling speakers and *Greg* vetting talks.
 
 Minutes:
 
@@ -689,30 +683,24 @@ Speakers *N/A / Renate*
 
 Agenda Notes:
 
-* Potential Speakers
-  * Business Connection (required)
-  * Mark Theunisen
-  * Johan
-  * Ivan - Reserve
-* Decide on Topics and Speakers now if possible.
-* Urge speakers to prepare off-line slides and ideally, GitHub based reveal.js
-  slides that we will make off-line copies of.
-
-Speakers:
-
-* *Renate* with *Ivan* backup MC to open.
-* Greg 15min Keynote.
-* 2 Guys from Business Connection for one 40min slot.
-* *Riaan*: Responsible Web Design, Privacy etc.
-* *Jason* / *Robin* will talk about creative approach.
-* Drupal segment needed (perhaps *Robin*) overview-type talk.
-* *Renate* to compile existing speakers into a schedule and let us know how many
-  more we need.
+* Speakers
+  * Renate Ehlers (MC)
+  * Business Connection (required, two people, total 40min)
+  * Greg McKeen (Keynote of 15min)
+  * Gregory Gerhardt
+  * Robin Prieschl (general Drupal)
+  * Jason Lewis / Robin Prieschl (Creative Approach)
+  * Riaan Burger
+  * Potential
+    * Johan du Bois
+    * Ivan (Reserve MC)
+* Do we need more, if so, how many and on what?
+* Speakers to contact *Adam* (wrangler), *Greg* (vetting) and *Renate* (ops).
 
 Tasks:
 
-* *N/A* to confirm speakers early. Required reveal.js slides on GitHub.
-* *Andre* to vet slides at least 2 weeks ahead of the camp.
+* *Adam* to confirm speakers early.
+* *Greg* to check speakers' presentations.
 * *Adam* to post to contrib@dasa.org.za what we will have available, screen res
   of projector, microphones for speakers and audience for QnA, recording
   facilities etc.
@@ -752,9 +740,14 @@ Agenda Notes:
 
 * *Renate* is authorised to make executive decisions regarding the mini-camp.
 
+* We have five total gold (four remaining) spots available.
+* We have five total silver (three remaining) spots available.
+* With no additional expenses on catering or any other unplanned, we need at
+  least three gold and four silver.
+
 * We need sponsors finalized! before we can order shark fins and banners which
   then till need to be ordered and produced.
-* Banners and shark fins will display the sponsors' logo on the day as magnetic
+* Banners and shark fins will display the sponsors' logo on the day as card
   add-ons that the sponsors can take with them (banners and shark fins remain
   the property of DASA).
 
@@ -763,15 +756,15 @@ Agenda Notes:
     Comes with:
       * 2 Vinyl (back-of-laptop) Stickers
       * Noted on DASA.org.za website as an individual or token sponsor.
-  * Silver: *R 500 + cost of Shark Fin*
+  * Silver: *R 3 000*
       * Logo on a stage Shark Fin.
       * 4 Vinyl (back-of-laptop) Stickers
       * Noted on DASA.org.za website as a silver sponsor.
-  * Gold: *R 1 500 + cost of Banner + cost of Shark Fin*
+  * Gold: *R 6 000*
       * Logo on a stage Banner.
       * Logo on a stage Shark Fin.
       * 6 Vinyl (back-of-laptop) Stickers
-      * Noted on DASA.org.za website as a silver sponsor.
+      * Noted on DASA.org.za website as a gold sponsor.
 
 Tasks:
 
@@ -801,11 +794,13 @@ Agenda Notes:
 * National DrupalCamp to follow in 2016.
 * Alternate full camps with Cape Town.
 * We need to assign people. It's *N/A* right now in the heading.
+* Camps to build community, coordination and assets towards the plan to be able
+  to host an international DrupalCon in Cape Town.
 
 Tasks:
 
-* *N/A* to contact *Jason* in Cape Town to look at the feasibility of a MiniCamp
-  there.
+* *Jason* with an early report on the feasibility of a MiniCamp in Cape Town.
+* *Renate* on the idea of alternative with Pretoria in Gauteng too.
 
 Minutes:
 
