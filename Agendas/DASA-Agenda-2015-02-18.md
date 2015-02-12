@@ -12,7 +12,7 @@ At meetings, only the **✔ / ✘** and **Minutes** sections will be updated.
 Agenda 2015-02-18
 -----------------
 
-1. Attending / Apologies *Greg / Lance*
+Attending / Apologies *Greg / Lance*
 ------------------------------------
 
 A list of people attending and apologies for not attending the DASA meeting on
@@ -46,7 +46,7 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-2. Confirm Next Meeting *Greg / Lance*
+Confirm Next Meeting *Greg / Lance*
 -----------------------------------
 *≈ 2 min*
 
@@ -67,13 +67,14 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-3. New Board *Greg / Lance*
+New Board *Greg / Lance*
 ------------------------
 *≈ 2 min*
 
 Agenda Notes:
-* Johan: We forgot to deal with the constitution at the January Cape Town meet-up. Riaan is here again in February so let's not forget again. :p
 
+* Johan: We forgot to deal with the constitution at the January Cape Town
+  meet-up. Riaan is here again in February so let's not forget again. :p
 
 Tasks:
 
@@ -84,14 +85,14 @@ Tasks:
 
 Minutes:
 
-* Will be signed on Wednesday. Riaan may retrieve it at the meetup, else another plan will be made.
+*
 
 Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-4. NPO Registration  *Johan*
-------------------------------------------------
+NPO Registration  *Johan / N/A*
+-------------------------------
 *≈ 1 min*
 
 Agenda Notes:
@@ -111,6 +112,8 @@ Tasks:
     * Narative report.
     * Financial reports signed by accounting officer.
     * Changes to board / leadership / constitution should be noted.
+* We need to assign a backup for this to someone. It's *N/A* right now in the
+  heading.
 
 Minutes:
 
@@ -120,8 +123,8 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-5. Planning 2015/16  *Johan*
-------------------------------------------------
+Planning 2015/16  *Johan / N/A*
+-------------------------------
 *≈ 10 min*
 
 Agenda Notes:
@@ -129,9 +132,11 @@ Agenda Notes:
 * Reporting for 2014-15 to be adopted at AGM within 6 months of financial year end (i.e. before end August):
     * Narative report (chairperson)
     * Financial report (treasurer)
+* We need to assign a backup for this to someone. It's *N/A* right now in the
+  heading.
 
 Tasks:
-* *Johan* to circulate proposed indicators for 2015-16 to core & contrib. 
+* *Johan* to circulate proposed indicators for 2015-16 to core & contrib.
 * *Johan* to develop a needs analysis on the things that DASA needs from
   potential partners. (parked pending indicators)
 
@@ -141,7 +146,7 @@ Minutes:
 
 Completed / Agreed: ✔ / ✘
 
-6. Governing Board Elections *Greg / Riaan*
+Governing Board Elections *Greg / Riaan*
 ----------------------------------------
 *≈ 2 min*
 
@@ -160,20 +165,19 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-7. Design Work *Robin / Jason*
+Design Work *Robin / Jason*
 ---------------------------
 *≈ 5 min*
 
 Agenda Notes:
 
+* Amazing work and massive delivery by Jason of creative for DASA in the last
+  couple of weeks!
+
 Tasks:
 
-* *Robin* / *Jason* to push already-updated new CI to our public repo.
-* *Robin* / *Jason* to make the Pretoria colour purple.
-* *Robin* / *Jason* to create pretty badges for membership options.
 * *Robin* / *Jason* to create design elements for our Google+ page. Then provide
   to *Lee* for implementation.
-* *Robin* / *Jason* to send versions to the custodians of meetup.com pages.
 * *Robin* / *Jason* to create Drupal 8 launch party sticker designs for
   attendants: "I was at the Drupal 8 launch party".
 
@@ -185,7 +189,7 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-8. Membership & Fund-raising *Renate / Robin*
+Membership & Fund-raising *Renate / Robin*
 ------------------------------------------
 *≈ 5 min*
 
@@ -328,8 +332,8 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-Other Areas *Riaan / ?*
------------------------
+Other Areas *Riaan / N/A*
+-------------------------
 *≈ 1 min*
 
 * Potentially starting Durban, Windhoek and other areas depend on demand and on
@@ -739,16 +743,6 @@ Minutes:
 Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
 
 Sponsorship *N/A / Renate*
 --------------------------
