@@ -337,6 +337,7 @@ Other Areas *Riaan / N/A*
 -------------------------
 *≈ 1 min*
 
+* Nothing new here, waiting till after Johannesburg DrupalCamp 2015.
 * Potentially starting Durban, Windhoek and other areas depend on demand and on
   availability of people from existing centres to go there. We will attempt to
   get a Durban one going in 2015.
@@ -407,8 +408,8 @@ Tasks:
   webmaster and point of contact for updates.
 * *Riaan*, once we have >= 10 companies donating or as members, change
   attribution from *Donation by Person* to *Donation by Person at Company*.
-  * Currently we have 8: DunnLofts, Burtronix, AdCorp, Robboto, SuproNet and
-  eConsultant, Amazee, Ingen Media.
+  * Currently we have 8: DunnLofts, Burtronix, AdCorp, Robboto, SuproNet,
+    eConsultant, Amazee, Ingen Media.
 * *Riaan* to place a review of the company links by the board on the agenda
   in April, August and December. We're checking that the new company links does
   not become "top-heavy" looking abusive or highlighting few over many.
@@ -475,15 +476,24 @@ Accounting *Adam / Riaan*
 
 Agenda Notes:
 
-    Account:, 62446745492
-    Balance:, 7406.00, 7406.00
+    Account: 62446745492
+    Balance: 16213.33
 
-    2015/01/16, 100.00,  7406.00, INTERNET TRF FROM      DUNNLOFTS TO DASA
-    2015/01/10, -61.00,  7306.00, #MONTHLY ACCOUNT FEE
-    2014/12/27, 1200.00, 7367.00, INTERNET TRF FROM     BURTRONIX DONATION
-    2014/11/17,  500.00, 6228.00, INTERNET TRF FROM     BURTRONIX DONATION
-    2014/11/11,  -61.00, 5728.00, #MONTHLY ACCOUNT FEE
-    2014/11/10,  500.00, 5789.00, INTERNET TRF FROM     BURTRONIX DONATION
+    2015/02/14,     0.00, 16213.33, EMAIL SENDING FEE     FAMOUS PRINT
+    2015/02/14,   150.00, 16213.33, INTERNET TRF FROM     DASA IND MEMBER (Dunlofts Indiv Sponsor)
+    2015/02/13, -1681.67, 16063.33, DASA PROOF 19862
+    2015/02/11,   -61.00, 17745.00, #MONTHLY ACCOUNT FEE
+    2015/02/11,  3150.00, 17806.00, INTERNET TRF FROM     IGEN SPONSORSHIP
+    2015/02/07,   150.00, 14656.00, INTERNET TRF FROM     RIAAN INDIV SPONSR
+    2015/02/05,  1000.00, 14506.00, INTERNET TRF FROM     BURTRONIX DONATION
+    2015/02/05,  6000.00, 13506.00, INTERNET TRF FROM     BURTRONIX GOLD SPONS
+    2015/01/21,   100.00,  7506.00, FNB OB PMT            DUBOIS DONATION
+    2015/01/16,   100.00,  7406.00, INTERNET TRF FROM     DUNNLOFTS TO DASA
+    2015/01/10,   -61.00,  7306.00, #MONTHLY ACCOUNT FEE
+    2014/12/27,  1200.00,  7367.00, INTERNET TRF FROM     BURTRONIX DONATION
+    2014/11/17,   500.00,  6228.00, INTERNET TRF FROM     BURTRONIX DONATION
+    2014/11/11,   -61.00,  5728.00, #MONTHLY ACCOUNT FEE
+    2014/11/10,   500.00,  5789.00, INTERNET TRF FROM     BURTRONIX DONATION
 
 Tasks:
 
