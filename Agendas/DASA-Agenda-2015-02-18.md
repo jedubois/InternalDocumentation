@@ -559,29 +559,6 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-Drupal Speaker(s) at MyWoT (My world of Technology) *Adam / N/A*
-----------------------------------------------------------------
-*≈ 5 min*
-
-Agenda Notes:
-
-* We need to assign people. It's *N/A* right now in the heading.
-* Provides an opportunity to speak to people outside of the Drupal community.
-
-Tasks:
-
-* *Adam* to investigate speakership opportunities at the MyWoT.
-* *Adam* to check if, as an NPO, we can get a free stand.
-* *N/A* (several of us as the event gets closer, to work on the stand.
-
-Minutes:
-
-*
-
-Completed / Agreed: ✔ / ✘
-
---------------------------------------------------------------------------------
-
 Any Other Business *Everyone*
 -----------------------------
 *≈ 15 min*
@@ -598,8 +575,8 @@ Completed / Agreed: ✔ / ✘
 
 ================================================================================
 
-DmCJHB'15: Drupal MiniCamp Johannesburg 2015
-============================================
+DrupalCamp Johannesburg 2015
+============================
 
 * Date: **Saturday, 28 March 2015**
 * Time: 09:00 - 15:00
@@ -779,6 +756,93 @@ Agenda Notes:
 Tasks:
 
 * *Renate* to keep a list of costs *anyone* identifies and e-mails to her.
+
+Minutes:
+
+*
+
+Completed / Agreed: ✔ / ✘
+
+================================================================================
+
+DrupalCamp Cape Town 2015 *Jason / N/A*
+=======================================
+*≈ 5 min*
+
+Agenda Notes:
+
+* Date: **August 2015**
+
+Tasks:
+
+* **Jason** to pick a good date.
+* **Jason** to further develop agenda entries as planning gets started.
+* We need to assign people. It's *N/A* right now in the heading.
+
+Minutes:
+
+*
+
+Completed / Agreed: ✔ / ✘
+
+================================================================================
+
+MyWoT (My world of Technology) 2015 *Adam / N/A*
+================================================
+*≈ 5 min*
+
+Agenda Notes:
+
+* Date: **September 2015**
+
+Tasks:
+
+* **Adam** to further develop agenda entries as planning gets started.
+* We need to assign people. It's *N/A* right now in the heading.
+
+Minutes:
+
+*
+
+Completed / Agreed: ✔ / ✘
+
+--------------------------------------------------------------------------------
+
+Speakers *Adam / N/A*
+---------------------
+*≈ 5 min*
+
+Agenda Notes:
+
+* We need to assign people. It's *N/A* right now in the heading.
+* Provides an opportunity to speak to people outside of the Drupal community.
+
+Tasks:
+
+* *Adam* to investigate speakership opportunities at the MyWoT.
+* *Adam* to check if, as an NPO, we can get a free stand.
+* *N/A* (several of us as the event gets closer), to work on the stand.
+
+Minutes:
+
+*
+
+Completed / Agreed: ✔ / ✘
+
+================================================================================
+
+DrupalCamp Pretoria 2016 *Renate / N/A*
+=======================================
+*≈ 5 min*
+
+Agenda Notes:
+
+* Date: **March 2016**
+
+Tasks:
+
+* **Renate** to further develop agenda entries as planning gets started.
+* We need to assign people. It's *N/A* right now in the heading.
 
 Minutes:
 
