@@ -37,6 +37,7 @@ Quorum achieved: ✔ / ✘
 Agenda Notes:
 
 * Apologies from Jason Lewis
+* Congratulations to the Taylor family on their new drupal entity who arrived last Wednesday. Enjoy your baby as you will only have for twenty years. 
 
 Minutes:
 
