@@ -20,30 +20,31 @@ Wednesday evening 18 February 2015.
 
     Person   Attending ✔ / ✘ Apologies
     ==================================
-    Riaan Burger       ✔ / ✘
-    Greg McKeen        ✔ / ✘
-    Jason Lewis        ✔ / ✘
-    Adam Dunn          ✔ / ✘
-    Robin Prieschl     ✔ / ✘
-    Johan du Bois      ✔ / ✘
-    Lancelot Nyachoto  ✔ / ✘
-    Ivan Breet         ✔ / ✘
-    Lee Taylor         ✔ / ✘
-    Renate Ehlers      ✔ / ✘
-    Andre              ✔ / ✘
+    Riaan Burger       ✔ 
+    Greg McKeen        ✔ 
+    Jason Lewis        ✘
+    Adam Dunn          ✔
+    Robin Prieschl     ✔ 
+    Johan du Bois      ✔
+    Lancelot Nyachoto  ✘
+    Ivan Breet         ✔ 
+    Lee Taylor         ✘
+    Renate Ehlers      ✔
+    Andre              ✔
+    Lauro              ✔
 
 Quorum achieved: ✔ / ✘
 
 Agenda Notes:
 
 * Apologies from Jason Lewis
-* Congratulations to the Taylor family on their new drupal entity who arrived last Wednesday. Enjoy your baby as you will only have for twenty years. 
+* Congratulations to the Taylor family on their new Drupal entity who arrived last Wednesday. Enjoy your baby as you will only have her for twenty years. 
 
 Minutes:
 
-*
+* Congratulations to Lee. :)
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -62,9 +63,9 @@ Tasks:
 
 Minutes:
 
-*
+* Confirmed.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -86,9 +87,9 @@ Tasks:
 
 Minutes:
 
-*
+* *Riaan* will retrieve the constitution.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -98,7 +99,7 @@ NPO Registration  *Johan / N/A*
 
 Agenda Notes:
 
-*
+* 
 
 Tasks:
 
@@ -118,9 +119,10 @@ Tasks:
 
 Minutes:
 
-*
+* *Johan* will send documents to *Adam*
+* First narrative report is due in August.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -145,9 +147,11 @@ Tasks:
 
 Minutes:
 
-*
+* *Johan* has provided indicators in a mind map, and will send them to core@dasa
+* *Everyone* to comment on it.
+* *Johan* to map out sources of verification, where we get our data and mapped to metrics
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -164,7 +168,7 @@ Tasks:
 
 Minutes:
 
-*
+* *Greg* hasn't completed this yet.
 
 Completed / Agreed: ✔ / ✘
 
@@ -188,9 +192,9 @@ Tasks:
 
 Minutes:
 
-*
+* *Jason* worked like crazy. Lot's of creative delivery done decently, and very proud of the work completed. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -213,9 +217,9 @@ Tasks:
 
 Minutes:
 
-*
+* Memberships are now available, but are overshadowed by the marketting for the Drupal camp taking place.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -240,9 +244,9 @@ Tasks:
 
 Minutes:
 
-*
+* No notes.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -265,9 +269,14 @@ Tasks:
 
 Minutes:
 
-*
+* The DASA board has given permission to the "presiding officer"/"host"/"meeting organiser" to ask the disruptive person, to leave, or subsequently be removed from the venue. General code of conduct rules apply at all meetups. We aim to provide safe and secure meetings that all can learn from and network without fear of disruption. 
+* Care should be taken to ensure anyone who is asked to leave the meeting, due to drunken-ness, is able to get safely home.
+* Endangering the relationship with venues, events and community members may result in a ban from attending events. This is a major risk to the identity of Drupal in South Africa, and must be dealt with.
+* *Robin* will communicate decisions taken, to Jason Lewis to inform the Cape Town meetup. Renate is present for Pretoria, and Ivan is present for Johannesburg.
+* *Everyone* look for a speaker for the next meetup. *Andre* will potentially talk about setting up slides for meetups with Gulp, as a backup, or an "Using Advanced GIT".
+* *Andre* Slides links need to be placed in a central place, g.d.o
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ------------------------------------------------------------------------------
 
@@ -289,9 +298,9 @@ Tasks:
 
 Minutes:
 
-*
+* Talks are lined up for the next 2/3 months.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -326,9 +335,10 @@ Tasks:
 
 Minutes:
 
-*
+* *Ivan* venue is no longer available.
+* *Riaan* will create tasks for everyone to signup on meetup.com, and for the camp.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -348,13 +358,13 @@ Agenda Notes:
 
 Tasks:
 
-*
+* None
 
 Minutes:
 
-*
+* None
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -385,9 +395,10 @@ Tasks:
 
 Minutes:
 
-*
+* *Robin* Mailchimp is setup and verified. Signup is created, and will be placed on the dasa website.
+* *Riaan* to help *Robin* to add to the site. *Andre* is also available to assist.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -415,9 +426,11 @@ Tasks:
 
 Minutes:
 
-*
+* *Riaan* requires donations information from Cape Town. 
+* Add *Envisionme* to companies listing.
+* Move Donations to it's own page.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -437,7 +450,7 @@ Tasks:
 
 Minutes:
 
-*
+* None
 
 Completed / Agreed: ✔ / ✘
 
@@ -458,9 +471,9 @@ Tasks:
 
 Minutes:
 
-*
+* Paused until the new groups functionality is launched by groups.drupal.org
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -504,9 +517,9 @@ Tasks:
 
 Minutes:
 
-*
+* Payment 19862 (1681.67) for stickers for the Drupal Camp. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -528,9 +541,11 @@ Tasks:
 
 Minutes:
 
-*
+* Stickers are coming, with focus on the camp.
+* Creative for the banners is being developed.
+* *Renate* will send quotes to *Lauro* to review.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -556,9 +571,9 @@ Tasks:
 
 Minutes:
 
-*
+* *Robin* will publish to g.d.o when stickers are done.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -574,7 +589,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -613,9 +628,9 @@ Tasks:
 
 Minutes:
 
-* None
+* *Renate* is on top of everything.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -629,17 +644,16 @@ Agenda Notes:
 
 Tasks:
 
-* *Adam* to confirm food solution accommodating Halal & Vegetarians, can also
-  just be take-away orders.
 * *Adam* will find out if we have access to the network or will have to use
   their / his PCs.
 * *Adam* will find out if we have options available to record the sessions.
 
 Minutes:
 
-*
+* No facilities on the weekend.
+* *Riaan* will go look at the network in the auditorium with Adam, and regarding recording.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -650,7 +664,7 @@ Catering *Adam / Renate*
 Agenda Notes:
 
 * Open discussion. We do not have funds to cater lunch to all attendees.
-* We need to find out weather Business Connexion would be willing to open the
+* We need to find out whether Business Connexion would be willing to open the
   cafeteria for a certain amount of attendees. If not what alternative are we
   going to explore?
 
@@ -658,15 +672,12 @@ Tasks:
 
 * *Adam* to confirm food solution accommodating Halal & Vegetarians, can also
   just be take-away orders.
-* *Adam* will find out if we have access to the network or will have to use
-  their / his PCs.
-* *Adam* will find out if we have options available to record the sessions.
 
 Minutes:
 
-*
+* Catering decisions will be made at the next DASA meeting.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -688,7 +699,7 @@ Minutes:
 
 * Please note schedule under Speakers
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -719,7 +730,7 @@ Time Schedule
     09:30 09:35 00:05 Introduce Speaker  Renate Ehlers    n/a
     09:35 09:50 00:15 Keynote            Greg McKeen      Keynote
     09:50 09:55 00:05 Introduce Speaker  Renate Ehlers    n/a
-    09:55 10:35 00:40 Speech             t.b.c            Bx Cloud Services
+    09:55 10:35 00:40 Speech             t.b.c            BCX Professional Services
     10:35 10:55 00:20 Break / Social     Renate Ehlers    n/a
     10:55 11:00 00:05 Introduce Speaker  Renate Ehlers    n/a
     11:00 11:40 00:40 Speaker            Robin Prieschl   General Drupal
@@ -742,9 +753,11 @@ Tasks:
 
 Minutes:
 
-*
+* BCX will only have 1 person.
+* Robin and Jason will combine their talks. 
+* Last slot to Michael Schmidt from the Drupal Association on Drupal 8.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -761,9 +774,9 @@ Tasks:
 
 Minutes:
 
-*
+* Newsletter will be sent out next week.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -807,9 +820,9 @@ Tasks:
 
 Minutes:
 
-*
+* Only Stickers purchased so far.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -819,7 +832,7 @@ DrupalCamp Cape Town 2015 *Jason / N/A*
 
 Agenda Notes:
 
-* Date: **August 2015**
+* Date: **August/September 2015**
 
 Tasks:
 
@@ -829,19 +842,19 @@ Tasks:
 
 Minutes:
 
-*
+* None
 
 Completed / Agreed: ✔ / ✘
 
 ================================================================================
 
-MyWoT (My world of Technology) 2015 *Adam / N/A*
+MyWoT (My world of Tomorrow) 2015 *Adam / N/A*
 ================================================
 *≈ 5 min*
 
 Agenda Notes:
 
-* Date: **September 2015**
+* Date: **22nd - 24th October 2015**
 
 Tasks:
 
@@ -850,9 +863,9 @@ Tasks:
 
 Minutes:
 
-*
+* *Adam* will meet with them shortly, and refer back.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -873,9 +886,9 @@ Tasks:
 
 Minutes:
 
-*
+* To revisit in a couple of months.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -894,9 +907,9 @@ Tasks:
 
 Minutes:
 
-*
+* To revisit in a couple of months.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -926,9 +939,9 @@ Tasks:
 
 Minutes:
 
-*
+* To revisit in a couple of months.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -955,9 +968,9 @@ Agenda Notes:
 
 Minutes:
 
-*
+* None
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
