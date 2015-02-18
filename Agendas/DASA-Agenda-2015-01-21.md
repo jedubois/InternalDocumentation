@@ -20,29 +20,29 @@ Wednesday evening 21 January 2015.
 
     Person   Attending ✔ / ✘ Apologies
     ==================================
-    Riaan Burger       ✔ / ✘
-    Greg McKeen        ✔ / ✘
-    Jason Lewis        ✔ / ✘
-    Adam Dunn          ✔ / ✘
-    Robin Prieschl     ✔ / ✘
-    Johan du Bois      ✔ / ✘
-    Lancelot Nyachoto  ✔ / ✘
-    Ivan Breet         ✔ / ✘
-    Lee Taylor         ✔ / ✘
-    Renate Ehlers      ✔ / ✘
-    Andre              ✔ / ✘
+    Riaan Burger       ✔
+    Greg McKeen        ✔
+    Jason Lewis        ✔
+    Adam Dunn          ✔
+    Robin Prieschl     ✔
+    Johan du Bois      ✔
+    Lancelot Nyachoto  ✘
+    Ivan Breet         ✔
+    Lee Taylor         ✔
+    Renate Ehlers      ✔
+    Andre              ✔
 
-Quorum achieved: ✔ / ✘
+Quorum achieved: ✔
 
 Agenda Notes:
 
-* Apologies from:
+* Apologies from: Lancelot has sent apologies.
 
 Minutes:
 
-*
+* 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -61,9 +61,9 @@ Tasks:
 
 Minutes:
 
-*
+* Riaan got the date right this month.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -82,9 +82,9 @@ Tasks:
 
 Minutes:
 
-*
+* Will be signed on Wednesday. Riaan may retrieve it at the meetup, else another plan will be made.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -105,9 +105,13 @@ Tasks:
 
 Minutes:
 
-*
+* *Johan* will take this offline and rename the agenda item.
+* Requirements have been looked at. Constitution seems to align with NPO rules. Submit application form, completed by Secretary, Chair Person and Treasurer. Within 2 - 6 months to receive a certificate. All the stationary should be updated to reflect the status.
+* *Johan* to send documents and package of what needs to happen.
+* Reporting requirements, annually a narative report. Financial statements, signed by accounting officer. Any changes to the board and leadership, constitution, etc.
+* Needs analysis discussion moved to indicators agenda item.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -124,9 +128,9 @@ Tasks:
 
 Minutes:
 
-*
+* Still to be done.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -138,21 +142,25 @@ Agenda Notes:
 
 Tasks:
 
-* *Robin* / *Jason* to remove "of" from the primary DASA logo.
-* *Robin* / *Jason* to create pretty badges for membership options.
-* *Robin* / *Jason* to create localised CI for Pretoria and Windhoek.
+* *Robin* / *Jason* to remove "of" from the primary DASA logo. *Done*
+* *Robin* / *Jason* to create pretty badges for membership options. *Outstanding*
+* *Robin* / *Jason* to create localised CI for Pretoria and Windhoek. *Done*
 * *Robin* / *Jason* to create design elements for our Google+ page. Then provide
-  to *Lee* for implementation.
+  to *Lee* for implementation. *Outstanding*
 * *Robin* / *Jason* to create design elements for our GitHub account and page.
-  Then provide to *Ivan* for implementation.
-* *Riaan* to help *Robin* create a GitHub repo for the CI.
-* *Robin* / *Jason* to send versions to the custodians of meetup.com pages.
+  Then provide to *Ivan* for implementation. *Done*
+* *Riaan* to help *Robin* create a GitHub repo for the CI. *Outstanding*
+* *Robin* / *Jason* to send versions to the custodians of meetup.com pages. 
 
 Minutes:
 
-*
+* All regional brandings have been created
+* DASA material has been made available in PDF and PNG formats
+* Robin needs to be able to submit via GitHub, once his keys issue has been resolved
+* Renate requests a purple colour for Pretoria
+* *Robin* to follow up with meetup.com page owners, to update the CI.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -170,15 +178,18 @@ Tasks:
 * *Everyone* able to sign up as individual and agency members.
 * *Everyone* to encourage agencies and friends  to sign up as individual and
   agency members.
-* *Everyone* able to to try to donate R 100 / R 200 per month.
+* *Everyone* able to try to donate R 100 / R 200 per month.
 * *Riaan* to follow up with the project managers.
 * *Renate* and *Robin* will post messages to the newsletter and GDoSA.
 
 Minutes:
 
-*
+* Badges are required to push the membership aspect.
+* Messages need to be posted to the newsletter, to encourage signup.
+* *Adam* to distribute banking details.
+* Marketting once the CI is in place.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -187,13 +198,13 @@ National User Group Meet-ups
 
 --------------------------------------------------------------------------------
 
-National *Robin / ?*
+National *Robin / Jason*
 --------------------
 *≈ 1 min*
 
 Agenda Notes:
 
-* We need to assign a backup for this to someone. It's *N/A* right now in the
+* We need to assign a backup for this to someone. It's *Jason* right now in the
   heading.
 
 Tasks:
@@ -210,9 +221,11 @@ Tasks:
 
 Minutes:
 
-*
+* Newsletter is being finalised by *Robin*, first one will go out Wednesday 11 Feb 2015.
+* Move these items into a Wiki.
+* *Ivan* to send e-mail addresses to *Robin* for the newsletter.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -230,9 +243,12 @@ Tasks:
 
 Minutes:
 
-*
+* *Ivan* will get us setup with Adcorps video conferencing, and see if it's possible to use with a Mac.
+* *Ivan* We need to get a decent influx of speakers. 
+* *Ivan* Hopefully we can setup a plan for the year.
+* *Robin* to note that there is a planning session, in the newsletter.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ------------------------------------------------------------------------------
 
@@ -250,9 +266,16 @@ Tasks:
 
 Minutes:
 
-*
+* *Jason* Speakers are difficult to get.
+* 16 people signed up for the next meetup. Johan and Victor will be speaking. 
+* Riaan will attempt to be there for the Jan meetup.
+* *Jason* / *Johan* Speak to Mark Theunissen about potentially speaking.
+* Attempt to have 2 events active at a time. JHB will attempt the same.
+* *Jason* requests potentially having a banner to show at the Cape Town meetups, also shirts for the speakers.
+* *Jason* send quotes to core@dasa
+* *Jason* will speak to the Cape Town guys, to find out if anyone wants to come to JHB to speak.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -281,15 +304,16 @@ Tasks:
 * *Renate* to speak to TUKS about getting it on the Radio.
 * *Renate* and *Ivan* to invite some people from Pretoria to attend the
   Johannesburg meetups before March.
-* *Ivan* to talk tot he Angular meetup who may be interested to help.
+* *Ivan* to talk to the Angular meetup who may be interested to help.
 * *Renate* to announce at the Johannesburg meetup in case people want to drive
   through to attend the Pretoria meetups too.
 
 Minutes:
 
-*
+* Last Wednesday of every month.
+* First three speakers are setup for the first meeting. Greg (overview), Riaan (technical), Renate (planning).
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -313,7 +337,7 @@ Tasks:
 
 Minutes:
 
-*
+* Turn this item into a "note" so that it doesn't need to be addressed everytime.
 
 Completed / Agreed: ✔ / ✘
 
@@ -341,9 +365,9 @@ Tasks:
 
 Minutes:
 
-*
+* Turn this item into a "note" so that it doesn't need to be addressed everytime.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -379,13 +403,13 @@ Tasks:
   * Describe frequency of e-mails
 * *Robin* to start writing monthly newsletters (send the first). Start with
   low-work-load sections first (events list), contacts, template.
-* *Andre* to support Robin to assure this all happens.
+* *Andre* to support Robin to ensure this all happens.
 
 Minutes:
 
-*
+* Postponed until Feb.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -400,25 +424,25 @@ Agenda Notes:
 Tasks:
 
 * *Riaan* to ask *Jason* to update with Cape Town data (donations).
-* *Lee* will help *Adam* setup GitHub account and subscribe to the DASA repo.
+* *Lee* will help *Adam* setup GitHub account and subscribe to the DASA repo. *Done*
 * *Adam* or *Riaan* (fall-back) to update general and Johanneburg data.
 * *Jason* to update Cape Town data or notify *Riaan* or *Adam* with the data to
   update.
 * *Renate* to bring the site up for local development, on success becoming
-  webmaster and point of contact for updates.
-* *Riaan*, once we have >= 16 companies donating or as members, change
+  webmaster and point of contact for updates. *In Progress*
+* *Riaan*, once we have >= 10 companies donating or as members, change
   attribution from *Donation by Person* to *Donation by Person at Company*.
-  * Currently we have 6: DunnLofts, Western Cape Government, Burtronix, AdCorp,
-    Robboto and SuproNet.
+  * Currently we have 6: DunnLofts, Burtronix, AdCorp, Robboto, SuproNet and eConsultant
 * *Riaan* to place a review of the company links by the board on the agenda
   in April, August and December. We're checking that the new company links does
   not become "top-heavy" looking abusive or highlighting few over many.
 
 Minutes:
 
-*
+* *Jason* to add donations info to the DASA site.
+* Remove the numbers. Creates unneccessary posteuring.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -438,9 +462,9 @@ Tasks:
 
 Minutes:
 
-*
+* Postponed until the Pretoria meetup begins.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -459,9 +483,9 @@ Tasks:
 
 Minutes:
 
-*
+* Once the Pretoria data, and JHB Mini Camp data has been set, Andre will update the GDoSA system.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -488,13 +512,13 @@ Tasks:
 
 Minutes:
 
-*
+* Move into Notes (Wiki) section.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
-DASA Shared Calendar *Lee / Adam*
+DASA Shared Calendar *Lancelot*
 ---------------------------------
 *≈ 5 min*
 
@@ -509,7 +533,7 @@ Tasks:
 
 Minutes:
 
-*
+* Move into Notes (Wiki) section.
 
 Completed / Agreed: ✔ / ✘
 
@@ -534,13 +558,13 @@ Tasks:
  * dasa.web.za
 
 * These are registered and *Lee* will donate them to DASA, should get the DASA details so that DASA is recorded as the registrant.
-* *Lee* will setup redirects to dasa.org.za for all the domains, mail has already been alises in GApps.
+* *Lee* will setup redirects to dasa.org.za for all the domains, mail has already been aliases in GApps.
 
 Minutes:
 
-*
+* Domain has been moved to diamatrix, away from Hetzner.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -566,9 +590,9 @@ Tasks:
 
 Minutes:
 
-*
+* No real change in status. Adam will cover the bank fees.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -596,9 +620,10 @@ Tasks:
 
 Minutes:
 
-*
+* *Jason* / *Renate* to send quotes to contrib list.
+* *Jason* / *Robin* to send quotes for shirts.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -622,9 +647,11 @@ Tasks:
 
 Minutes:
 
-*
+* Cobblestones requires notification if there's more than 30 people
+* Cape Town will co-ordinate their own meetup. 
+* Stickers to say "I was at the Drupal 8 launch party"
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -643,9 +670,11 @@ Tasks:
 
 Minutes:
 
-*
+* MWOT (My World of Technology).
+* As an NPO, we can get a free stand.
+* Provides an opportunity to speak to people outside of the Drupal community.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -667,9 +696,9 @@ Tasks:
 
 Minutes:
 
-*
+* *Johan* will circulate a proposal to the contrib mail list.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -683,13 +712,13 @@ Agenda Notes:
 
 Minutes:
 
-*
+* None
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
-DmCJHB'15: Drupal MiniCon Johannesburg 2015
+DmCJHB'15: Drupal MiniCamp Johannesburg 2015
 ===========================================
 
 * Date: **Saturday, 28 March 2015**
@@ -709,17 +738,14 @@ Agenda Notes:
 
 Tasks:
 
-* *Robin* to design attendance, sponsor (four), speaker and organiser badges
+* *Robin* to design attendance, sponsor (four grades of sponsorship), speaker and organiser badges
   suitable to be printed on vinyl stickers.
-* *Adam* to get a menu from the caterers for us to publish. If they need
-  requirements, we only need basics, like ham & cheese sandwich and something
-  for potential vegetarians.
 
 Minutes:
 
-*
+* None
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -734,15 +760,22 @@ Agenda Notes:
 Tasks:
 
 * *Adam* to confirm venue availability urgently.
-* *Greg* and *Adam* to meet urgently to make sure a business connection ;-) can
+* *Riaan* and *Adam* to meet urgently to make sure a business connection ;-) can
   be made with a speaker at the conference from BCX regarding their cloud
   services.
+* *Adam* to get a menu from the caterers for us to publish. If they need
+  requirements, we only need basics, like ham & cheese sandwich and something
+  for potential vegetarians.
 
 Minutes:
 
-*
+* Requests a write up of the Camp.
+* Riaan will go with Adam to go meet BCX, and perhaps Ivan. First week of Feb.
+* Adam needs an email to send to them, explaining the vision and mission of the camp.
+* Adam will find out if we have access to the network etc. 
+* Find out about Recording facilities.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -761,9 +794,9 @@ Tasks:
 
 Minutes:
 
-*
+* 9am - 3pm. Lunch break at ±11:30-12:30 (1hour).
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -788,9 +821,16 @@ Tasks:
 
 Minutes:
 
-*
+* 2 guys from BCX. Minimum of 1. 20 minutes each.
+* ±40 minutes talk, 30/20 minutes and 10/20 for Q&A.
+* Slides must be vetted within 2 weeks before the event.
+* Riaan will talk about Responsibility of Web Dev, Privacy, etc. 
+* Greg will do the keynote at 15 minutes, before lunch.
+* Renate/Ivan will MC.
+* Jason/Robin to talk about the creative approach.
+* Drupal segment required. Brief overview of Drupal projects created by South African companies. (Robin)
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -810,7 +850,7 @@ Minutes:
 * Once venue is confirmed, as soon as possible, *Robin* to coordinate
   announcements and event listing.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -852,9 +892,10 @@ Tasks:
 
 Minutes:
 
-*
+* Costs will be finalised by the next DASA meeting. 
+* Renate is authorised to make executive decisions regarding the mini-camp.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -881,9 +922,9 @@ Tasks:
 
 Minutes:
 
-*
+* Place into the Wiki, postpone to next year. Replaced with MWOT as a suggestion.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -912,8 +953,8 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
-The End. 9 PM
+The End. 9:05 PM
