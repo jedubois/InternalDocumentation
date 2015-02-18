@@ -36,7 +36,7 @@ Quorum achieved: ✔ / ✘
 
 Agenda Notes:
 
-*
+* Apologies from Jason Lewis
 
 Minutes:
 
@@ -310,15 +310,13 @@ Tasks:
 
 * *Ivan* and *Renate* will coordinate.
 * *Ivan* will phone some people at the university to find out about a venue.
-* *Renate* to start a meetup.com group now and solicit sign-ups.
+* *Renate* to solicit sign-ups.
 * *Renate* to book Johannesburg speakers (speak to *Ivan*) to fill three months'
   meetups in advance.
 * *Renate* to speak to TUKS about getting it on the Radio.
 * *Renate* and *Ivan* to invite some people from Pretoria to attend the
   Johannesburg meetups before March.
 * *Ivan* to talk to the Angular meetup who may be interested to help.
-* *Renate* to announce at the Johannesburg meetup in case people want to drive
-  through to attend the Pretoria meetups too.
 * First: **Wednesday the 25th of March**
   Speakers:
   * *Greg*: Overview
@@ -640,6 +638,33 @@ Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
+Catering *Adam / Renate*
+------------------------
+*≈ 5 min*
+
+Agenda Notes:
+
+* Open discussion. We do not have funds to cater lunch to all attendees.
+* We need to find out weather Business Connexion would be willing to open the
+  cafeteria for a certain amount of attendees. If not what alternative are we
+  going to explore?
+
+Tasks:
+
+* *Adam* to confirm food solution accommodating Halal & Vegetarians, can also
+  just be take-away orders.
+* *Adam* will find out if we have access to the network or will have to use
+  their / his PCs.
+* *Adam* will find out if we have options available to record the sessions.
+
+Minutes:
+
+*
+
+Completed / Agreed: ✔ / ✘
+
+--------------------------------------------------------------------------------
+
 Date and Times *N/A / Renate*
 -----------------------------
 *≈ 5 min*
@@ -652,13 +677,11 @@ Agenda Notes:
 
 Tasks:
 
-* *Renate* to compile a schedule here of the times, speakers and lunch break.
-  * Lunch break around 11:30 - 12:30.
-  * *Adam* wrangling speakers and *Greg* vetting talks.
+* *Adam* wrangling speakers and *Greg* vetting talks.
 
 Minutes:
 
-*
+* Please note schedule under Speakers
 
 Completed / Agreed: ✔ / ✘
 
@@ -683,6 +706,26 @@ Agenda Notes:
     * Ivan (Reserve MC)
 * Do we need more, if so, how many and on what?
 * Speakers to contact *Adam* (wrangler), *Greg* (vetting) and *Renate* (ops).
+
+Time Schedule
+
+    From  To    ∆     Activity           Person           Topic
+    09:00 09:30 00:30 Social / Welcome   Renate Ehlers    n/a
+    09:30 09:35 00:05 Introduce Speaker  Renate Ehlers    n/a
+    09:35 09:50 00:15 Keynote            Greg McKeen      Keynote
+    09:50 09:55 00:05 Introduce Speaker  Renate Ehlers    n/a
+    09:55 10:35 00:40 Speech             t.b.c            Bx Cloud Services
+    10:35 10:55 00:20 Break / Social     Renate Ehlers    n/a
+    10:55 11:00 00:05 Introduce Speaker  Renate Ehlers    n/a
+    11:00 11:40 00:40 Speaker            Robin Prieschl   General Drupal
+    11:40 12:40 01:00 Lunch              Renate Ehlers    n/a
+    12:40 12:45 00:05 Introduce Speaker  Renate Ehlers    n/a
+    12:45 13:25 00:40 Speech             Gregory Gerhardt How to build a successful Drupal Shop
+    13:25 13:30 00:05 Introduce Speaker  Renate Ehlers    n/a
+    13:30 14:10 00:40 Speech             Riaan Burger     t.b.c
+    14:10 14:25 00:15 Break/social       Renate Ehlers    n/a
+    14:25 14:30 00:05 Introduce Speaker  Renate Ehlers    n/a
+    14:30 15:10 00:40 Speech             Jason Lewis      Creative Approach
 
 Tasks:
 
@@ -728,7 +771,7 @@ Agenda Notes:
 * *Renate* is authorised to make executive decisions regarding the mini-camp.
 
 * We have five total gold (four remaining) spots available.
-* We have five total silver (three remaining) spots available.
+* We have five total silver (two remaining) spots available.
 * With no additional expenses on catering or any other unplanned, we need at
   least three gold and four silver.
 
