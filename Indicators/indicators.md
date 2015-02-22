@@ -54,7 +54,7 @@ Newsletter
 
 **Adoption**
 
-Percentage of top SA sites in the top 10 000 in SA using Drupal:
+Percentage of top SA sites in the top 3 000 in SA using Drupal:
 
 * *Metric*: Quarterly percentage (compare to previous year's same quarter)
 
