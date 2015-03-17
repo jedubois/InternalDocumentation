@@ -157,6 +157,7 @@ Reference:
 Tasks:
 
 * *Everyone* to review *Johan's* indicators and comment.
+* https://github.com/DrupalAssociationSA/InternalDocumentation/blob/master/Indicators/indicators.md
 
 Minutes:
 
@@ -351,9 +352,9 @@ Tasks:
   * http://www.meetup.com/drupal-association-south-africa/events/220367539/
     * Riaan Burger ✔
     * Greg McKeen ✔ / ✘
-    * Jason Lewis ✔ / ✘
-    * Adam Dunn ✔ / ✘
-    * Robin Prieschl ✔ / ✘
+    * Jason Lewis ✔
+    * Adam Dunn ✔
+    * Robin Prieschl ✔
     * Johan du Bois ✔ / ✘
     * Lancelot Nyachoto ✔ / ✘
     * Ivan Breet ✔ / ✘
@@ -437,7 +438,8 @@ dasa.org.za Website *Riaan / Renate*
 
 Agenda Notes:
 
-*
+* *Riaan* suggests we wait for Assemble.io Gulp support (in the works) then
+  rebuild the site without any Ruby dependencies.
 
 Tasks:
 
@@ -684,14 +686,16 @@ Venue *Adam / Renate*
 Agenda Notes:
 
 * Business Connection, 100% confirmed.
+* *Adam* & *Riaan* tested the AV equiment and confirmed we will have WiFi.
+  Simple mini-Jack for audio and VGA for video.
+* *Riaan* bought a laptop to use for Hangouts.
 
 Tasks:
 
-* *Adam* will find out if we have access to the network or will have to use
-  their / his PCs.
 * *Adam* will find out if we have options available to record the sessions.
-* *Riaan* will visit Business Connection Auditorium to test some of the
-  equipment, both network and speakership presentation (audio and video).
+* *Adam* will check again that AV and WiFi will be available on the day.
+* *Adam* & *Riaan* will test Hangouts with the dedicated laptop before the
+  event.
 
 Minutes:
 
