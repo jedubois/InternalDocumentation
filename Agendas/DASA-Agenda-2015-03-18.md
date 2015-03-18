@@ -505,6 +505,40 @@ Minutes:
 
 Completed / Agreed: ✔ / ✘
 
+--------------------------------------------------------------------------------
+
+Vendor Referrals to Business Queries *Riaan / Renate*
+-----------------------------------------------------
+*≈ 10 min*
+
+Agenda Notes:
+
+* We receive requests from business to refer good Drupal vendors to them.
+* We need to develop fair, open criteria of good practices by Drupal vendors
+  to be able to refer good vendors in such cases.
+  * git
+  * features
+  * coding standards (PHP, JavaScript)
+  * security
+  * privacy
+  * intermittent review panel
+* We need more metrics for this. The more concrete the better. Automated
+  will also help.
+* We also receive complaints and need to develop a workflow that will help
+  Drupal vendors fix their service provision, perhaps through guided training
+  and provide for other workflow outcomes.
+
+Tasks:
+
+* *Riaan* and *Greg* to develop initial metrics.
+* *Everyone* to comment and help.
+
+Minutes:
+
+*
+
+Completed / Agreed: ✔ / ✘
+
 ================================================================================
 
 Administrative
