@@ -20,20 +20,21 @@ Wednesday evening 18 March 2015.
 
     Person    Attending ✔ / ✘ Apologies
     ===================================
-    Riaan Burger        ✔ / ✘
-    Greg McKeen         ✔ / ✘
-    Jason Lewis         ✔ / ✘
-    Adam Dunn           ✔ / ✘
-    Robin Prieschl      ✔ / ✘
-    Johan du Bois       ✔ / ✘
-    Lancelot Nyachoto   ✔ / ✘
-    Ivan Breet          ✔ / ✘
-    Lee Taylor          ✔ / ✘
-    Renate Ehlers       ✔ / ✘
-    Andre Artus         ✔ / ✘
-    Lauro Scott Parkin  ✔ / ✘
+    Riaan Burger        ✔ 
+    Greg McKeen         ✔ 
+    Jason Lewis         ✔
+    Adam Dunn           ✔
+    Robin Prieschl      ✔
+    Johan du Bois       ✔
+    Lancelot Nyachoto   ✘
+    Ivan Breet          ✔ 
+    Lee Taylor          ✘
+    Renate Ehlers       ✔ 
+    Andre Artus         ✘
+    Lauro Scott Parkin  ✘
+    Richard             ✔ 
 
-Quorum achieved: ✔ / ✘
+Quorum achieved: ✔
 
 Agenda Notes:
 
@@ -41,7 +42,8 @@ Agenda Notes:
 
 Minutes:
 
-*
+* Jason will be late, but will be attending.
+* Meeting begins at 6:45pm.
 
 Completed / Agreed: ✔ / ✘
 
@@ -62,9 +64,10 @@ Tasks:
 
 Minutes:
 
-*
+* Confirmed
+* No conference facilities available
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -86,9 +89,9 @@ Tasks:
 
 Minutes:
 
-*
+* Awaiting arrival of the consitution from the Courier service.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -119,9 +122,9 @@ Tasks:
 
 Minutes:
 
-*
+* Postponed until Johan is available.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -161,9 +164,9 @@ Tasks:
 
 Minutes:
 
-*
+* Postponed
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -182,9 +185,9 @@ Tasks:
 
 Minutes:
 
-*
+* Postponed
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -205,9 +208,10 @@ Tasks:
 
 Minutes:
 
-*
+* Newsletter design completed. Will be circulated shortly.
+* Lauro has sent some samples to Riaan, and will be forwarded to the core@dasa list.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -229,9 +233,9 @@ Tasks:
 
 Minutes:
 
-*
+* Postponed
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -260,9 +264,10 @@ Tasks:
 
 Minutes:
 
-*
+* Newsletter to go out this week.
+* Ivan will send addresses now that the design is done.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -289,9 +294,12 @@ Tasks:
 
 Minutes:
 
-*
+* Drupal speakers required. 
+* Richard is talking about Docker, etc at the next meetup.
+* Offices may not be available from August. JHB may need a new venue.
+* Next meetup is the 1st April.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ------------------------------------------------------------------------------
 
@@ -313,9 +321,9 @@ Tasks:
 
 Minutes:
 
-*
+* Postponed
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -367,7 +375,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -393,7 +401,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -426,9 +434,10 @@ Tasks:
 
 Minutes:
 
-*
+* Design has been completed. 
+* Friday morning it will be sent out to the community.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -454,14 +463,14 @@ Tasks:
 * *Riaan* to place a review of the company links by the board on the agenda
   in April, August and December. We're checking that the new company links does
   not become "top-heavy" looking abusive or highlighting few over many.
-* *Riaan* to move donations and history to their own pages and link to them from
+* *Riaan*/*Robin* to move donations and history to their own pages and link to them from
   the resources page.
 
 Minutes:
 
-*
+* *Robin* Newsletter widget signup to be added.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -481,9 +490,9 @@ Tasks:
 
 Minutes:
 
-*
+* Postponed
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -501,9 +510,10 @@ Tasks:
 
 Minutes:
 
-*
+* Postponed
+* Move to parked issues section
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -535,9 +545,10 @@ Tasks:
 
 Minutes:
 
-*
+* Have a self-submitted form outlining their skillsets and adding to a list of vendors. Crowd-sourced data is democratic and prevents barriers to entry. 
+* Put together a white-paper of recourse for clients and developers with complaints. (https://www.drupal.org/conflict-resolution)
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -596,13 +607,13 @@ Tasks:
 
 Minutes:
 
-*
+* Payments for DrupalCamp items and Posters.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
-Branded items for Meetups *Renate / Robin*
+Branded items for Meetups *Robin / Jason*
 ------------------------------------------
 *≈ 5 min*
 
@@ -622,9 +633,10 @@ Tasks:
 
 Minutes:
 
-*
+* Shirts still pending
+* Banners have been created and delivered
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -650,9 +662,9 @@ Tasks:
 
 Minutes:
 
-*
+* Postponed
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -666,9 +678,9 @@ Agenda Notes:
 
 Minutes:
 
-*
+* None
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -709,7 +721,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -733,9 +745,9 @@ Tasks:
 
 Minutes:
 
-*
+* 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -755,9 +767,9 @@ Tasks:
 
 Minutes:
 
-*
+* Adam will find out if one of the three quotes can be sponsored.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -777,9 +789,9 @@ Tasks:
 
 Minutes:
 
-*
+* Organisers arrive between 7am - 8am. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -799,18 +811,18 @@ Time Schedule
     09:30 09:35 00:05 Introduce Speaker  Renate Ehlers    n/a
     09:35 09:50 00:15 Keynote            Greg McKeen      Keynote
     09:50 09:55 00:05 Introduce Speaker  Renate Ehlers    n/a
-    09:55 10:35 00:40 Speech             t.b.c            BCX Professional Services
+    09:55 10:35 00:40 Speech             Kamlan Naidoo    BCX Professional Services
     10:35 10:55 00:20 Break / Social     Renate Ehlers    n/a
     10:55 11:00 00:05 Introduce Speaker  Renate Ehlers    n/a
-    11:00 11:40 00:40 Speaker            Robin & Jason    General Drupal & Creative Approach
+    11:00 11:40 00:40 Speaker            Riaan Burger     t.b.c
     11:40 12:40 01:00 Lunch              Renate Ehlers    n/a
     12:40 12:45 00:05 Introduce Speaker  Renate Ehlers    n/a
     12:45 13:25 00:40 Speech             Gregory Gerhardt How to build a successful Drupal Shop
     13:25 13:30 00:05 Introduce Speaker  Renate Ehlers    n/a
-    13:30 14:10 00:40 Speech             Riaan Burger     t.b.c
+    13:30 14:10 00:40 Speech             Robin            General Drupal, Drupal 8 & Creative Approach
     14:10 14:25 00:15 Break/social       Renate Ehlers    n/a
     14:25 14:30 00:05 Introduce Speaker  Renate Ehlers    n/a
-    14:30 15:10 00:40 Speech             T.B.C.           Drupal 8
+    14:30 15:10 00:40 Speech             Michael Schmidt  Drupal 8, Deeper Dive.
 
 Tasks:
 
@@ -822,9 +834,9 @@ Tasks:
 
 Minutes:
 
-*
+* *Renate*/*Robin* to ask *Riaan* for Gregory & Michael paragraph outline.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -841,7 +853,7 @@ Tasks:
 
 Minutes:
 
-*
+* *Renate* has spoken to TUKS and UJ FM. 
 
 Completed / Agreed: ✔ / ✘
 
@@ -855,8 +867,8 @@ Agenda Notes:
 
 * *Renate* is authorised to make executive decisions regarding the mini-camp.
 
-* We have five total gold (four remaining) spots available.
-* We have five total silver (two remaining) spots available.
+* We have five total gold (two remaining) spots available.
+* We have five total silver (one remaining) spots available.
 * With no additional expenses on catering or any other unplanned, we need at
   least three gold and four silver.
 
@@ -887,9 +899,10 @@ Tasks:
 
 Minutes:
 
-*
+* *Riaan* to send *Ivan* an Invoice
+* *Robin* to send logo to Riaan for Envisionme (a divison of Adcorp).
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -912,9 +925,10 @@ Tasks:
 
 Minutes:
 
-*
+* 5th September tentatively.
+* No venue yet.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -930,13 +944,14 @@ Tasks:
 
 * *Adam* to further develop agenda entries as planning gets started.
 * We need to assign people. It's *N/A* right now in the heading.
-*Adam* will meet with them shortly, and add to the Agenda Notes heading here.
+* *Adam* will meet with them shortly, and add to the Agenda Notes heading here.
 
 Minutes:
 
-*
+* Adam has already arranged for DASA to be part of MyWoT.
+* Source 5/6 companies to talk about their development in Drupal on the stage.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -959,7 +974,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -980,7 +995,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -1016,7 +1031,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -1045,8 +1060,8 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
-The End.
+The End. Meeting finished at 8:45pm.
