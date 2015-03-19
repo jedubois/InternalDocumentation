@@ -9,30 +9,30 @@ to the **Agenda Notes** only, start with your **"*Name:*"**.
 
 At meetings, only the **✔ / ✘** and **Minutes** sections will be updated.
 
-Agenda 2015-02-18
+Agenda 2015-04-15
 -----------------
 
 Attending / Apologies *Greg / Lance*
 ------------------------------------
 
 A list of people attending and apologies for not attending the DASA meeting on
-Wednesday evening 18 March 2015.
+Wednesday evening 15 April 2015.
 
     Person    Attending ✔ / ✘ Apologies
     ===================================
     Riaan Burger        ✔ / ✘
-    Greg McKeen         ✔
-    Jason Lewis         ✔
-    Adam Dunn           ✔
-    Robin Prieschl      ✔
-    Johan du Bois       ✔
-    Lancelot Nyachoto   ✘
-    Ivan Breet          ✔
-    Lee Taylor          ✘
-    Renate Ehlers       ✔
-    Andre Artus         ✘
-    Lauro Scott Parkin  ✘
-    Richard             ✔
+    Greg McKeen         ✔ / ✘
+    Jason Lewis         ✔ / ✘
+    Adam Dunn           ✔ / ✘
+    Robin Prieschl      ✔ / ✘
+    Johan du Bois       ✔ / ✘
+    Lancelot Nyachoto   ✔ / ✘
+    Ivan Breet          ✔ / ✘
+    Lee Taylor          ✔ / ✘
+    Renate Ehlers       ✔ / ✘
+    Andre Artus         ✔ / ✘
+    Lauro Scott Parkin  ✔ / ✘
+    Richard Banks       ✔ / ✘
 
 Quorum achieved: ✔ / ✘
 
@@ -42,32 +42,31 @@ Agenda Notes:
 
 Minutes:
 
-* Jason will be late, but will be attending.
-* Meeting begins at 6:45pm.
+*
 
 Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-Confirm Next Meeting *Greg / Lance*
+Confirm Next Meeting *Greg / Riaan*
 -----------------------------------
 *≈ 2 min*
 
 Agenda Notes:
 
-* Wednesday 15 April 2015 (third Wednesday of April).
+* Wednesday 20 May 2015 (third Wednesday of May).
 
 Tasks:
 
-* Confirm *Greg*, *Johan* and *Jason* tested virtual attendance using Hangouts.
-* *Ivan* to confirm if we can use the conference facilities.
+* Confirm *Greg* (*Lee* when back) invited people on Google Hangouts:
+  * *Johan*
+  * *Jason*
 
 Minutes:
 
-* Confirmed
-* No conference facilities available
+*
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
@@ -84,20 +83,19 @@ Tasks:
 * Confirm *everyone* read and signed the
   [Constitution](https://docs.google.com/document/d/1DYY133KEg320wm4mIIBMDMd8f31LpndEimysmFUe6oU).
 * *Greg* to arrange for the constitution back from *Johan* and *Jason*.
-* *Greg* to file the signed constitution.
-* *Riaan* to bring the signed constitution with from his trip to Cape Town.
+* *Renate* to sign the constitution.
 
 Minutes:
 
-* Awaiting arrival of the consitution from the Courier service.
+*
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
 NPO Registration  *Johan / Adam / Greg*
 ---------------------------------------
-*≈ 1 min*
+*≈ 3 min*
 
 Agenda Notes:
 
@@ -122,9 +120,9 @@ Tasks:
 
 Minutes:
 
-* Postponed until Johan is available.
+*
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
@@ -135,7 +133,8 @@ Developing Metrics for Measuring DASA's Success 2015/16  *Johan / Riaan*
 Agenda Notes:
 
 * Reference:
-  * https://github.com/DrupalAssociationSA/InternalDocumentation/blob/master/Indicators/indicators.md
+  * [indicators.md](https://github.com/DrupalAssociationSA/InternalDocumentation/blob/master/Indicators/indicators.md)
+* *Everyone* to review *Johan's* indicators (above) and comment.
 * Reporting for 2014-15 to be adopted at AGM within 6 months of financial year
   end (i.e. before end August):
     * Narrative report (Chairman)
@@ -159,14 +158,13 @@ Reference:
 
 Tasks:
 
-* *Everyone* to review *Johan's* indicators and comment.
-* https://github.com/DrupalAssociationSA/InternalDocumentation/blob/master/Indicators/indicators.md
+*
 
 Minutes:
 
-* Postponed
+*
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
@@ -182,12 +180,17 @@ Tasks:
 
 * *Greg* to create a "How-To" template for future elections. Have this available
   for adjustment throughout the election season.
+* Once DrupalCamp Johannesburg 2015 is done:
+  *Everyone* to send reports and recommendations to *Greg*.
+  *Greg* to compile such data into a report.
+  *Greg* to send the report to *Jason* for CTCamp and **Riaan*.
+  *Riaan* to submit data to DA.
 
 Minutes:
 
-* Postponed
+*
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
@@ -203,15 +206,35 @@ Tasks:
 
 * *Robin* / *Jason* to create design elements for our Google+ page. Then provide
   to *Lee* for implementation.
-* *Lauro* to create Drupal 8 launch party sticker designs for attendees:
-  "I was at the Drupal 8 launch party".
+* *Jason* and *Robin* will send quotes and designs for speaker shirts for the
+  national meetups to core@dasa.org.za.
+* After Johannesburg DrupalCamp 2015, *Riaan* to send banners to *Jason*.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Minutes:
 
-* Newsletter design completed. Will be circulated shortly.
-* Lauro has sent some samples to Riaan, and will be forwarded to the core@dasa list.
+*
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
@@ -233,9 +256,9 @@ Tasks:
 
 Minutes:
 
-* Postponed
+*
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 ================================================================================
 
@@ -264,10 +287,9 @@ Tasks:
 
 Minutes:
 
-* Newsletter to go out this week.
-* Ivan will send addresses now that the design is done.
+*
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
@@ -289,17 +311,17 @@ Tasks:
   previous slides of speakers with the dates they were presented on. Then to add
   a link from our website resources section to that wiki page. Then to maintain
   it.
-* *Everyone* to help *Ivan* find a speaker for the next johannesburg meetup on
-  the 4th of March.
+* *Everyone* to help *Ivan* find a speaker for the May johannesburg meetup.
+* *Everyone* to start considering a new venue in case office change does not
+  allow for current host. Possible chnage may be needed by August meetup.
+* *Ivan* to check, when available, if the new AdCorp offices will have podiums.
+  * If so then *Renate* and *Riaan* to rather get quotes for a microphone.
 
 Minutes:
 
-* Drupal speakers required.
-* Richard is talking about Docker, etc at the next meetup.
-* Offices may not be available from August. JHB may need a new venue.
-* Next meetup is the 1st April.
+*
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 ------------------------------------------------------------------------------
 
@@ -317,13 +339,12 @@ Tasks:
 * *Jason* / *Johan* Speak to Mark Theunissen about potentially speaking.
 * *Jason* will speak to the Cape Town guys, to find out if anyone wants to come
    to Johanneburg to speak.
-* *Jason* will send quotes and designs for national speaker t-shirts.
 
 Minutes:
 
 * Postponed
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
@@ -349,7 +370,6 @@ Tasks:
 * *Renate* to speak to TUKS about getting it on the Radio.
 * *Renate* and *Ivan* to invite some people from Pretoria to attend the
   Johannesburg meetups before April.
-* *Ivan* to talk to the Angular meetup who may be interested to help.
 * First: **Wednesday the 29th of April**
   Speakers:
   * *Greg*: Overview
@@ -359,49 +379,23 @@ Tasks:
   * http://www.meetup.com/Drupal-Pretoria/
   * http://www.meetup.com/drupal-association-south-africa/events/220367539/
     * Riaan Burger ✔
-    * Greg McKeen ✔ / ✘
+    * *Greg* McKeen ✔ / ✘
     * Jason Lewis ✔
     * Adam Dunn ✔
     * Robin Prieschl ✔
-    * Johan du Bois ✔ / ✘
-    * Lancelot Nyachoto ✔ / ✘
-    * Ivan Breet ✔ / ✘
-    * Lee Taylor ✔ / ✘
+    * *Johan* du Bois ✔ / ✘
+    * *Lancelot* Nyachoto ✔ / ✘
+    * *Ivan* Breet ✔ / ✘
+    * *Lee* Taylor ✔ / ✘
     * Renate Ehlers ✔
-    * Andre Artus ✔ / ✘
-    * Lauro Scott Parkin ✔ / ✘
+    * *Andre* Artus ✔ / ✘
+    * *Lauro* Scott Parkin ✔ / ✘
 
 Minutes:
 
 *
 
-Completed / Agreed: ✔
-
---------------------------------------------------------------------------------
-
-Other Areas *Riaan / N/A*
--------------------------
-*≈ 1 min*
-
-* Nothing new here, waiting till after Johannesburg DrupalCamp 2015.
-* Potentially starting Durban, Windhoek and other areas depend on demand and on
-  availability of people from existing centres to go there. We will attempt to
-  get a Durban one going in 2015.
-
-Agenda Notes:
-
-* We need to assign a backup for this to someone. It's *N/A* right now in the
-  heading.
-
-Tasks:
-
-*
-
-Minutes:
-
-*
-
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 ================================================================================
 
@@ -431,18 +425,18 @@ Tasks:
 * *Andre* to support Robin to ensure this all happens.
 * *Robin* to visit *Riaan* for assistance in adding a dedicated site to our
   website for sign-up to the newsletter. *Andre* is also available to assist.
+* *Robin* will send the first one on Friday 20 March.
 
 Minutes:
 
-* Design has been completed.
-* Friday morning it will be sent out to the community.
+*
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-dasa.org.za Website *Riaan / Renate*
-------------------------------------
+dasa.org.za Website *Riaan / Robin*
+-----------------------------------
 *≈ 8 min*
 
 Agenda Notes:
@@ -452,103 +446,52 @@ Agenda Notes:
 
 Tasks:
 
-* *Adam* or *Riaan* (fall-back) to update general and Johannesburg data.
-  * *Jason* to update Cape Town data or notify *Riaan* with the data.
-* *Renate* to bring the site up for local development, on success becoming
-  webmaster and point of contact for updates.
-* *Riaan*, once we have >= 10 companies donating or as members, change
+* *Jason* to send Cape Town data to *Riaan*.
+* *Riaan* to update Johannesburg and Cape Town data.
+* Awaiting [gulp-assemble](https://github.com/assemble/gulp-assemble)
+  * *Riaan* to rebuild using Assemble.io
+* Once we have >= 10 companies donating or as members, *Riaan* to change
   attribution from *Donation by Person* to *Donation by Person at Company*.
   * Currently we have 9: Envisionme (event & catering), DunnLofts, Burtronix,
     AdCorp (venue), Robboto, SuproNet, eConsultant, Amazee, Ingen Media.
 * *Riaan* to place a review of the company links by the board on the agenda
   in April, August and December. We're checking that the new company links does
   not become "top-heavy" looking abusive or highlighting few over many.
-* *Riaan*/*Robin* to move donations and history to their own pages and link to them from
+* *Riaan* to move donations and history to their own pages and link to them from
   the resources page.
+* *Robin* to create a seperate newsletter page with more fields to gather data.
 
 Minutes:
 
-* *Robin* Newsletter widget signup to be added.
+*
 
-Completed / Agreed: ✔
-
---------------------------------------------------------------------------------
-
-Advertising *Ivan / Renate*
----------------------------
-*≈ 2 min*
-
-* Nothing new here (waiting for new Pretoria meetups):
-  * Target student radio / gazettes.
-  * 702.
-  * Midrand radio.
-  * Provide detail on the website when ads / spots are to be live.
-
-Agenda Notes:
-
-Tasks:
-
-Minutes:
-
-* Postponed
-
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
-GDoSA Maintenance *Andre / Renate / Robin*
-------------------------------------------
-*≈ 5 min*
-
-Agenda Notes:
-
-* Full update left until Groups.Drupal.org receives an update.
-
-Tasks:
-
-* *Andre* to replace wiki pages with stale data with links to dasa.org.za.
-
-Minutes:
-
-* Postponed
-* Move to parked issues section
-
-Completed / Agreed: ✔
-
---------------------------------------------------------------------------------
-
-Vendor Referrals to Business Queries *Riaan / Renate*
------------------------------------------------------
+Business Queries *Riaan / Renate*
+---------------------------------
 *≈ 10 min*
 
 Agenda Notes:
 
-* We receive requests from business to refer good Drupal vendors to them.
-* We need to develop fair, open criteria of good practices by Drupal vendors
-  to be able to refer good vendors in such cases.
-  * git
-  * features
-  * coding standards (PHP, JavaScript)
-  * security
-  * privacy
-  * intermittent review panel
-* We need more metrics for this. The more concrete the better. Automated
-  will also help.
-* We also receive complaints and need to develop a workflow that will help
-  Drupal vendors fix their service provision, perhaps through guided training
-  and provide for other workflow outcomes.
+* Confirm:
+  * Complaints directed at DASA regarding Drupal vendors will only be referred
+    to [Drupal Conflict Resolution Policy and Process](https://www.drupal.org/conflict-resolution).
+  * Requests for vendors from business and public will be addressed through a
+    vendors list that we will crowdsource (not moderated or edited).
+    * Discuss how this will be done. Order of listing etc.
+    * Can we not simply link our and the main DAs' members listings.
 
 Tasks:
 
-* *Riaan* and *Greg* to develop initial metrics.
-* *Everyone* to comment and help.
+* *Everyone* to review and consider Agenda Notes above.
 
 Minutes:
 
-* Have a self-submitted form outlining their skillsets and adding to a list of vendors. Crowd-sourced data is democratic and prevents barriers to entry.
-* Put together a white-paper of recourse for clients and developers with complaints. (https://www.drupal.org/conflict-resolution)
+*
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 ================================================================================
 
@@ -603,58 +546,32 @@ Agenda Notes:
 
 Tasks:
 
-* *Adam* to update this a couple of days before each meeting.
+* *Riaan* to update this a couple of days before each meeting.
 
 Minutes:
-
-* Payments for DrupalCamp items and Posters.
-
-Completed / Agreed: ✔
-
---------------------------------------------------------------------------------
-
-Branded items for Meetups *Robin / Jason*
-------------------------------------------
-*≈ 5 min*
-
-Agenda Notes:
 
 *
 
-Tasks:
-
-* *Jason* and *Robin* will send quotes and designs for speaker shirts for the
-  national meetups to core@dasa.org.za.
-* *Renate* to authorize a banner solution for JHB and CT.
-* *Ivan* to check, when available, if the new AdCorp offices will have podiums.
-  * If so then *Renate* and *Riaan* to rather get quotes for a microphone.
-* *Lauro* will make a known good t-shirt company available to *Jason* and
-  *Robin*.
-
-Minutes:
-
-* Shirts still pending
-* Banners have been created and delivered
-
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
 Official Drupal 8 Launch Party *Riaan / Jason*
 ----------------------------------------------
-*≈ 8 min*
+*≈ 5 min*
 
 Agenda Notes:
 
 * At Cobblestones in Monte Casino in Johannesburg.
+* Awaiting venue confirmation in Cape Town.
 
 Tasks:
 
 * *Robin* to publish the intent on GDoSA as soon as *Lauro* completes the
   sticker designs.
 * *Jason* to arrange for a Cape Town launch party and add the venue here.
-* *Renate* to get the designs from *Lauro* for the attendance stickers
-  "I was at the Drupal 8 Launch Party" and have then made.
+* *Lauro* to create Drupal 8 launch party sticker designs for attendees:
+  "I was at the Drupal 8 launch party".
 * When a date is set:
   * *Riaan* to notify Cobblestones for 30+ attendants.
   * *Ivan* to notify Johannesburg Meetup.com event organiser to list the event.
@@ -662,9 +579,9 @@ Tasks:
 
 Minutes:
 
-* Postponed
+*
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 --------------------------------------------------------------------------------
 
@@ -678,9 +595,9 @@ Agenda Notes:
 
 Minutes:
 
-* None
+*
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 ================================================================================
 
@@ -691,7 +608,7 @@ DrupalCamp Johannesburg 2015
 * Time: 09:00 - 15:00
 * Project Manager: **Renate**, *Everyone* stay in contact with her.
 * <= 60 people.
-* Attendance is free, **catering to be planned for!**.
+* Attendance is free, catering provided.
 
 Address
 
@@ -705,106 +622,43 @@ Address
 
 --------------------------------------------------------------------------------
 
-General / Overall *Renate / N/A*
---------------------------------
+Tasks Before Event *Renate / N/A*
+---------------------------------
 *≈ 5 min*
 
 Agenda Notes:
 
-* Status from *Renate*.
+* This won't be in the next agenda, the event will be in the past by then:
 
 Tasks:
 
-*
-
-Minutes:
-
-*
-
-Completed / Agreed: ✔
-
---------------------------------------------------------------------------------
-
-Venue *Adam / Renate*
----------------------
-*≈ 5 min*
-
-Agenda Notes:
-
-* Business Connection, 100% confirmed.
-* *Adam* & *Riaan* tested the AV equiment and confirmed we will have WiFi.
-  Simple mini-Jack for audio and VGA for video.
-* *Riaan* bought a laptop to use for Hangouts.
-
-Tasks:
-
-* *Adam* will find out if we have options available to record the sessions.
-* *Adam* will check again that AV and WiFi will be available on the day.
-* *Adam* & *Riaan* will test Hangouts with the dedicated laptop before the
-  event.
-
-Minutes:
-
-*
-
-Completed / Agreed: ✔
-
---------------------------------------------------------------------------------
-
-Catering *Adam / Renate*
-------------------------
-*≈ 5 min*
-
-Agenda Notes:
-
-* **We need to make catering decisions at this meeting!**
-
-Tasks:
-
-* *Anyone* to consider possible food solutions for the amount of attendees we
-  have signed up.
+* *Renate* is authorised to make executive decisions regarding the mini-camp.
+* *Adam* to post a WiFi password to core@dasa.org.za.
+  * Also to speakers, and include:
+    * VGA socket projector, resolution 1376×866
+    * Audo mini-jack available
+* *Robin* to try to print organiser cards.
+* *Adam* to test Hangouts with *Michael* on Thursday 19 March.
+* *Riaan* to continue to try to better a *Hanouts* laptop.
+* *Adam* to try to arrange for recorded / filmed sessions.
+* *Everyone* to be there between **7:00am** and 7:30am.
+* *Adam* to let us know by Tuesday 24 March if catering can be sponsored.
+  * If not, *Adam* to pay caterers for the "small" solution he proposed from
+  the DASA account. Around R 9 000 for 150 people.
+  * If not, *Riaan* will try to find out if the local Spar can handle things.
 * *Adam* to confirm if coffee and enough crockery for coffee will be available.
-
-Minutes:
-
-* Adam will find out if one of the three quotes can be sponsored.
-
-Completed / Agreed: ✔
-
---------------------------------------------------------------------------------
-
-Date and Times *N/A / Renate*
------------------------------
-*≈ 5 min*
-
-Agenda Notes:
-
-* Saturday, 28 March 2015.
-* 40 minutes slots. 10 min break.
-* *Decide* on a start and end time.
-
-Tasks:
-
 * *Adam* wrangling speakers and *Greg* vetting talks.
+* *Robin* or *Riaan* to post to GDoSA, the summary of sponsors (at *Adam*) and a
+  thank you. Early in the week preceeding the event.
+* *Adam*, *Robin* or *Riaan* to post to GDoSA, the summary of speakers
+  (at *Adam*) and a thank you. Mid-week preceeding the event.
+* *Renate* to send copy to Tuks Radio and UJFM before the week preceeding the
+  event.
+* *Everyone* to phone and invite at least three schools in their area. Early in
+  the week preceeding the event.
 
-Minutes:
 
-* Organisers arrive between 7am - 8am.
-
-Completed / Agreed: ✔
-
---------------------------------------------------------------------------------
-
-Speakers *N/A / Renate*
------------------------
-*≈ 5 min*
-
-Agenda Notes:
-
-* Screen resolution: 1376×866
-* Speakers to contact *Adam* (wrangler), *Greg* (vetting) and *Renate* (ops).
-
-Time Schedule
+Schedule
 
     From  To    ∆     Activity           Person           Topic
     09:00 09:30 00:30 Social / Welcome   Renate Ehlers    n/a
@@ -824,85 +678,27 @@ Time Schedule
     14:25 14:30 00:05 Introduce Speaker  Renate Ehlers    n/a
     14:30 15:10 00:40 Speech             Michael Schmidt  Drupal 8, Deeper Dive.
 
-Tasks:
-
-* *Adam* to confirm speakers early.
-* *Greg* to check speakers' presentations.
-* *Adam* to post to contrib@dasa.org.za what we will have available, screen res
-  of projector, microphones for speakers and audience for QnA, recording
-  facilities etc.
-
-Minutes:
-
-* *Renate*/*Robin* to ask *Riaan* for Gregory & Michael paragraph outline.
-
-Completed / Agreed: ✔
-
 --------------------------------------------------------------------------------
 
-Promotion *Robin / Renate*
---------------------------
+Recap *Renate / N/A*
+--------------------
 *≈ 5 min*
 
 Agenda Notes:
 
+* *Riaan* recommends: with Cape Town already being a geographically distant
+  event, perhaps future events should be managed by smaller, more agile
+  committees that just report to the DASA meeting.
 
 Tasks:
 
-* *Robin* to use Meetup.com, newsletter and GDoSA.
+* *Renate* to provide a summary / report of the event.
 
 Minutes:
 
-* *Renate* has spoken to TUKS and UJ FM.
+*
 
 Completed / Agreed: ✔ / ✘
-
---------------------------------------------------------------------------------
-
-Sponsorship *N/A / Renate*
---------------------------
-*≈ 10 min*
-
-Agenda Notes:
-
-* *Renate* is authorised to make executive decisions regarding the mini-camp.
-
-* We have five total gold (two remaining) spots available.
-* We have five total silver (one remaining) spots available.
-* With no additional expenses on catering or any other unplanned, we need at
-  least three gold and four silver.
-
-* We need sponsors finalized! before we can order shark fins and banners which
-  then till need to be ordered and produced.
-* Banners and shark fins will display the sponsors' logo on the day as card
-  add-ons that the sponsors can take with them (banners and shark fins remain
-  the property of DASA).
-
-* Options:
-  * Individual / Token: *R 150*
-    Comes with:
-      * 2 Vinyl (back-of-laptop) Stickers
-      * Noted on DASA.org.za website as an individual or token sponsor.
-  * Silver: *R 3 000*
-      * Logo on a stage Shark Fin.
-      * 4 Vinyl (back-of-laptop) Stickers
-      * Noted on DASA.org.za website as a silver sponsor.
-  * Gold: *R 6 000*
-      * Logo on a stage Banner.
-      * Logo on a stage Shark Fin.
-      * 6 Vinyl (back-of-laptop) Stickers
-      * Noted on DASA.org.za website as a gold sponsor.
-
-Tasks:
-
-* *Renate* to keep a list of costs *anyone* identifies and e-mails to her.
-
-Minutes:
-
-* *Riaan* to send *Ivan* an Invoice
-* *Robin* to send logo to Riaan for Envisionme (a divison of Adcorp).
-
-Completed / Agreed: ✔
 
 ================================================================================
 
@@ -912,33 +708,41 @@ DrupalCamp Cape Town 2015 *Jason / N/A*
 
 Agenda Notes:
 
-* Date: **September 2015**
+* Date: **5th of September 2015**
 * Develop event assets further, focus on items we can also use at MyWoT.
 * Consider ever better planning, reference:
   * https://groups.drupal.org/node/136494
 
 Tasks:
 
+* **Jason** to start a monthly meeting in Cape Town to plan the event.
 * **Jason** to pick a good date.
 * **Jason** to further develop agenda entries as planning gets started.
+* **Jason** to add the event on the DASA meetup.com group once the date is more
+  firm.
 * We need to assign people. It's *N/A* right now in the heading.
 
 Minutes:
 
-* 5th September tentatively.
-* No venue yet.
+*
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 ================================================================================
 
 MyWoT (My world of Tomorrow) 2015 *Adam / N/A*
 ==============================================
-*≈ 5 min*
+*≈ 10 min*
 
 Agenda Notes:
 
 * Date: **22nd - 24th October 2015**
+* Confirmed that we will have a stand.
+* Confirmed that we will have speakership opportunities.
+
+* We need to assign people to work on the stand.
+* We need to assign people to work at the stand.
+* We need to assign speakers.
 
 Tasks:
 
@@ -948,90 +752,9 @@ Tasks:
 
 Minutes:
 
-* Adam has already arranged for DASA to be part of MyWoT.
-* Source 5/6 companies to talk about their development in Drupal on the stage.
-
-Completed / Agreed: ✔
-
---------------------------------------------------------------------------------
-
-Speakers *Adam / N/A*
----------------------
-*≈ 5 min*
-
-Agenda Notes:
-
-* We need to assign people. It's *N/A* right now in the heading.
-* Provides an opportunity to speak to people outside of the Drupal community.
-
-Tasks:
-
-* *Adam* to investigate speakership opportunities at the MyWoT.
-* *Adam* to check if, as an NPO, we can get a free stand.
-* *N/A* (several of us as the event gets closer), to work on the stand.
-
-Minutes:
-
 *
 
-Completed / Agreed: ✔
-
-================================================================================
-
-DrupalCamp Pretoria 2016 *Renate / N/A*
-=======================================
-*≈ 5 min*
-
-Agenda Notes:
-
-* Date: **March 2016**
-
-Tasks:
-
-* **Renate** to further develop agenda entries as planning gets started.
-* We need to assign people. It's *N/A* right now in the heading.
-
-Minutes:
-
-*
-
-Completed / Agreed: ✔
-
-================================================================================
-
-DrupalCamps SA (Future)
-=======================
-
---------------------------------------------------------------------------------
-
-General / Overall *N/A / N/A*
------------------------------
-*≈ 15 min*
-
-Agenda Notes:
-
-* Consider adding Hackfests in 2015/2016
-  Drupal Hackfests are events where Drupal developers and themers get together
-  to work on various, usually community-driven, projects
-* Consider adding Clinics in 2016
-  Clinics are aimed at new users of Drupal. Often with multiple tracks for
-  developers, themers, and decision makers.
-* Consider adding Summits in 2017
-  Summits are smaller and for more advanced users / developers / community
-  leaders.
-* Camps to build community, coordination and assets towards the plan to be able
-  to host an international DrupalCon in Cape Town.
-
-Tasks:
-
-* *Jason* with an early report on the feasibility of a MiniCamp in Cape Town.
-* *Renate* on the idea of alternative with Pretoria in Gauteng too.
-
-Minutes:
-
-*
-
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 ================================================================================
 
@@ -1060,8 +783,93 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔
+Completed / Agreed: ✔ / ✘
 
 ================================================================================
 
-The End. Meeting finished at 8:45pm.
+The End.
+
+================================================================================
+
+Postponed and Dormant
+=====================
+
+--------------------------------------------------------------------------------
+
+National User Group Meet-ups: Other Areas *Riaan / N/A*
+-------------------------------------------------------
+*≈ 1 min*
+
+* Nothing new here, waiting till after Johannesburg DrupalCamp 2015.
+* Potentially starting Durban, Windhoek and other areas depend on demand and on
+  availability of people from existing centres to go there. We will attempt to
+  get a Durban one going in 2015.
+
+Agenda Notes:
+
+* We need to assign a backup for this to someone. It's *N/A* right now in the
+  heading.
+
+--------------------------------------------------------------------------------
+
+Advertising *Ivan / Renate*
+---------------------------
+*≈ 2 min*
+
+* Nothing new here (waiting for new Pretoria meetups):
+  * Target student radio / gazettes.
+  * 702.
+  * Midrand radio.
+  * Provide detail on the website when ads / spots are to be live.
+
+--------------------------------------------------------------------------------
+
+GDoSA Maintenance *Andre / Renate / Robin*
+------------------------------------------
+*≈ 5 min*
+
+Agenda Notes:
+
+* Full update left until Groups.Drupal.org receives an update.
+
+Tasks:
+
+* Replace wiki pages with stale data with links to dasa.org.za.
+
+--------------------------------------------------------------------------------
+
+DrupalCamp Pretoria 2016 *Renate / N/A*
+=======================================
+*≈ 5 min*
+
+Agenda Notes:
+
+* Date: **March 2016**
+
+Tasks:
+
+* **Renate** to further develop agenda entries as planning gets started.
+* We need to assign people. It's *N/A* right now in the heading.
+
+--------------------------------------------------------------------------------
+
+DrupalCamps SA (Future): General / Overall *N/A / N/A*
+------------------------------------------------------
+*≈ 15 min*
+
+Agenda Notes:
+
+* Consider adding **Hackfests** in 2016
+  Drupal Hackfests are events where Drupal developers and themers get together
+  to work on various, usually community-driven, projects
+* Consider adding **Clinics** in 2016
+  Clinics are aimed at new users of Drupal. Often with multiple tracks for
+  developers, themers, and decision makers.
+* Consider adding **Summits** in 2017
+  Summits are smaller and for more advanced users / developers / community
+  leaders.
+* Events to build community, coordination and assets towards the plan to be able
+  to host an international **DrupalCon in Cape Town**.
+
+================================================================================
+
