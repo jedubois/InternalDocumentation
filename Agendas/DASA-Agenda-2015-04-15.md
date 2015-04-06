@@ -95,7 +95,7 @@ Completed / Agreed: ✔ / ✘
 
 NPO Registration  *Johan / Adam / Greg*
 ---------------------------------------
-*≈ 3 min*
+*≈ 5 min*
 
 Agenda Notes:
 
@@ -140,21 +140,6 @@ Agenda Notes:
     * Narrative report (Chairman)
     * Financial report (Treasurer)
 * Our AGM is after this date, can we adopt this at a regular meeting or SGM?
-* A Question: What are the major centres mentioned in our Vision statement?
-  * *Riaan*: Can we use population count?
-
-Reference:
-
-    1   Johannesburg      7 860 781
-    2   Cape Town         3 430 992
-    3   Durban            2 786 046
-    4   Pretoria          1 763 336
-    5   Port Elizabeth      876 436
-    6   Soshanguve          728 063
-    7   Evaton              605 504
-    8   Pietermaritzburg    475 238
-    9   Bloemfontein        464 591
-    10  Vereeniging         377 922
 
 Tasks:
 
@@ -180,11 +165,6 @@ Tasks:
 
 * *Greg* to create a "How-To" template for future elections. Have this available
   for adjustment throughout the election season.
-* Once DrupalCamp Johannesburg 2015 is done:
-  *Everyone* to send reports and recommendations to *Greg*.
-  *Greg* to compile such data into a report.
-  *Greg* to send the report to *Jason* for CTCamp and **Riaan*.
-  *Riaan* to submit data to DA.
 
 Minutes:
 
@@ -208,27 +188,7 @@ Tasks:
   to *Lee* for implementation.
 * *Jason* and *Robin* will send quotes and designs for speaker shirts for the
   national meetups to core@dasa.org.za.
-* After Johannesburg DrupalCamp 2015, *Riaan* to send banners to *Jason*.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* After Johannesburg DrupalCamp 2015, *Riaan* to post banners to *Jason*.
 
 Minutes:
 
@@ -248,7 +208,32 @@ Agenda Notes:
 
 Tasks:
 
-* *Everyone* able to sign up as individual and agency members.
+* *Everyone* able to sign up as individual.
+  * Riaan Burger        ✔
+  * Greg McKeen         ✔ / ✘
+  * Jason Lewis         ✔ / ✘
+  * Adam Dunn           ✔
+  * Robin Prieschl      ✔ / ✘
+  * Johan du Bois       ✔
+  * Lancelot Nyachoto   ✔ / ✘
+  * Ivan Breet          ✔ / ✘
+  * Lee Taylor          ✔
+  * Renate Ehlers       ✔ / ✘
+  * Lauro Scott Parkin  ✔ / ✘
+  * Richard Banks       ✔ / ✘
+* *Everyone* able to sign up as agency members.
+  * Riaan Burger        ✔
+  * Greg McKeen         ✔ / ✘
+  * Jason Lewis         ✔ / ✘
+  * Adam Dunn           N/A
+  * Robin Prieschl      ✔ / ✘
+  * Johan du Bois       Awaiting NPO Registration
+  * Lancelot Nyachoto   N/A
+  * Ivan Breet          ✔ / ✘
+  * Lee Taylor          N/A
+  * Renate Ehlers       ✔ / ✘
+  * Lauro Scott Parkin  ✔ / ✘
+  * Richard Banks       ✔ / ✘
 * *Everyone* to encourage agencies and friends to sign up as individual and
   agency members.
 * *Everyone* able to try to donate R 100 / R 200 per month.
@@ -269,7 +254,7 @@ National User Group Meet-ups
 
 National *Robin / Jason*
 ------------------------
-*≈ 1 min*
+*≈ 5 min*
 
 Agenda Notes:
 
@@ -295,7 +280,7 @@ Completed / Agreed: ✔ / ✘
 
 Johannesburg *Ivan / Lee*
 -------------------------
-*≈ 15 min*
+*≈ 10 min*
 
 Agenda Notes:
 
@@ -304,14 +289,7 @@ Agenda Notes:
 Tasks:
 
 * *Ivan* reports on status and requirements for the meetup.
-* *Ivan* to see if we may use the video resources in the meeting room.
-* *Robin* will communicate decisions taken regarding previous meetup's
-  disruptive behaviour to *Jason* in Cape Town.
-* *Andre* to create a wiki page on our website repository on GitHub listing all
-  previous slides of speakers with the dates they were presented on. Then to add
-  a link from our website resources section to that wiki page. Then to maintain
-  it.
-* *Everyone* to help *Ivan* find a speaker for the May johannesburg meetup.
+* *Everyone* to help *Ivan* find a speaker for the June Johannesburg meetup.
 * *Everyone* to start considering a new venue in case office change does not
   allow for current host. Possible chnage may be needed by August meetup.
 * *Ivan* to check, when available, if the new AdCorp offices will have podiums.
@@ -336,7 +314,6 @@ Tasks:
 * *Jason / Robin:* Reports on status and requirements for the meetup.
 * *Jason* to create the meetup.com events either as an automatically repeating
   monthly meetup or to create them more than four weeks before the next meetup.
-* *Jason* / *Johan* Speak to Mark Theunissen about potentially speaking.
 * *Jason* will speak to the Cape Town guys, to find out if anyone wants to come
    to Johanneburg to speak.
 
@@ -378,17 +355,12 @@ Tasks:
 * Everyone to sign up to meetup.com (and for the camp):
   * http://www.meetup.com/Drupal-Pretoria/
   * http://www.meetup.com/drupal-association-south-africa/events/220367539/
-    * Riaan Burger ✔
+    * Outstanding:
     * *Greg* McKeen ✔ / ✘
-    * Jason Lewis ✔
-    * Adam Dunn ✔
-    * Robin Prieschl ✔
     * *Johan* du Bois ✔ / ✘
     * *Lancelot* Nyachoto ✔ / ✘
     * *Ivan* Breet ✔ / ✘
     * *Lee* Taylor ✔ / ✘
-    * Renate Ehlers ✔
-    * *Andre* Artus ✔ / ✘
     * *Lauro* Scott Parkin ✔ / ✘
 
 Minutes:
@@ -420,12 +392,10 @@ Tasks:
   * Keep abreast with community news, and meetup dates
   * Solicit articles
   * Describe frequency of e-mails
-* *Robin* to start writing monthly newsletters (send the first). Start with
+* *Robin* to start writing monthly newsletters (send the second). Start with
   low-work-load sections first (events list), contacts, template.
-* *Andre* to support Robin to ensure this all happens.
-* *Robin* to visit *Riaan* for assistance in adding a dedicated site to our
+* *Robin* to visit *Riaan* for assistance in adding a dedicated page to our
   website for sign-up to the newsletter. *Andre* is also available to assist.
-* *Robin* will send the first one on Friday 20 March.
 
 Minutes:
 
@@ -604,82 +574,6 @@ Completed / Agreed: ✔ / ✘
 DrupalCamp Johannesburg 2015
 ============================
 
-* Date: **Saturday, 28 March 2015**
-* Time: 09:00 - 15:00
-* Project Manager: **Renate**, *Everyone* stay in contact with her.
-* <= 60 people.
-* Attendance is free, catering provided.
-
-Address
-
-    Business Connexion
-    Block Q
-    Business Connexion Park North
-    789 16th Road
-    Randjespark
-    Midrand
-    Just off New Road, Midrand
-
---------------------------------------------------------------------------------
-
-Tasks Before Event *Renate / N/A*
----------------------------------
-*≈ 5 min*
-
-Agenda Notes:
-
-* This won't be in the next agenda, the event will be in the past by then:
-
-Tasks:
-
-* *Renate* is authorised to make executive decisions regarding the mini-camp.
-* *Adam* to post a WiFi password to core@dasa.org.za.
-  * Also to speakers, and include:
-    * VGA socket projector, resolution 1376×866
-    * Audo mini-jack available
-* *Robin* to try to print organiser cards.
-* *Adam* to test Hangouts with *Michael* on Thursday 19 March.
-* *Riaan* to continue to try to better a *Hanouts* laptop.
-* *Adam* to try to arrange for recorded / filmed sessions.
-* *Everyone* to be there between **7:00am** and 7:30am.
-* *Adam* to let us know by Tuesday 24 March if catering can be sponsored.
-  * If not, *Adam* to pay caterers for the "small" solution he proposed from
-  the DASA account. Around R 9 000 for 150 people.
-  * If not, *Riaan* will try to find out if the local Spar can handle things.
-* *Adam* to confirm if coffee and enough crockery for coffee will be available.
-* *Adam* wrangling speakers and *Greg* vetting talks.
-* *Robin* or *Riaan* to post to GDoSA, the summary of sponsors (at *Adam*) and a
-  thank you. Early in the week preceeding the event.
-* *Adam*, *Robin* or *Riaan* to post to GDoSA, the summary of speakers
-  (at *Adam*) and a thank you. Mid-week preceeding the event.
-* *Renate* to send copy to Tuks Radio and UJFM before the week preceeding the
-  event.
-* *Everyone* to phone and invite at least three schools in their area. Early in
-  the week preceeding the event.
-
-
-Schedule
-
-    From  To    ∆     Activity           Person           Topic
-    09:00 09:30 00:30 Social / Welcome   Renate Ehlers    n/a
-    09:30 09:35 00:05 Introduce Speaker  Renate Ehlers    n/a
-    09:35 09:50 00:15 Keynote            Greg McKeen      Keynote
-    09:50 09:55 00:05 Introduce Speaker  Renate Ehlers    n/a
-    09:55 10:35 00:40 Speech             Kamlan Naidoo    BCX Professional Services
-    10:35 10:55 00:20 Break / Social     Renate Ehlers    n/a
-    10:55 11:00 00:05 Introduce Speaker  Renate Ehlers    n/a
-    11:00 11:40 00:40 Speaker            Riaan Burger     t.b.c
-    11:40 12:40 01:00 Lunch              Renate Ehlers    n/a
-    12:40 12:45 00:05 Introduce Speaker  Renate Ehlers    n/a
-    12:45 13:25 00:40 Speech             Gregory Gerhardt How to build a successful Drupal Shop
-    13:25 13:30 00:05 Introduce Speaker  Renate Ehlers    n/a
-    13:30 14:10 00:40 Speech             Robin            General Drupal, Drupal 8 & Creative Approach
-    14:10 14:25 00:15 Break/social       Renate Ehlers    n/a
-    14:25 14:30 00:05 Introduce Speaker  Renate Ehlers    n/a
-    14:30 15:10 00:40 Speech             Michael Schmidt  Drupal 8, Deeper Dive.
-
---------------------------------------------------------------------------------
-
 Recap *Renate / N/A*
 --------------------
 *≈ 5 min*
@@ -688,7 +582,8 @@ Agenda Notes:
 
 * *Riaan* recommends: with Cape Town already being a geographically distant
   event, perhaps future events should be managed by smaller, more agile
-  committees that just report to the DASA meeting.
+  committees with a single, responsible descision maker like we did for
+  Johannesburg that just report to the DASA meeting.
 
 Tasks:
 
