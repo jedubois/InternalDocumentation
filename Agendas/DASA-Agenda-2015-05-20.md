@@ -9,14 +9,14 @@ to the **Agenda Notes** only, start with your **"*Name:*"**.
 
 At meetings, only the **✔ / ✘** and **Minutes** sections will be updated.
 
-Agenda 2015-04-15
+Agenda 2015-05-20
 -----------------
 
 Attending / Apologies *Greg / Lance*
 ------------------------------------
 
 A list of people attending and apologies for not attending the DASA meeting on
-Wednesday evening 15 April 2015.
+Wednesday evening 20 May 2015.
 
     Person    Attending ✔ / ✘ Apologies
     ===================================
@@ -54,13 +54,7 @@ Confirm Next Meeting *Greg / Riaan*
 
 Agenda Notes:
 
-* Wednesday 20 May 2015 (third Wednesday of May).
-
-Tasks:
-
-* Confirm *Greg* (*Lee* when back) invited people on Google Hangouts:
-  * *Johan*
-  * *Jason*
+* Wednesday 17 June 2015 (third Wednesday of June).
 
 Minutes:
 
@@ -245,6 +239,31 @@ Minutes:
 
 Completed / Agreed: ✔ / ✘
 
+--------------------------------------------------------------------------------
+
+Training *N/A / N/A*
+------------------------------------------
+*≈ 25 min*
+
+Agenda Notes:
+
+* Assign someone, it's N/A right now.
+* Wide and urgent need for Drupal training was mentioned repeatedly at the last
+  Johannesburg user group meet-up by many parties.
+* Two areas especially:
+  * Introduction to Drupal (Drupal Clinics)
+  * Advanced, formal training. Classes. For enterprise users.
+
+Tasks:
+
+*
+
+Minutes:
+
+*
+
+Completed / Agreed: ✔ / ✘
+
 ================================================================================
 
 National User Group Meet-ups
@@ -314,8 +333,6 @@ Tasks:
 * *Jason / Robin:* Reports on status and requirements for the meetup.
 * *Jason* to create the meetup.com events either as an automatically repeating
   monthly meetup or to create them more than four weeks before the next meetup.
-* *Jason* will speak to the Cape Town guys, to find out if anyone wants to come
-   to Johanneburg to speak.
 
 Minutes:
 
@@ -331,7 +348,7 @@ Pretoria *Renate / Ivan*
 
 Agenda Notes:
 
-* Planned for April: Last Wednesday of Each Month.
+* Planned for July: Last Wednesday of Each Month.
 * Need a venue.
 * Targeting Universities around the area.
 * Renate hosts, with assistance from the rest of us.
@@ -356,12 +373,12 @@ Tasks:
   * http://www.meetup.com/Drupal-Pretoria/
   * http://www.meetup.com/drupal-association-south-africa/events/220367539/
     * Outstanding:
-    * *Greg* McKeen ✔ / ✘
-    * *Johan* du Bois ✔ / ✘
-    * *Lancelot* Nyachoto ✔ / ✘
-    * *Ivan* Breet ✔ / ✘
-    * *Lee* Taylor ✔ / ✘
-    * *Lauro* Scott Parkin ✔ / ✘
+      * *Greg* McKeen ✔ / ✘
+      * *Johan* du Bois ✔ / ✘
+      * *Lancelot* Nyachoto ✔ / ✘
+      * *Ivan* Breet ✔ / ✘
+      * *Lauro* Scott Parkin ✔ / ✘
+      * *Richard* Banks ✔ / ✘
 
 Minutes:
 
@@ -479,6 +496,14 @@ Agenda Notes:
     Account: 62446745492
     Balance: 23 963.34
 
+    2015/04/30,    100.00, 23946.44, SCHEDULED PYMT FROM   DUBOIS DONATION
+    2015/04/28,     -6.00, 23846.44, #OB STATEMENT DOWNLOAD
+    2015/04/28,     -6.00, 23852.44, #OB STATEMENT DOWNLOAD
+    2015/04/28,     -6.00, 23858.44, #OB STATEMENT DOWNLOAD
+    2015/04/11,    -35.80, 23864.44, #SERVICE FEES
+    2015/04/11,     -2.10, 23900.24, #VALUE ADDED SERV FEES
+    2015/04/11,    -61.00, 23902.34, #MONTHLY ACCOUNT FEE
+    2015/04/11,      0.00, 23963.34, BIS/INT 4 ON TRUE TIERING = 35.80
     2015/04/02,   6000.00, 23963.34, FNB OB PMT            ENVISIONME
     2015/03/31,    100.00, 17963.34, SCHEDULED PYMT FROM   DUBOIS DONATION
     2015/03/31,    150.00, 17863.34, FNB OB PMT            LEENX DONATION TO DA
