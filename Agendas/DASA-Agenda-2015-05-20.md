@@ -491,6 +491,13 @@ Accounting *Adam / Riaan*
 -------------------------
 *≈ 2 min*
 
+Bank Account:
+
+- Name: **Drupal Association South Africa**
+- Bank: **FNB**
+- Type: **Cheque**
+- Number: **62446745492**
+
 Agenda Notes:
 
     Account: 62446745492
