@@ -20,31 +20,31 @@ Wednesday evening 20 May 2015.
 
     Person    Attending ✔ / ✘ Apologies
     ===================================
-    Riaan Burger        ✔ / ✘
-    Greg McKeen         ✔ / ✘
-    Jason Lewis         ✔ / ✘
-    Adam Dunn           ✔ / ✘
-    Robin Prieschl      ✔ / ✘
-    Johan du Bois       ✔ / ✘
-    Lancelot Nyachoto   ✔ / ✘
-    Ivan Breet          ✔ / ✘
-    Lee Taylor          ✔ / ✘
-    Renate Ehlers       ✔ / ✘
-    Andre Artus         ✔ / ✘
-    Lauro Scott Parkin  ✔ / ✘
-    Richard Banks       ✔ / ✘
+    Riaan Burger        ✔ 
+    Greg McKeen         ✔ 
+    Jason Lewis         ✔
+    Adam Dunn           ✔ 
+    Robin Prieschl      ✘
+    Johan du Bois       ✔ 
+    Lancelot Nyachoto   ✔ 
+    Ivan Breet          ✔ 
+    Lee Taylor          ✔ 
+    Renate Ehlers       ✔ 
+    Andre Artus         ✘
+    Lauro Scott Parkin  ✘
+    Richard Banks       ✘
 
-Quorum achieved: ✔ / ✘
+Quorum achieved: ✔ 
 
 Agenda Notes:
 
-*
+* 
 
 Minutes:
 
-*
+* Apologies by Robin
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -58,9 +58,10 @@ Agenda Notes:
 
 Minutes:
 
-*
+* Agreed
+* Greg will be away in Europe
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -81,9 +82,9 @@ Tasks:
 
 Minutes:
 
-*
+* Robin has the constitution in Joburg
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -93,7 +94,7 @@ NPO Registration  *Johan / Adam / Greg*
 
 Agenda Notes:
 
-*
+* 
 
 Tasks:
 
@@ -114,9 +115,9 @@ Tasks:
 
 Minutes:
 
-*
+* NPO has been submitted, we have a reference number. Awaiting more info. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -137,7 +138,7 @@ Agenda Notes:
 
 Tasks:
 
-*
+* *Johan*,*Riaan* will go have a coffee and make a suggestion and send recommended metrics to the core@dasa mail list.
 
 Minutes:
 
@@ -162,9 +163,9 @@ Tasks:
 
 Minutes:
 
-*
+* Will be done before the end of July.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -186,9 +187,10 @@ Tasks:
 
 Minutes:
 
-*
+* No feedback yet. Working on the design stuff for the DrupalCamp Cape Town.
+* Banners have been sent down to Cape Town, by Riaan. And received by Jason.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -235,9 +237,9 @@ Tasks:
 
 Minutes:
 
-*
+* 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -256,13 +258,14 @@ Agenda Notes:
 
 Tasks:
 
-*
+* *Riaan* will post to g.d.o a topic asking people to sign up, either as attendees or those who are willing to train.
+* Potentially approach companies who do training as a product, and invite them to meetups to talk to people about their service offering.
 
 Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -291,9 +294,9 @@ Tasks:
 
 Minutes:
 
-*
+* Postponed until Robin reports back
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -316,9 +319,12 @@ Tasks:
 
 Minutes:
 
-*
+* Last meetup had > 35 people. Previous month, ±30. More females are present, which is great news.
+* Speakers this month: Bianca (Scrum).
+* Potential future speakers: Likho (Lee Taylor), Nelly, Kyle
+* Offices may be moved by August, September. Notification/Announcement of change needs to be made around July.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ------------------------------------------------------------------------------
 
@@ -336,9 +342,9 @@ Tasks:
 
 Minutes:
 
-* Postponed
+* Last months meetup was a good turnout. Well received talk.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -382,9 +388,13 @@ Tasks:
 
 Minutes:
 
-*
+* Postponed
+* Lee Taylor has made himself available to do a talk, and will help Renate gain a foot in the door.
+* InnovationHub may help with Venue.
+* House4Hack may also help - (Schalk). 
+* Lambda Luminaries - Andre.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -399,7 +409,7 @@ Newsletter (MailChimp) *Robin / Andre*
 
 Agenda Notes:
 
-*
+* 
 
 Tasks:
 
@@ -574,9 +584,13 @@ Tasks:
 
 Minutes:
 
-*
+* For future events:
+  * Amounts over R5000 need to be checked with the Treasurer and Chairperson and Event Manager. Approved via e-mail, CCing info@dasa.org.za
+  * Renate will work with Danya on Budgets, and the next event, Danya will help the next event manager. Providing oversight of budgets and spending.
+  * All invoices will first go to the treasurer, before being paid.
+  * Event Organisers will need to raise sponsorship before we end up paying for things.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -603,7 +617,7 @@ Tasks:
 
 Minutes:
 
-*
+* Postponed
 
 Completed / Agreed: ✔ / ✘
 
@@ -619,9 +633,10 @@ Agenda Notes:
 
 Minutes:
 
-*
+* **Adam** will create a Thank You letter to send to Sponsors for the last meetup.
+* We ran out of a Quorum half way through, due to Load Shedding.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -645,9 +660,9 @@ Tasks:
 
 Minutes:
 
-*
+* Went off really well. More than 40 people in attendance.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -670,12 +685,17 @@ Tasks:
 * **Jason** to add the event on the DASA meetup.com group once the date is more
   firm.
 * We need to assign people. It's *N/A* right now in the heading.
+* **Jason** to post a groups.drupal.org topic asking for Speakers. 
+* **Danya**, **Adam**, **Riaan**, to discuss budgets and working with the treasurer, sponsorships, etc.
 
 Minutes:
 
-*
+* Date has been adjusted to the Friday, 4th September 2015.
+* Planning committee: Johan, Jason, Danya (Amazee labs).
+* Website will go live by the first week of June.
+* Riaan, Lee Taylor, Greg, will be available to talk. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -701,7 +721,8 @@ Tasks:
 
 Minutes:
 
-*
+* *Jason* will help design the stands, so that we have additional materials, etc.
+* Postponed
 
 Completed / Agreed: ✔ / ✘
 
