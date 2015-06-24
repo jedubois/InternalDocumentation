@@ -9,14 +9,14 @@ to the **Agenda Notes** only, start with your **"*Name:*"**.
 
 At meetings, only the **✔ / ✘** and **Minutes** sections will be updated.
 
-Agenda 2015-05-20
+Agenda 2015-06-24
 -----------------
 
 Attending / Apologies *Greg / Adam*
 -----------------------------------
 
 A list of people attending and apologies for not attending the DASA meeting on
-Wednesday evening 17 June 2015.
+Wednesday evening 24 June 2015.
 
     Person    Attending ✔ / ✘ Apologies
     ===================================
