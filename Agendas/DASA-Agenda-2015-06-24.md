@@ -20,31 +20,34 @@ Wednesday evening 24 June 2015.
 
     Person    Attending ✔ / ✘ Apologies
     ===================================
-    Riaan Burger        ✔ / ✘
-    Greg McKeen         ✔ / ✘
-    Jason Lewis         ✔ / ✘
-    Adam Dunn           ✔ / ✘
-    Robin Prieschl      ✔ / ✘
-    Johan du Bois       ✔ / ✘
-    Lancelot Nyachoto   ✔ / ✘
-    Ivan Breet          ✔ / ✘
-    Lee Taylor          ✔ / ✘
-    Renate Ehlers       ✔ / ✘
-    Andre Artus         ✔ / ✘
-    Lauro Scott Parkin  ✔ / ✘
-    Richard Banks       ✔ / ✘
+    Riaan Burger        ✔
+    Greg McKeen         ✘
+    Jason Lewis         ✘
+    Adam Dunn           ✔
+    Robin Prieschl      ✔
+    Johan du Bois       ✘
+    Lancelot Nyachoto   ✘
+    Ivan Breet          ✔
+    Lee Taylor          ✔
+    Renate Ehlers       ✘
+    Andre Artus         ✘
+    Lauro Scott Parkin  ✘
+    Richard Banks       ✔
 
-Quorum achieved: ✔ / ✘
+Quorum achieved: ✘
 
 Agenda Notes:
 
-*
+* A quorum was not achieved. The meeting went ahead without decision-making
+  powers.
+* Our Hangouts session was "read-only". Johan and Renate attended the Hangout
+  but could only participate in a limited way.
 
 Minutes:
 
 * Apologies from Greg
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -60,7 +63,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -76,15 +79,15 @@ Tasks:
 
 * Confirm *everyone* read and signed the
   [Constitution](https://docs.google.com/document/d/1DYY133KEg320wm4mIIBMDMd8f31LpndEimysmFUe6oU).
-* *Robin* to bring the contitution.
+* *Robin* to bring the constitution.
 * *Renate* to sign the constitution.
-* *Adam* to file the constitution.
+* *Greg* to file the constitution.
 
 Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -117,7 +120,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -144,7 +147,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -165,7 +168,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -188,7 +191,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -235,7 +238,11 @@ Tasks:
 
 Minutes:
 
-*
+* Richard will look into donation widgets.
+* Confirm new potential membership fee structure, simpler:
+  * R 150 p.a. for Individual Membership
+  * R 5 000 p.a. for Organisational Membership
+  * Vote on the change will be by e-mail as we do not have a quorum.
 
 Completed / Agreed: ✔ / ✘
 
@@ -263,9 +270,10 @@ Tasks:
 
 Minutes:
 
-*
+* We have no volunteers able to have this item assigned to them.
+* We'll park this for potential future action.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -294,9 +302,9 @@ Tasks:
 
 Minutes:
 
-* Postponed until Robin reports back
+*
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -319,9 +327,10 @@ Tasks:
 
 Minutes:
 
-*
+* Johannesburg will start on a community project again.
+* No DASA board members made it to the previous Johannesburg meet-up.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ------------------------------------------------------------------------------
 
@@ -341,7 +350,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -389,7 +398,8 @@ Tasks:
 
 Minutes:
 
-*
+* Lee and Renate are planning a visit to Hous4Hack as a potential venue.
+* Planned to start in August.
 
 Completed / Agreed: ✔ / ✘
 
@@ -423,9 +433,9 @@ Tasks:
 
 Minutes:
 
-*
+* We're on 40+ subscribers.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -444,9 +454,11 @@ Tasks:
 
 Minutes:
 
-*
+* Next version of the site will be Drupal 8.
+* New drupalcamp.co.za domain registration ownership should be available to DASA
+  if it is to be part of it's affairs. Check with Jason about this.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -470,9 +482,9 @@ Tasks:
 
 Minutes:
 
-*
+* Riaan to send sample reply to @contrib.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -566,7 +578,7 @@ Minutes:
 
   *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -595,7 +607,7 @@ Minutes:
 
 * Postponed
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -613,7 +625,7 @@ Tasks:
 
 Minutes:
 
-*
+* Adam will have this ready at the next meeting.
 
 Completed / Agreed: ✔ / ✘
 
@@ -631,7 +643,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -659,7 +671,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -687,7 +699,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -714,9 +726,9 @@ Agenda Notes:
 
 Minutes:
 
-*
+* No such items.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
