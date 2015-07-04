@@ -445,35 +445,51 @@ Agenda Notes:
       * Review [Constitution](https://docs.google.com/document/d/1DYY133KEg320wm4mIIBMDMd8f31LpndEimysmFUe6oU) and confirm duties
     * <31 October:   Publish results
     *  21 October:   Close voting
-    *   1 October:   Open voting
-    *  16 September:
+    *   9 September: Open voting
+    *   2 September:
       * Close acceptance of new candidates.
       * Administrative: Gather short bio of all candidates, prepare to open vote.
-    *  7-15 September: Call for candidates.
+    *  19 August - 2 September: Call for candidates.
     * Before: Promote upcoming elections
-* Procedure
-  * Call for candidates (volunteers and nominations) **one/two week(s)**.
-  * Gather candidates' details (short bio and photo) **one week**.
-  * Open Polls **open time spanning at least the JHB and CT meetup dates and one week after**:
-    * Primary post on GDoSA
-      * Anyone a member of GDoSA can vote, as long as they were a member before
-        the "call for candidates" opened this will allow us to try to ensure
-        that fake accounts aren't setup before hand.
-      * Vote by supplying a list in order of preference of up to 7 candidates.
-      * Only one vote per person, the latest of multiple votes cast by one
-        person invalidates the preceding ones by that person unless the latest
-        is invalid, then the latest preceding valid one, if one exists will
-        count.
-      * Greg (Secretary) and Adam (Treasurer) will tally the votes
-        **< one week**. Counting 7 points for the highest preference and one
-        less point for every one thereafter per vote.
-      * Riaan (Chairman) will audit and publish the results.
-    * Use Maining List
-    * Use Google+
-    * Use dasa.org.za
-    * Promote at Drupal user group meet-ups.
-    * Governing board members that have been on the governing board for the four
-      previous years are intelligible as candidates.
+
+### Annual Procedure
+
+- **1 to 2 week(s)**
+
+  Call for candidates (volunteers and nominations).
+
+- **1 week**
+
+  Gather candidates' details (short bio and photo).
+
+- **6 weeks**
+
+  Open Polls
+
+  * Primary post on GDoSA:
+
+    * Anyone a member of GDoSA can vote, as long as they were a member before
+      the "call for candidates" opened.
+    * Vote by supplying a list in order of preference of up to 7 candidates.
+    * Only one vote per person, the latest of multiple votes cast by one
+      person invalidates the preceding ones by that person unless the latest
+      is invalid, then the latest preceding valid one, if one exists will
+      count.
+    * Secretary and Treasurer will tally the votes **< one week**. Counting 7
+      points for the highest preference and one less point for every one
+      thereafter per vote.
+    * Chairman will audit and publish the results.
+
+    * From the DASA Constitution,
+      section 7: The Governing Board, subsection 4: Term of office:
+
+      * At least one board member of the Governing Board as a volunteer to do
+        so, or failing that, designated through a vote by the Governing Board
+        shall retire and will not be eligible as a Governing Board member for 12
+        months.
+
+      * No member of the Governing Board may serve for more than three
+        consecutive years.
 
 Tasks:
 
