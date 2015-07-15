@@ -9,27 +9,28 @@ Attending / Apologies
 
     Person    Attending ✔ / ✘ Apologies
     ===================================
-    Riaan Burger        ✔ / ✘
-    Greg McKeen         ✔ / ✘
-    Jason Lewis         ✔ / ✘
-    Adam Dunn           ✔ / ✘
-    Robin Prieschl      ✔ / ✘
-    Johan du Bois       ✔ / ✘
-    Ivan Breet          ✔ / ✘
-    Lee Taylor          ✔ / ✘
-    Renate Ehlers       ✔ / ✘
-    Lauro Scott Parkin  ✔ / ✘
-    Richard Banks       ✔ / ✘
+    Riaan Burger        ✔ 
+    Greg McKeen         ✔ 
+    Jason Lewis         ✔
+    Adam Dunn           ✔ 
+    Robin Prieschl      ✘
+    Johan du Bois       ✔
+    Ivan Breet          ✔
+    Lee Taylor          ✔
+    Renate Ehlers       ✔
+    Lauro Scott Parkin  ✔
+    Richard Banks       ✘
 
-Quorum achieved: ✔ / ✘
+Quorum achieved: ✔
 
 Apologies:
+From Robin
 
 Minutes:
 
-*
+* 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -40,7 +41,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -64,9 +65,10 @@ Tasks:
 
 Minutes:
 
-*
+* Received feedback, that instead of just 3 directors, we need to submit all 7. Each time. 
+* Awaiting information from them on how to submit the info for the other directors. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -94,7 +96,7 @@ Minutes:
 
 *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -108,9 +110,10 @@ Tasks:
 
 Minutes:
 
-*
+* On the list of TODOs with Jason, after returning from Zurich and the camp is taking up time.
+* Will be done with the Parkhurst graphics.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -152,9 +155,10 @@ Tasks:
 
 Minutes:
 
-*
+* Vote was approved to change membership fees.
+* Jason to do new Organisation Membership Logo, as only one tier of Membership is available now.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 ================================================================================
 
@@ -176,9 +180,10 @@ Tasks:
 
 Minutes:
 
-*
+* No communication regarding National Meetups haven't happened yet. 
+* Nothing new raised by anyone.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -191,9 +196,9 @@ Agenda Notes:
 
 Minutes:
 
-*
+* Ivan reports: Call to speakers, Meetups have gone well, no disruptions. Attendance from DASA was appreciated this time. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -206,9 +211,9 @@ Agenda Notes:
 
 Minutes:
 
-*
+* Riaan reports: Second Friday of the month, from 12-3pm. Calling for speakers.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -221,9 +226,12 @@ Agenda Notes:
 
 Minutes:
 
-*
+* Riaan will be down at the end of the month.
+* About 18 or more people, maybe more than 20 attendees at the July meetup.
+* Promoting on Silicon Cape.
+* No speaker yet for August, working on it.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -248,9 +256,12 @@ Tasks:
 
 Minutes:
 
-*
+* Venue in Centurion: Yonder Media are the sponsors.
+* First event on the 28th August 2015, from 17:30 to 20:30.
+* Many people have already signed up and RSVPed, it's going to be a good start.
+* Adam will receive the Invoice from Meetup.com from Renate.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -278,7 +289,7 @@ Tasks:
 
 Minutes:
 
-*
+* Skipped
 
 Completed / Agreed: ✔ / ✘
 
@@ -300,9 +311,9 @@ Tasks:
 
 Minutes:
 
-*
+* Waiting to add the new meetup groups from meetup.com, to update the website with those widgets.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -323,9 +334,9 @@ Tasks:
 
 Minutes:
 
-*
+* None
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -342,9 +353,9 @@ Tasks:
 
 Minutes:
 
-*
+* Not done yet.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -402,7 +413,7 @@ Minutes:
 
   *
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -427,9 +438,9 @@ Tasks:
 
 Minutes:
 
-*
+* 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 --------------------------------------------------------------------------------
 
@@ -503,9 +514,10 @@ Tasks:
 
 Minutes:
 
-*
+* Notes: This will be the third year running with various members on the board: Riaan, Greg, Adam
+* Riaan and Greg won't be taking administrative roles, to give new blood the opportunity to work with us for a year to take over in the 4th year, as we can't be on the board according to the constitution.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔
 
 --------------------------------------------------------------------------------
 
@@ -519,9 +531,9 @@ Agenda Notes:
 
 Minutes:
 
-*
+* Please promote the camp, twitter, facebook, whereever.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -539,9 +551,12 @@ Agenda Notes:
 
 Minutes:
 
-*
+* Good response in the last two weeks, more individual sponsors, sitting at 8.
+* Roger Wilco, came on as a sponsor.
+* Good meeting with Design Indaba, media partner for the camp, as they use Drupal too. Happy to support in the future too.
+* Design Indaba: Looking for a UX designer with Drupal experience if DASA can help. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -565,9 +580,9 @@ Tasks:
 
 Minutes:
 
-*
+* Adam will visit them soon, as the idea has been revived. 
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
 
@@ -596,6 +611,6 @@ Minutes:
 
 * No such items.
 
-Completed / Agreed: ✔ / ✘
+Completed / Agreed: ✔ 
 
 ================================================================================
