@@ -1,0 +1,72 @@
+{
+  "month": "2015-06",
+  "community": {
+    "meetups": {
+      "cape_town": {
+        "name": "Cape Town",
+        "attendance": 13,
+        "membership": 131,
+        "headcount": null
+      },
+      "durban": {
+        "name": "Durban",
+        "attendance": 0,
+        "membership": 22,
+        "headcount": null
+      },
+      "johannesburg_bryanston": {
+        "name": "Johannesburg / Bryanston",
+        "attendance": 12,
+        "membership": 102,
+        "headcount": null
+      },
+      "johannesburg_parkhurst": {
+        "name": "Johannesburg / Parkhurst",
+        "attendance": 0,
+        "membership": 0,
+        "headcount": 0
+      },
+      "pretoria_centurion": {
+        "name": "Pretoria / Centurion",
+        "attendance": 0,
+        "membership": 35,
+        "headcount": null
+      }
+    },
+    "dasa_membership": {
+      "individual": {
+        "business": 5,
+        "government": 1,
+        "education": 0
+      },
+      "agency": {
+        "business": 1,
+        "government": 0,
+        "education": 0
+      }
+    },
+    "da_membership": {
+      "individual": 4,
+      "agency": 4
+    },
+    "gdosa_membership": 347,
+    "newsletter_subscription_count": null,
+    "za_drupal_sites_in_top_3000_date": "2015-07-04T00:00:00.000Z",
+    "za_drupal_sites_in_top_3000": 64
+  },
+  "organisation": {
+    "npo_registration": "no",
+    "income": 7450,
+    "expenses": 583.65
+  },
+  "events": {
+    "camps": 0,
+    "attendees": 0,
+    "agency_sponsors": 0,
+    "sponsorship_amount": 0
+  },
+  "clinics": 0,
+  "hackfests": 0,
+  "summits": 0,
+  "workshops": 0
+}

@@ -1,0 +1,73 @@
+#!/bin/bash
+#
+# Requires:
+#
+#   npm install -g yamljs
+#   npm install -g jason2csv
+#   npm install -g json
+#
+
+mkdir -p derivations
+rm -f ./derivations/*
+
+with_heading=true
+file_combined_csv=derivations/combined.csv
+
+fields=
+fields+=month,
+fields+=community.meetups.cape_town.name,
+fields+=community.meetups.cape_town.attendance,
+fields+=community.meetups.cape_town.membership,
+fields+=community.meetups.cape_town.headcount,
+fields+=community.meetups.durban.name,
+fields+=community.meetups.durban.attendance,
+fields+=community.meetups.durban.membership,
+fields+=community.meetups.durban.headcount,
+fields+=community.meetups.johannesburg_bryanston.name,
+fields+=community.meetups.johannesburg_bryanston.attendance,
+fields+=community.meetups.johannesburg_bryanston.membership,
+fields+=community.meetups.johannesburg_bryanston.headcount,
+fields+=community.meetups.johannesburg_parkhurst.name,
+fields+=community.meetups.johannesburg_parkhurst.attendance,
+fields+=community.meetups.johannesburg_parkhurst.membership,
+fields+=community.meetups.johannesburg_parkhurst.headcount,
+fields+=community.meetups.johannesburg_pretoria_centurion.name,
+fields+=community.meetups.johannesburg_pretoria_centurion.attendance,
+fields+=community.meetups.johannesburg_pretoria_centurion.membership,
+fields+=community.meetups.johannesburg_pretoria_centurion.headcount,
+fields+=community.dasa_membership.individual.business,
+fields+=community.dasa_membership.individual.government,
+fields+=community.dasa_membership.individual.education,
+fields+=community.dasa_membership.agency.business,
+fields+=community.dasa_membership.agency.government,
+fields+=community.dasa_membership.agency.education,
+fields+=community.da_membership.individual,
+fields+=community.da_membership.agency,
+fields+=community.gdosa_membership,
+fields+=community.newsletter_subscription_count,
+fields+=community.za_drupal_sites_in_top_3000,
+fields+=organisation.npo_registration,
+fields+=organisation.income,
+fields+=organisation.expenses,
+fields+=events.camps,
+fields+=events.attendees,
+fields+=events.agency_sponsors,
+fields+=events.sponsorship_amount,
+fields+=clinics,
+fields+=hackfests,
+fields+=summits,
+fields+=workshops,
+
+for file_yml in indicators-*.yml; do
+  file_json=derivations/${file_yml/yml/json}
+  file_csv=derivations/${file_yml/yml/csv}
+  yaml2json $file_yml -p > $file_json
+  if [ $with_heading = true ]; then
+    headings_switch=
+  else
+    headings_switch='-n'
+  fi
+  with_heading=false
+  json2csv -i $file_json -f $fields -x > $file_csv
+  json2csv -i $file_json -f $fields -x $headings_switch >> $file_combined_csv
+done
