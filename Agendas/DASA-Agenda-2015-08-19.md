@@ -443,6 +443,9 @@ Agenda Notes:
 * Consider ever better planning, reference:
   * https://groups.drupal.org/node/136494
 * Planning committee: Johan, Jason, Dania.
+* Can we consider buying the blow-up Druplicon outside of the expenses of the
+  camp. If it were to be factored into the expenses the camp may not even break
+  even. It costs R 8 250.
 
 Minutes:
 
