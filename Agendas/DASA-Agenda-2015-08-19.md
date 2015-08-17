@@ -196,12 +196,27 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-2.6. Pretoria *Renate / Lee*
-----------------------------
+2.6. Pretoria / Centurion *Renate / Lee*
+----------------------------------------
 
 Agenda Notes:
 
 * First date set for *Friday the 28th of August 2015*.
+
+Minutes:
+
+*
+
+--------------------------------------------------------------------------------
+
+2.7. Pretoria / Central (NGO/Government) *Riaan / N/A*
+------------------------------------------------------
+
+Agenda Notes:
+
+* Potential start in 2016
+* Themed for NGOs and Government
+* Offer to host from the Department of Arts and Culture
 
 Minutes:
 
