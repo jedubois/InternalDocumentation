@@ -26,6 +26,7 @@ Quorum achieved: ✔ / ✘
 Apologies:
 
 - From *Adam*, medical leave ;-)
+- From *Robin*, family commitments.
 
 Minutes:
 
