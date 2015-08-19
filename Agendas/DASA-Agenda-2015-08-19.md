@@ -9,28 +9,31 @@ Agenda 2015-08-19
 
     Person    Attending ✔ / ✘ Apologies
     ===================================
-    Riaan Burger        ✔ / ✘
-    Greg McKeen         ✔ / ✘
-    Jason Lewis         ✔ / ✘
-    Adam Dunn           ✔ / ✘
-    Robin Prieschl      ✔ / ✘
-    Johan du Bois       ✔ / ✘
-    Ivan Breet          ✔ / ✘
-    Lee Taylor          ✔ / ✘
-    Renate Ehlers       ✔ / ✘
-    Lauro Scott Parkin  ✔ / ✘
-    Richard Banks       ✔ / ✘
+    Riaan Burger        ✔
+    Greg McKeen         ✔
+    Jason Lewis         ✔
+    Adam Dunn           ✘
+    Robin Prieschl      ✘
+    Johan du Bois       ✔
+    Ivan Breet          ✘
+    Lee Taylor          ✔
+    Renate Ehlers       ✘
+    Lauro Scott Parkin  ✘
+    Richard Banks       ✘
+    George Ziady        ✔
 
-Quorum achieved: ✔ / ✘
+Quorum achieved: ✘
 
 Apologies:
 
 - From *Adam*, medical leave ;-)
 - From *Robin*, family commitments.
+- From *Ivan*, medical leave ;-)
+- From *Renate*, family commitments.
 
 Minutes:
 
-*
+* 
 
 --------------------------------------------------------------------------------
 
@@ -39,7 +42,7 @@ Minutes:
 
 Minutes:
 
-*
+* Confirmed
 
 --------------------------------------------------------------------------------
 
@@ -62,7 +65,7 @@ Tasks:
 
 Minutes:
 
-*
+* Re-submitted again, awaiting feedback. Should have feedback in the next 3 weeks.
 
 --------------------------------------------------------------------------------
 
@@ -89,7 +92,7 @@ Tasks:
 
 Minutes:
 
-*
+* Riaan has done a great job working with Johan's metrics. There are 3 months of data. 
 
 --------------------------------------------------------------------------------
 
@@ -103,7 +106,7 @@ Tasks:
 
 Minutes:
 
-*
+* In Progress
 
 --------------------------------------------------------------------------------
 
@@ -130,7 +133,8 @@ Tasks:
 
 Minutes:
 
-*
+* E-mail Vote conducted and approved. 
+* New designs after the DrupalCamp CT.
 
 ================================================================================
 
@@ -148,7 +152,13 @@ Tasks:
 
 Minutes:
 
-*
+* Parkhurst new meetup has started.
+* Centurion will begin on Friday.
+* Next year will be Durban, and considering other expansions.
+* Daytime meetup in Pretoria is required with a venue being offered. Potentially themed around NGO's and government development/work. 
+* Other Cape Town area would possibly be in Stellenbosch.
+* Current Cape Town meetup may be moving to Town, instead of Woodstock as agreed by the community.
+* Expansion of meetups needs to be according to need. The meetups require their own organisers as we can't spread ourselves too thin.
 
 --------------------------------------------------------------------------------
 
@@ -157,7 +167,9 @@ Minutes:
 
 Minutes:
 
-*
+* Very good meetup last month. Thanks to Riaan for coming down to CT. Just under 30 people, which was a good turnout.
+* No meetup in August, due to the upcoming camp.
+* A few plans in place for the rest of the year.
 
 --------------------------------------------------------------------------------
 
@@ -170,7 +182,7 @@ Agenda Notes:
 
 Minutes:
 
-*
+* None
 
 --------------------------------------------------------------------------------
 
@@ -179,7 +191,7 @@ Minutes:
 
 Minutes:
 
-*
+* Smaller meetup this past month. Incredible discussions. Presentation by Lancelot on Queueing. Information dense in terms of the un-conferencing. 
 
 --------------------------------------------------------------------------------
 
@@ -192,7 +204,7 @@ Agenda Notes:
 
 Minutes:
 
-*
+* First meetup went well. There was a video conference with Magento/Drupal developers in the UK. A small meetup to start, hoping for more growth. 
 
 --------------------------------------------------------------------------------
 
@@ -205,11 +217,11 @@ Agenda Notes:
 
 Minutes:
 
-*
+* Everything looks good. Premises will be at a company with 40 Joomla developers. Nice venue, they are excited to learn about Drupal and help build a community.
 
 --------------------------------------------------------------------------------
 
-2.7. Pretoria / Central (NGO/Government) *Riaan / N/A*
+2.7. Pretoria / Central (NGO/Government) *Riaan / Johan*
 ------------------------------------------------------
 
 Agenda Notes:
@@ -220,7 +232,8 @@ Agenda Notes:
 
 Minutes:
 
-*
+* Johan elected to help Riaan with this meetup. 
+* Riaan will begin discussions to see if a meet and greet can be held before the end of the year, to iron out plans.
 
 ================================================================================
 
@@ -249,7 +262,8 @@ Tasks:
 
 Minutes:
 
-*
+* To be discussed with *Robin* at the next board meeting.
+* Jason is interested in this task, but not until after the camp.
 
 --------------------------------------------------------------------------------
 
@@ -272,7 +286,8 @@ Tasks:
 
 Minutes:
 
-*
+* Add the DrupalCamp CT to the dasa.org.za website. *Jason* will forward details to *Riaan*.
+* *Jason* to forward e-mail to info@dasa.org.za describing the ownership of domains in his custody.
 
 ================================================================================
 
@@ -294,7 +309,7 @@ Bank Account:
 Statements:
 
     Account: 62446745492
-    Balance: 34 523.14
+    Balance: 50 158.14
 
     2015/08/11,    -65.00, 50158.14, #MONTHLY ACCOUNT FEE
     2015/08/08,    100.00, 50223.14, SCHEDULED PYMT FROM   GREG MCKEEN
@@ -438,7 +453,9 @@ Tasks:
 
 Minutes:
 
-*
+* Call for candidates (volunteers and nominations) opened today (19th August 2015).
+* We require new leadership this year as a few board members will not be able to be re-elected next year as they will be in their third year this year. There must be a handover over the next year. 
+* Announce voting at the DrupalCamp.
 
 --------------------------------------------------------------------------------
 
@@ -452,7 +469,7 @@ Agenda Notes:
 
 Minutes:
 
-*
+* None
 
 ================================================================================
 
@@ -473,7 +490,11 @@ Agenda Notes:
 
 Minutes:
 
-*
+* 81 attendees so far. Excluding students from Friends of Design that are expected.
+* We have confirmed Jeffrey A. "jam" McGuire as our Keynote Speaker from Acquia.
+* A guest house is available for anyone not from Cape Town who needs accomodation. (http://www.platinumguesthouse.com/en)
+* No blow-up Druplicon for this camp. 
+* Drinks and Snacks from 4-6pm. After party venue is being considered.
 
 ================================================================================
 
@@ -497,7 +518,7 @@ Tasks:
 
 Minutes:
 
-*
+* Will be discussed at the next meeting.
 
 ================================================================================
 
@@ -523,6 +544,6 @@ Agenda Notes:
 
 Minutes:
 
-*
+* None
 
 ================================================================================
