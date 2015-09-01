@@ -289,8 +289,18 @@ Bank Account:
 Statements:
 
     Account: 62446745492
-    Balance: 50 158.14
+    Balance: 49 813.34
 
+    2015/08/31,  -1322.40, 49813.34, AMAZEE LABS STICKERS
+    2015/08/27,  -1300.00, 51135.74, A ROBINSON TRANSPORT
+    2015/08/26,  -1322.40, 52435.74, TRIDENT MARKETING
+    2015/08/25,   3000.00, 53758.14, DMOOREDCSPONSOR
+    2015/08/20,    300.00, 50758.14, George Ziady DrupalCamp
+    2015/08/19,    300.00, 50458.14, FNB OB PMT            LEENX DONATION DASA
+    2015/08/11,    -65.00, 50158.14, #MONTHLY ACCOUNT FEE
+    2015/08/08,    100.00, 50223.14, SCHEDULED PYMT FROM   GREG MCKEEN
+    2015/07/31,   3000.00, 50123.14, FNB OB PMT            TELAMENTA
+    2015/07/31,   3000.00, 47123.14, FNB OB PMT            ROBBOTODCCTSPONSOR
     -------------------------------- Since Previous Agenda
     2015/08/11,    -65.00, 50158.14, #MONTHLY ACCOUNT FEE
     2015/08/08,    100.00, 50223.14, SCHEDULED PYMT FROM   GREG MCKEEN
@@ -325,7 +335,7 @@ Minutes:
 
 Agenda Notes:
 
-- ETA for Drupal 8 Launch is September.
+- ETA for Drupal 8 Launch is October.
   - [drupalreleasedate.com](https://drupalreleasedate.com/)
 - At Cobblestones in Monte Casino in Johannesburg / Bryanston.
 - Awaiting venue confirmation in Johannesburg / Parkhurst.
