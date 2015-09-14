@@ -21,6 +21,8 @@ Agenda 2015-09-16
     Lauro Scott Parkin  ✔ / ✘
     Richard Banks       ✔ / ✘
     George Ziady        ✔ / ✘
+    Inky Talbot         ✔ / ✘
+    Sergio Henriques    ✔ / ✘
 
 Quorum achieved: ✔ / ✘
 
@@ -48,10 +50,11 @@ Minutes:
 
 Agenda Notes:
 
--
+- We have a registration!
 
 Tasks:
 
+- *Greg* to collect our forms.
 - Once registered:
   - Update stationery and website and announce.
   - *Adam* will arrange an accountant (CA).
@@ -73,9 +76,7 @@ Agenda Notes:
 
 - Reference:
   - [Indicators on GitHub](https://github.com/DrupalAssociationSA/InternalDocumentation/tree/master/Indicators)
-- We now have data for May, June and July.
-- Data in YAML, scripts included to convert data to JSON and
-  CSV (apart and combined) and derived formats are also available in the repo.
+- We now have data for May, June, July and August.
 
 Tasks:
 
@@ -121,8 +122,6 @@ Tasks:
   * New stickers to be made for membership.
 * We should sign up several members, then promote membership.
 * *Everyone* able to try to donate R 100 / R 200 per month.
-* *Robin* will post messages to the newsletter.
-* *Richard* will look into donation widgets.
 
 Minutes:
 
@@ -137,14 +136,6 @@ Minutes:
 
 2.1. National *Robin / Jason*
 -----------------------------
-
-Tasks:
-
-- Early considerations for next year's expansion
-  - Pretoria / Arcadia (NGO/Gov Theme, Day-time)
-  - Johannesburg / East
-  - Western Cape / Stellenbosch
-  - New meetups to be independently hosted
 
 Minutes:
 
@@ -202,11 +193,9 @@ Minutes:
 
 Agenda Notes:
 
-- Potential start in 2016
-- Themed for NGOs and Government
-- Offer to host from the Department of Arts and Culture
-- *Riaan* to try to organise an October meet-and-greet at which we can get to
-  know everyone and start planning next year's regular meet-ups.
+- First meeting for the 16th of October to plan 2016 meetup.
+- Themed for NGOs and Government.
+- Hosted by the Department of Arts and Culture.
 
 Minutes:
 
@@ -221,12 +210,6 @@ Minutes:
 
 3.1. Newsletter (MailChimp) *Robin / Jason*
 -------------------------------------------
-
-Agenda Notes:
-
-- Report.
-- Subscriber count.
-- Should we consider a simplenews newsletter for our upcoming Drupal 8 site?
 
 Tasks:
 
@@ -259,7 +242,7 @@ Tasks:
 - Consider somone suited to the position asking if DASA can purchase the Drupal
   domains for South Africa, drupal.co.za and drupal.org.za, from it's current
   owner.
-- *Riaan* to add DrupalCamp Cape Town 201 to the website.
+- *Riaan* to remove DrupalCamp Cape Town 2015 from the website.
 
 Minutes:
 
@@ -289,8 +272,18 @@ Bank Account:
 Statements:
 
     Account: 62446745492
-    Balance: 49 813.34
+    Balance: 33 841.19
 
+    2015/09/11,    -62.65, 33841.19, #SERVICE FEES
+    2015/09/11,    -65.00, 33903.84, #MONTHLY ACCOUNT FEE
+    2015/09/11,      0.00, 33968.84, BIS/INT 7 ON TRUE TIERING = 62.65
+    2015/09/11,    450.00, 33968.84, INT-BANKING PMT FRM   MEDIAMACHINETSHIRTS
+    2015/09/08,    100.00, 33518.84, SCHEDULED PYMT FROM   GREG MCKEEN
+    2015/09/08,    300.00, 33418.84, PIXEL PUNCTUATION SKRUGER
+    2015/09/08,  -6715.00, 33118.84, SABABA
+    2015/09/03,  -5016.00, 39833.84, TAO PROMOTION
+    2015/09/03,  -3163.50, 44849.84, TAO PROMOTION
+    2015/09/02,  -1800.00, 48013.34, GOODFELLOWS 70241
     2015/08/31,  -1322.40, 49813.34, AMAZEE LABS STICKERS
     2015/08/27,  -1300.00, 51135.74, A ROBINSON TRANSPORT
     2015/08/26,  -1322.40, 52435.74, TRIDENT MARKETING
@@ -344,7 +337,6 @@ Agenda Notes:
 
 Tasks:
 
-- *Robin* to publish the intent on GDoSA.
 - *Jason* to arrange for a Cape Town launch party.
 - *Grant* to arrange for a Johannesburg / Parkhurst launch party.
 - *Renate* to arrange for a Pretoria launch party.
@@ -367,49 +359,29 @@ Agenda Notes:
     - Review [Constitution](https://docs.google.com/document/d/1DYY133KEg320wm4mIIBMDMd8f31LpndEimysmFUe6oU) and confirm duties
   - <31 October:   Publish results
   -  21 October:   Close voting
-  -   9 September: Open voting
-  -   2 September:
-    - Close acceptance of new candidates.
-    - Administrative: Gather short bio of all candidates, prepare to open vote.
 
-### Annual Procedure
+### Relevant Procedure
 
-- **1 to 2 week(s)**
+- Vote by supplying a list in order of preference of up to 7 candidates.
+- Only one vote per person, the latest of multiple votes cast by one
+  person invalidates the preceding ones by that person unless the latest
+  is invalid, then the latest preceding valid one, if one exists will
+  count.
+- Secretary and Treasurer will tally the votes **< one week**. Counting 7
+  points for the highest preference and one less point for every one
+  thereafter per vote.
+- Chairman will audit and publish the results.
 
-  Call for candidates (volunteers and nominations).
+- From the DASA Constitution,
+  section 7: The Governing Board, subsection 4: Term of office:
 
-- **1 week**
+  - At least one board member of the Governing Board as a volunteer to do
+    so, or failing that, designated through a vote by the Governing Board
+    shall retire and will not be eligible as a Governing Board member for 12
+    months.
 
-  Gather candidates' details (short bio and photo).
-
-- **6 weeks**
-
-  Open Polls
-
-  - Primary post on GDoSA:
-
-    - Anyone a member of GDoSA can vote, as long as they were a member before
-      the "call for candidates" opened.
-    - Vote by supplying a list in order of preference of up to 7 candidates.
-    - Only one vote per person, the latest of multiple votes cast by one
-      person invalidates the preceding ones by that person unless the latest
-      is invalid, then the latest preceding valid one, if one exists will
-      count.
-    - Secretary and Treasurer will tally the votes **< one week**. Counting 7
-      points for the highest preference and one less point for every one
-      thereafter per vote.
-    - Chairman will audit and publish the results.
-
-    - From the DASA Constitution,
-      section 7: The Governing Board, subsection 4: Term of office:
-
-      - At least one board member of the Governing Board as a volunteer to do
-        so, or failing that, designated through a vote by the Governing Board
-        shall retire and will not be eligible as a Governing Board member for 12
-        months.
-
-      - No member of the Governing Board may serve for more than three
-        consecutive years.
+  - No member of the Governing Board may serve for more than three
+    consecutive years.
 
 Tasks:
 
@@ -442,14 +414,12 @@ Minutes:
 
 Agenda Notes:
 
+- Report.
 - Date: **Friday the 4th of September 2015**
 - Develop event assets further, focus on items we can also use at MyWoT.
 - Consider ever better planning, reference:
   - https://groups.drupal.org/node/136494
 - Planning committee: Johan, Jason, Dania.
-- Can we consider buying the blow-up Druplicon outside of the expenses of the
-  camp. If it were to be factored into the expenses the camp may not even break
-  even. It costs R 8 250.
 
 Minutes:
 
