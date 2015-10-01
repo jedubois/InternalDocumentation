@@ -1,0 +1,99 @@
+# **************************************************************************** #
+# *   ____    _    ____    _                                                 * #
+# *  |  _ \  / \  / ___|  / \                                                * #
+# *  | | | |/ _ \ \___ \ / _ \                                               * #
+# *  | |_| / ___ \ ___) / ___ \                                              * #
+# *  |____/_/   \_\____/_/   \_\   Drupal Association South Africa           * #
+# *                                                                          * #
+# **************************************************************************** #
+---
+
+month: 2015-09
+
+community:
+
+  # Attendance Count from meetup.com
+  meetups:
+
+    cape_town:
+      name: Cape Town
+      attendance: 25
+      membership: 179
+      headcount: 0
+
+    durban:
+      name: Durban
+      attendance: 0
+      membership: 48
+      headcount: 0
+
+    johannesburg_bryanston:
+      name: Johannesburg / Bryanston
+      attendance: 5
+      membership: 248
+      headcount:
+
+    johannesburg_parkhurst:
+      name: Johannesburg / Parkhurst
+      attendance: 0
+      membership: 40
+      headcount: 0
+
+    pretoria_arcadia:
+      name: Pretoria / Arcadia (NGO / Gov)
+      attendance: 0
+      membership: 19
+      headcount: 0
+
+    pretoria_centurion:
+      name: Pretoria / Centurion
+      attendance: 19
+      membership: 69
+      headcount:
+
+  dasa_membership:
+
+    individual:
+
+      business: 5
+      government: 1
+      education: 0
+
+    agency:
+
+      business: 1
+      government: 0
+      education: 0
+
+  da_membership:
+
+    individual: 5
+    agency: 4
+
+  gdosa_membership: 352
+
+  newsletter_subscription_count: 0
+
+  # Number of za sites in top 3 000 za sites that run Drupal
+  za_drupal_sites_in_top_3000_date: 2015-09-26
+  za_drupal_sites_in_top_3000: 96
+
+organisation:
+
+  npo_registration: yes
+
+  income: 850.00
+
+  expenses: 18539.67
+
+events:
+
+  camps: 1
+  attendees: 103
+  agency_sponsors: 7
+  sponsorship_amount: 30000
+
+clinics: 0
+hackfests: 0
+summits: 0
+workshops: 0
