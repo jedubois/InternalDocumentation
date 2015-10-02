@@ -9,30 +9,31 @@ Agenda 2015-09-16
 
     Person    Attending ✔ / ✘ Apologies
     ===================================
-    Riaan Burger        ✔ / ✘
-    Greg McKeen         ✔ / ✘
-    Jason Lewis         ✔ / ✘
-    Adam Dunn           ✔ / ✘
-    Robin Prieschl      ✔ / ✘
-    Johan du Bois       ✔ / ✘
-    Ivan Breet          ✔ / ✘
-    Lee Taylor          ✔ / ✘
-    Renate Ehlers       ✔ / ✘
-    Lauro Scott Parkin  ✔ / ✘
-    Richard Banks       ✔ / ✘
-    George Ziady        ✔ / ✘
-    Inky Talbot         ✔ / ✘
-    Sergio Henriques    ✔ / ✘
+    Riaan Burger        ✔ 
+    Greg McKeen         ✔
+    Jason Lewis         ✔
+    Adam Dunn           ✘
+    Robin Prieschl      ✔ 
+    Johan du Bois       ✘
+    Ivan Breet          ✘
+    Lee Taylor          ✔ 
+    Renate Ehlers       ✔ 
+    Lauro Scott Parkin  ✘
+    Richard Banks       ✘
+    George Ziady        ✔ 
+    Inky Talbot         ✘
+    Sergio Henriques    ✔ 
+    Ilsoda Musa         ✔ 
 
 Quorum achieved: ✔ / ✘
 
 Apologies:
 
-- None
+- Ivan, Inky, Adam
 
 Minutes:
 
--
+- None
 
 --------------------------------------------------------------------------------
 
@@ -41,7 +42,7 @@ Minutes:
 
 Minutes:
 
--
+- 
 
 --------------------------------------------------------------------------------
 
@@ -65,7 +66,7 @@ Tasks:
 
 Minutes:
 
--
+- Registration approved on the 8th September 2015. Reference Number:  158-394 NPO
 
 --------------------------------------------------------------------------------
 
@@ -90,7 +91,7 @@ Tasks:
 
 Minutes:
 
--
+- Outgoing board will need to adopt the report, as they are responsible for it.
 
 --------------------------------------------------------------------------------
 
@@ -104,7 +105,8 @@ Tasks:
 
 Minutes:
 
-*
+* Postponed until next month.
+* Jason has been busy, but will incorporate new membership badges.
 
 --------------------------------------------------------------------------------
 
@@ -125,7 +127,8 @@ Tasks:
 
 Minutes:
 
--
+- Renate and Robin waiting on Jason for the new logos.
+- Then fundraising will begin, with the momentum of the community that has been built up.
 
 ================================================================================
 
@@ -139,7 +142,7 @@ Minutes:
 
 Minutes:
 
--
+- User group meetups will have a meeting before the Board Meeting every month. 
 
 --------------------------------------------------------------------------------
 
@@ -148,7 +151,9 @@ Minutes:
 
 Minutes:
 
--
+- Meetup was skipped due to the camp. 
+- Response for this months meetup is good. ±18 people signed up currently.
+- 30th September.
 
 --------------------------------------------------------------------------------
 
@@ -157,7 +162,7 @@ Minutes:
 
 Minutes:
 
--
+- Planned for November.
 
 --------------------------------------------------------------------------------
 
@@ -166,7 +171,7 @@ Minutes:
 
 Minutes:
 
--
+- Attendance was low last month, before the Camp. 
 
 --------------------------------------------------------------------------------
 
@@ -175,7 +180,8 @@ Minutes:
 
 Minutes:
 
--
+- Parkhurst was cancelled
+- A review of resuming the meetup next year.
 
 --------------------------------------------------------------------------------
 
@@ -184,7 +190,12 @@ Minutes:
 
 Minutes:
 
--
+- Centurion was an overwhelming success.
+- Will rely on the knowledge of the JHB guys who come to the Centurion meetup.
+- Everyone responded positively.
+- About 20 attendees.
+- Lee & Musa happy to help with meetups and learning, every second meetup or so.
+- Date for the next meetup is a concern. Awaiting feedback from Yonder. It was scheduled for the last Thursday, which is a public holiday. Planning to move to the 8th October, consider making it the second Thursday of every month.
 
 --------------------------------------------------------------------------------
 
@@ -199,7 +210,7 @@ Agenda Notes:
 
 Minutes:
 
--
+- 
 
 ================================================================================
 
@@ -222,7 +233,10 @@ Tasks:
 
 Minutes:
 
--
+- Robin is rebuilding the newsletter with information learnt recently.
+- Robin is adding a signup form to the website.
+- Robin will push the development to the live site.
+- Robin will require content, job openings, meetups, calls for sponsors, write up post-meetup, pictures and photos, and to promote the fact that people can vote. 
 
 --------------------------------------------------------------------------------
 
@@ -239,14 +253,14 @@ Tasks:
   drupalcamp.co.za domain ownership. Registered ownership can by with anyone
   prepared to change ownership of the domain under direction of DASA if
   requested.
-- Consider somone suited to the position asking if DASA can purchase the Drupal
+- Consider someone suited to the position asking if DASA can purchase the Drupal
   domains for South Africa, drupal.co.za and drupal.org.za, from it's current
   owner.
 - *Riaan* to remove DrupalCamp Cape Town 2015 from the website.
 
 Minutes:
 
--
+- Next year integrate with Social channels etc, thus not relying solely on the newsletter.
 
 ================================================================================
 
@@ -319,7 +333,10 @@ Tasks:
 
 Minutes:
 
--
+- Camp raised R24 000, with an outstanding sponsor.
+- Camp Cost R22 357.82
+- We need to move the financials into a Private repository on GitLab. 
+- An annual report can be published with financials.
 
 --------------------------------------------------------------------------------
 
@@ -343,7 +360,7 @@ Tasks:
 
 Minutes:
 
--
+- One meetup for Johannesburg, instead of 3.
 
 --------------------------------------------------------------------------------
 
@@ -390,7 +407,7 @@ Tasks:
 
 Minutes:
 
--
+- Voting is happening, nice participation but we would like to see more.
 
 --------------------------------------------------------------------------------
 
@@ -404,7 +421,7 @@ Agenda Notes:
 
 Minutes:
 
--
+- None
 
 ================================================================================
 
@@ -423,7 +440,14 @@ Agenda Notes:
 
 Minutes:
 
--.
+Jason reports: 
+- Official count sitting at 103 people through the door. 
+- 134 original signups, so not a bad drop-off
+- Overall felt as a success
+- Good feedback regarding the speakers.
+- A year to plan to the next one.
+- Looking forward to the JHB camp.
+- Another venue has already been offered for next year.
 
 ================================================================================
 
@@ -447,7 +471,7 @@ Tasks:
 
 Minutes:
 
--
+- Renate will help with the stand.
 
 ================================================================================
 
@@ -473,6 +497,6 @@ Agenda Notes:
 
 Minutes:
 
--
+- None
 
 ================================================================================
