@@ -66,7 +66,7 @@ community:
 
   gdosa_membership: 346
 
-  newsletter_subscription_count:
+  newsletter_subscription_count: 124
 
   # Number of za sites in top 3 000 za sites that run Drupal
   za_drupal_sites_in_top_3000_date: 2015-05-30
