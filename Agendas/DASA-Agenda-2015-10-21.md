@@ -235,7 +235,7 @@ Minutes:
 
 Agenda Notes:
 
--
+- Gov/NGO Request for Forums and Private Threads.
 
 Tasks:
 
