@@ -1,7 +1,7 @@
 Drupal Association South Africa
 ===============================
 
-Agenda 2015-10-21
+Agenda 2015-11-25
 -----------------
 
 1.1. Attending / Apologies
@@ -9,29 +9,27 @@ Agenda 2015-10-21
 
     Person    Attending ✔ / ✘ Apologies
     ===================================
-    Riaan Burger        ✔
-    Greg McKeen         ✘
-    Jason Lewis         ✔
-    Adam Dunn           ✔
-    Robin Prieschl      ✘
-    Johan du Bois       ✔
-    Ivan Breet          ✘
-    Lee Taylor          ✔
-    Renate Ehlers       ✔
-    Lauro Scott Parkin  ✘
-    Richard Banks       ✘
-    George Ziady        ✔
-    Inky Talbot         ✘
-    Sergio Henriques    ✔
-    Ilsoda Musa         ✔
+    Riaan Burger        ✔ / ✘
+    Greg McKeen         ✔ / ✘
+    Jason Lewis         ✔ / ✘
+    Adam Dunn           ✔ / ✘
+    Robin Prieschl      ✔ / ✘
+    Johan du Bois       ✔ / ✘
+    Ivan Breet          ✔ / ✘
+    Lee Taylor          ✔ / ✘
+    Renate Ehlers       ✔ / ✘
+    Lauro Scott Parkin  ✔ / ✘
+    Richard Banks       ✔ / ✘
+    George Ziady        ✔ / ✘
+    Inky Talbot         ✔ / ✘
+    Sergio Henriques    ✔ / ✘
+    Ilsoda Musa         ✔ / ✘
 
-Quorum achieved: ✔
+Quorum achieved (two thirds of governing board): ✔ / ✘
 
 Apologies:
 
-- Robin
-- Greg
-- Inky
+-
 
 Minutes:
 
@@ -39,17 +37,76 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-1.2. Confirm Next Meeting Wednesday 18 November 2015
-----------------------------------------------------
+1.2. Hand Over to New Governing Board *Riaan / N/A*
+---------------------------------------------------
 
 Minutes:
 
-- Changed to 25 November to not overlap with Durban and the Cape Town meet-up.
+-
 
 --------------------------------------------------------------------------------
 
-1.3. NPO Registration  *Johan / Greg*
--------------------------------------
+1.2. Decide on Governing Board Portfolio Holders *Everyone*
+-----------------------------------------------------------
+
+- Essential:
+  - Chairperson
+  - Vice-chairperson
+  - Treasurer
+  - Secretary
+  - Portfolio Manager
+- Replace each Agenda Item responsible persons (next to headings) with real
+  names. Use the minutes field for this as we don't alter the agenda itself.
+
+Minutes:
+
+-
+
+--------------------------------------------------------------------------------
+
+1.3. Constitution *Secretary / Vice Chair*
+------------------------------------------
+
+Agenda:
+
+- *Secretary* to edit a Google Docs copy of the constitution with the new
+  governing board's details.
+- *Everyone* to send their full legal names e-mail and telephone number to the
+  secretary.
+- *Everyone* to download, sign and post original signed constitution to the
+  *Secretary*.
+
+Minutes:
+
+-
+
+--------------------------------------------------------------------------------
+
+1.4. Handover *Adam / Greg / Chairperson / Vice Chairperson*
+------------------------------------------------------------
+
+Agenda:
+
+- Treasurer and bank account.
+- Secretary and documentation.
+
+Minutes:
+
+-
+
+--------------------------------------------------------------------------------
+
+1.5. Confirm Next Meeting Wednesday 20 January 2016 *Chair / Vice Chair*
+------------------------------------------------------------------------
+
+Minutes:
+
+-
+
+--------------------------------------------------------------------------------
+
+1.6. NPO Registration  *Secretary / Vice Chair*
+-----------------------------------------------
 
 Agenda Notes:
 
@@ -58,15 +115,15 @@ Agenda Notes:
 Tasks:
 
 - *Greg* to collect our forms.
-- Registration approved on the 8th September 2015.
-  - Reference Number:  158-394 NPO
+- Registration approved on 8 September 2015.
+  - Reference Number: 158-394 NPO
 - Once registered:
   - Update stationery and website and announce.
-  - *Adam* will arrange an accountant (CA).
+  - *Adam / Treasurer* will arrange an accountant (CA).
   - Annually:
     - Narrative report (first one due in August by Chairman).
     - Financial reports signed by accounting officer.
-    - Changes to board / leadership / constitution should be noted.
+    - **Changes to board / leadership / constitution should be noted.**
 
 Minutes:
 
@@ -74,7 +131,7 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-1.4. Metrics for Measuring DASA's Success 2015/16  *Johan / Riaan*
+1.7. Metrics for Measuring DASA's Success 2015/16  *Johan / Riaan*
 ------------------------------------------------------------------
 
 Agenda Notes:
@@ -100,27 +157,13 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-1.5. Google+ Branding *Robin / Jason*
--------------------------------------
-
-Tasks:
-
-- *Robin* / *Jason* to create design elements for our Google+ page. Then provide
-  to *Lee* for implementation.
-
-Minutes:
-
--
-
---------------------------------------------------------------------------------
-
-1.6. Membership & Fund-raising *Renate / Robin*
------------------------------------------------
+1.8. Membership & Fund-raising *N/A / N/A*
+------------------------------------------
 
 Agenda Notes:
 
-- New membership structure is Individual R 150 and Organisation R 5 000.
-- Awaiting new creative from Jason before we promote it.
+- New membership structure is *Individual R 150* and *Organisation R 5 000*.
+- Awaiting new creative from *Jason* before we promote it.
 
 Tasks:
 
@@ -140,21 +183,21 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-2.1. National *Robin / Jason*
------------------------------
+2.1. National *N/A / N/A*
+-------------------------
 
 Minutes:
 
-- Add attendance badges to our upcoming DASA Drupal website.
+-
 
 --------------------------------------------------------------------------------
 
-2.2. Cape Town *Jason / Robin*
-------------------------------
+2.2. Cape Town *Jason / N/A*
+----------------------------
 
 Minutes:
 
-- Last 2015 meet-up on the 18th of November with Michael Shmidt.
+-
 
 --------------------------------------------------------------------------------
 
@@ -176,8 +219,8 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-2.5. Johannesburg / Parkhurst *Riaan / Grant*
----------------------------------------------
+2.5. Johannesburg / Parkhurst *Riaan / N/A*
+-------------------------------------------
 
 Minutes:
 
@@ -185,17 +228,17 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-2.6. Pretoria / Centurion *Renate / Lee*
+2.6. Pretoria / Centurion *Renate / N/A*
 ----------------------------------------
 
 Minutes:
 
-- Last 2015 meet-up on the 12th of November.
+-
 
 --------------------------------------------------------------------------------
 
-2.7. Pretoria / Central (NGO/Government) *Riaan / Johan*
---------------------------------------------------------
+2.7. Pretoria / Cape Town (NGO/Government) *Riaan / Johan*
+----------------------------------------------------------
 
 Minutes:
 
@@ -208,21 +251,21 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-3.1. Newsletter (MailChimp) *Robin / Jason*
--------------------------------------------
+3.1. Newsletter (MailChimp) *N/A / N/A*
+---------------------------------------
 
 Tasks:
 
-- *Robin* to post an article on groups.drupal.org to explain reasons to
+- *N/A* to post an article on groups.drupal.org to explain reasons to
   subscribe to the newsletter:
   - To be notified about the elections
   - Keep abreast with community news, and meetup dates
   - Solicit articles
   - Describe frequency of e-mails
-- *Robin* is rebuilding the newsletter with information learnt recently.
-- *Robin* is adding a signup form to the website.
-- *Robin* will push the development to the live site.
-- *Robin* will require content, job openings, meetups, calls for sponsors, write
+- *N/A* is rebuilding the newsletter with information learnt recently.
+- *N/A* is adding a signup form to the website.
+- *N/A* will push the development to the live site.
+- *N/A* will require content, job openings, meetups, calls for sponsors, write
   up post-meetup, pictures and photos, and to promote the fact that people can
   vote.
 
@@ -232,8 +275,8 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-3.2. dasa.org.za & drupalcamp.co.za *Riaan / Robin*
----------------------------------------------------
+3.2. dasa.org.za & drupalcamp.co.za *N/A / N/A*
+-----------------------------------------------
 
 Agenda Notes:
 
@@ -263,8 +306,8 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-4.1. Accounting *Adam / Riaan*
-------------------------------
+4.1. Accounting *Treasurer / N/A*
+---------------------------------
 
 Bank Account:
 
@@ -316,7 +359,7 @@ Statements:
 
 Tasks:
 
-- *Riaan* to update this a couple of days before each meeting.
+- *Treasurer* to update this a couple of days before each meeting.
 - *Lee* to set up a GitLab account for DASA.
   - Accounting to move to a private repo on GitLab.
 
@@ -326,15 +369,16 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-4.2. Official Drupal 8 Launch Party *Riaan / Jason*
----------------------------------------------------
+4.2. Official Drupal 8 Launch Party *N/A / N/A*
+-----------------------------------------------
 
 Agenda Notes:
 
-- ETA for Drupal 8 Launch is October.
+- ETA for Drupal 8 Launch is November.
   - [drupalreleasedate.com](https://drupalreleasedate.com/)
 - At Cobblestones in Monte Casino in Johannesburg.
 - Awaiting venue confirmation in Cape Town.
+- Johannesburg listed on https://assoc.drupal.org/drupal-8-launch-party
 
 Tasks:
 
@@ -342,61 +386,11 @@ Tasks:
 
 Minutes:
 
-- Jason mentions:
-  Add the parties to https://assoc.drupal.org/drupal-8-launch-party
+-
 
 --------------------------------------------------------------------------------
 
-4.3. 2015 Governing Board Elections *Riaan / Renate*
-----------------------------------------------------
-
-Agenda Notes:
-
-- Timeline
-  -  18 November:  New Board
-    - Assign portfolios:
-      Chairman, Vice Chairman, Secretary, Treasurer, Portfolio Manager
-    - Review [Constitution](https://docs.google.com/document/d/1DYY133KEg320wm4mIIBMDMd8f31LpndEimysmFUe6oU) and confirm duties
-  - <31 October:   Publish results
-  -  21 October:   Close voting
-
-### Relevant Procedure
-
-- Vote by supplying a list in order of preference of up to 7 candidates.
-- Only one vote per person, the latest of multiple votes cast by one
-  person invalidates the preceding ones by that person unless the latest
-  is invalid, then the latest preceding valid one, if one exists will
-  count.
-- Secretary and Treasurer will tally the votes **< one week**. Counting 7
-  points for the highest preference and one less point for every one
-  thereafter per vote.
-- Chairman will audit and publish the results.
-
-- From the DASA Constitution,
-  section 7: The Governing Board, subsection 4: Term of office:
-
-  - At least one board member of the Governing Board as a volunteer to do
-    so, or failing that, designated through a vote by the Governing Board
-    shall retire and will not be eligible as a Governing Board member for 12
-    months.
-
-  - No member of the Governing Board may serve for more than three
-    consecutive years.
-
-Tasks:
-
-- After: New board to sign the constitution.
-
-Minutes:
-
-- Try to use the elections module on our future Drupal website.
-- One voter was nto a member of GDoSA before 19 August as per the rules for voting
-  voting, but was a member of Do or 5 years. Two objections were noted to his
-  vote not counting by Ilsoda and Adam.
-
---------------------------------------------------------------------------------
-
-4.4. Any Other Business *Everyone*
+4.3. Any Other Business *Everyone*
 ----------------------------------
 *≈ 15 min*
 
@@ -410,48 +404,32 @@ Minutes:
 
 ================================================================================
 
-5. MyWoT (MyWorld of Tomorrow) 2015 *Adam / N/A*
-================================================
+5. DrupalCamp Gauteng 2016 *N/A / N/A*
+======================================
 
 Agenda Notes:
 
-- Date: **22nd - 24th October 2015**
-- Confirmed that we will have a stand.
-- Confirmed that we will have speakership opportunities.
-
-- We need to assign people to work at the stand.
-- We need to assign speakers.
-
-- Renate will help with the stand.
-
-Tasks:
-
-- We need to assign people. It's *N/A* right now in the heading.
-- *Adam* will meet with them shortly, and add to the Agenda Notes heading here.
-- Once we know what the stand space will look like, *Jason* to design the stands
+- *10 and 11 March 2016*
+- *Department of Arts and Culture, Arcadia, Pretoria*
+- New board confirm *Riaan* as authoritative organiser?
 
 Minutes:
 
-- NGO stands were cancelled int he wake of very high demand for comemrcial
-  stands.
+-
 
 ================================================================================
 
-6. DrupalCamp Johannesburg 2016 *N/A / N/A*
-============================================
-*≈ 5 min*
+6. DrupalCamp Cape Town 2016 *N/A / N/A*
+========================================
 
 Agenda Notes:
 
 - Any early ideas.
-- Can *Riaan* put a planning committee together, to be confirmed by the new
-  board?
-- In Tshwane this time?
+- Authoritative organiser?
 
 Minutes:
 
-- *Riaan* and planning committee to be ratified by the new board.
-- Change to 10 and 11 March.
+-
 
 ================================================================================
 
@@ -477,9 +455,6 @@ Agenda Notes:
 
 Minutes:
 
-- We discussed a new local shop using "Drupal" in their domain name.
-  - Renate will invite the shop to a meet-up. If it comes up naturally we can
-    discuss it with them.
-  - Johan may ask the DA about the processes in palce to deal with this.
+-
 
 ================================================================================
