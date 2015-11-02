@@ -8,7 +8,7 @@
 # **************************************************************************** #
 ---
 
-month: 2015-09
+month: 2015-10
 
 community:
 
@@ -17,45 +17,45 @@ community:
 
     cape_town:
       name: Cape Town
-      attendance: 25
-      membership: 179
+      attendance: 21
+      membership: 192
       headcount: 0
 
     durban:
       name: Durban
       attendance: 0
-      membership: 48
+      membership: 54
       headcount: 0
 
     johannesburg_bryanston:
       name: Johannesburg / Bryanston
-      attendance: 5
-      membership: 248
-      headcount:
+      attendance: 8
+      membership: 259
+      headcount: 0
 
     johannesburg_parkhurst:
       name: Johannesburg / Parkhurst
       attendance: 0
-      membership: 40
+      membership: 48
       headcount: 0
 
     pretoria_arcadia:
       name: Pretoria / Arcadia (NGO / Gov)
-      attendance: 0
-      membership: 19
-      headcount: 0
+      attendance: 27
+      membership: 40
+      headcount: 30
 
     pretoria_centurion:
       name: Pretoria / Centurion
-      attendance: 19
-      membership: 69
-      headcount:
+      attendance: 10
+      membership: 78
+      headcount: 0
 
   dasa_membership:
 
     individual:
 
-      business: 5
+      business: 6
       government: 1
       education: 0
 
@@ -67,31 +67,31 @@ community:
 
   da_membership:
 
-    individual: 5
+    individual: 7
     agency: 4
 
-  gdosa_membership: 352
+  gdosa_membership: 355
 
-  newsletter_subscription_count: 124
+  newsletter_subscription_count: 122
 
   # Number of za sites in top 3 000 za sites that run Drupal
-  za_drupal_sites_in_top_3000_date: 2015-09-26
-  za_drupal_sites_in_top_3000: 96
+  za_drupal_sites_in_top_3000_date: 2015-10-31
+  za_drupal_sites_in_top_3000: 56
 
 organisation:
 
   npo_registration: yes
 
-  income: 850.00
+  income: 700.00
 
-  expenses: 18539.67
+  expenses: 5570.66
 
 events:
 
-  camps: 1
-  attendees: 103
-  agency_sponsors: 7
-  sponsorship_amount: 30000
+  camps: 0
+  attendees: 0
+  agency_sponsors: 0
+  sponsorship_amount: 0
 
 clinics: 0
 hackfests: 0
