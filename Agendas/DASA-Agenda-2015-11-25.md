@@ -40,6 +40,16 @@ Minutes:
 1.2. Hand Over to New Governing Board *Riaan / N/A*
 ---------------------------------------------------
 
+New Board:
+
+- Jason
+- Riaan
+- Johan
+- Greg
+- Lee
+- Renate
+- Inky
+
 Minutes:
 
 -
@@ -171,6 +181,20 @@ Tasks:
   * New stickers to be made for membership.
 * We should sign up several members, then promote membership.
 * *Everyone* able to try to donate R 100 / R 200 per month.
+
+Minutes:
+
+-
+
+--------------------------------------------------------------------------------
+
+1.9. Pastel Online *Treasurer / N/A*
+------------------------------------
+
+Agenda Notes:
+
+- *Adam* and *Riaan*: wants to recommend that we implement Pastel Online for our
+  accounting.
 
 Minutes:
 
