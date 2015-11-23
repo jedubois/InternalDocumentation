@@ -167,20 +167,18 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-1.8. Membership & Fund-raising *N/A / N/A*
-------------------------------------------
+1.8. Membership *N/A / N/A*
+---------------------------
 
 Agenda Notes:
 
 - New membership structure is *Individual R 150* and *Organisation R 5 000*.
-- Awaiting new creative from *Jason* before we promote it.
+- New creative from *Jason*.
+- Website updated, let's promote and sign up!
 
 Tasks:
 
-* *Jason* to develop new membership logo for Organisation Membership.
-  * New stickers to be made for membership.
-* We should sign up several members, then promote membership.
-* *Everyone* able to try to donate R 100 / R 200 per month.
+- *Everyone* to promote and sign up!
 
 Minutes:
 
