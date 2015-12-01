@@ -1,0 +1,103 @@
+# **************************************************************************** #
+# *   ____    _    ____    _                                                 * #
+# *  |  _ \  / \  / ___|  / \                                                * #
+# *  | | | |/ _ \ \___ \ / _ \                                               * #
+# *  | |_| / ___ \ ___) / ___ \                                              * #
+# *  |____/_/   \_\____/_/   \_\   Drupal Association South Africa           * #
+# *                                                                          * #
+# **************************************************************************** #
+---
+
+month: 2015-11
+
+community:
+
+  # Attendance Count from meetup.com
+  meetups:
+
+    cape_town:
+      name: Cape Town
+      attendance: 44
+      membership: 211
+      headcount: 0
+
+    durban:
+      name: Durban
+      attendance: 15
+      membership: 62
+      headcount: 9
+
+    johannesburg_bryanston:
+      name: Johannesburg / Bryanston
+      attendance: 26
+      membership: 275
+      headcount: 0
+
+    johannesburg_parkhurst:
+      name: Johannesburg / Parkhurst
+      attendance: 13
+      membership: 59
+      headcount: 0
+
+    pretoria_arcadia:
+      name: Pretoria / Arcadia (NGO / Gov)
+      attendance: 0
+      membership: 51
+      headcount: 0
+
+    pretoria_centurion:
+      name: Pretoria / Centurion
+      attendance: 8
+      membership: 89
+      headcount: 0
+
+  dasa_membership:
+
+    individual:
+
+      business: 8
+      government: 1
+      education: 0
+
+    agency:
+
+      business: 2
+      government: 0
+      education: 0
+
+  da_membership:
+
+    individual: 6
+    agency: 5
+
+  gdosa_membership: 355
+
+  newsletter_subscription_count: 122
+
+  # Number of za sites in top 3 000 za sites that run Drupal
+  #   cat *.csv > all.csv
+  #   cat all.csv | grep '\.za$' > za.csv
+  #   cat za.csv | head -n 3000 | tail -n 1 | awk -F',' '{print $1}'
+  #   cat drupal | grep '\.za,' > drupalza
+  za_drupal_sites_in_top_3000_date: 2015-11-28
+  za_drupal_sites_in_top_3000: 55
+
+organisation:
+
+  npo_registration: yes
+
+  income: 10700.00
+
+  expenses: 69
+
+events:
+
+  camps: 0
+  attendees: 0
+  agency_sponsors: 0
+  sponsorship_amount: 0
+
+clinics: 0
+hackfests: 0
+summits: 0
+workshops: 0
