@@ -9,27 +9,27 @@ Agenda 2015-11-25
 
     Person    Attending ✔ / ✘ Apologies
     ===================================
-    Riaan Burger        ✔ / ✘
-    Greg McKeen         ✔ / ✘
-    Jason Lewis         ✔ / ✘
-    Adam Dunn           ✔ / ✘
-    Robin Prieschl      ✔ / ✘
-    Johan du Bois       ✔ / ✘
-    Ivan Breet          ✔ / ✘
-    Lee Taylor          ✔ / ✘
-    Renate Ehlers       ✔ / ✘
-    Lauro Scott Parkin  ✔ / ✘
-    Richard Banks       ✔ / ✘
-    George Ziady        ✔ / ✘
-    Inky Talbot         ✔ / ✘
-    Sergio Henriques    ✔ / ✘
-    Ilsoda Musa         ✔ / ✘
+    Riaan Burger        ✔ 
+    Greg McKeen         ✔ 
+    Jason Lewis         ✔ 
+    Adam Dunn           ✔ 
+    Robin Prieschl      ✘
+    Johan du Bois       ✔ 
+    Ivan Breet          ✘
+    Lee Taylor          ✔ 
+    Renate Ehlers       ✔ 
+    Lauro Scott Parkin  ✘
+    Richard Banks       ✘
+    George Ziady        ✘
+    Inky Talbot         ✔ 
+    Sergio Henriques    ✘
+    Ilsoda Musa         ✘
 
-Quorum achieved (two thirds of governing board): ✔ / ✘
+Quorum achieved (two thirds of governing board): ✔
 
 Apologies:
 
--
+- No Apologies
 
 Minutes:
 
@@ -37,7 +37,7 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-1.2. Hand Over to New Governing Board *Riaan / N/A*
+1.2a Hand Over to New Governing Board *Riaan / N/A*
 ---------------------------------------------------
 
 New Board:
@@ -56,21 +56,23 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-1.2. Decide on Governing Board Portfolio Holders *Everyone*
+1.2b Decide on Governing Board Portfolio Holders *Everyone*
 -----------------------------------------------------------
 
 - Essential:
-  - Chairperson
-  - Vice-chairperson
-  - Treasurer
-  - Secretary
-  - Portfolio Manager
+  - Chairperson: Johan
+  - Vice-chairperson: Jason
+  - Treasurer: Renate
+  - Secretary: Inky (Ingrid)
+  - Portfolio Manager: Lee
 - Replace each Agenda Item responsible persons (next to headings) with real
   names. Use the minutes field for this as we don't alter the agenda itself.
 
 Minutes:
 
--
+- TODO: Replace each agenda item
+- Agreed by all those present.
+- Full handover happens at the end of the last meeting of that years board.
 
 --------------------------------------------------------------------------------
 
@@ -88,7 +90,7 @@ Agenda:
 
 Minutes:
 
--
+-  Inky/Jason will collect this information. Everyone needs to send these details ASAP. 
 
 --------------------------------------------------------------------------------
 
@@ -102,7 +104,10 @@ Agenda:
 
 Minutes:
 
--
+- Greg will courier documentation down to Cape Town.
+- TODO: Narative Report
+- TODO: Financial Report/Statements
+- TODO: Submit new board to NPO Office.
 
 --------------------------------------------------------------------------------
 
@@ -111,7 +116,7 @@ Minutes:
 
 Minutes:
 
--
+- Confirmed
 
 --------------------------------------------------------------------------------
 
@@ -137,7 +142,8 @@ Tasks:
 
 Minutes:
 
--
+- Certificate will be fetched on Thursday 3rd December 2015.
+- A change in the board will need to be submitted to the NPO Office.
 
 --------------------------------------------------------------------------------
 
@@ -148,7 +154,7 @@ Agenda Notes:
 
 - Reference:
   - [Indicators on GitHub](https://github.com/DrupalAssociationSA/InternalDocumentation/tree/master/Indicators)
-- We now have data for May, June, July, August and September.
+- We now have data for May, June, July, August, September and October.
 
 Tasks:
 
@@ -163,7 +169,7 @@ Tasks:
 
 Minutes:
 
--
+- None
 
 --------------------------------------------------------------------------------
 
@@ -182,7 +188,8 @@ Tasks:
 
 Minutes:
 
--
+- None
+- Jason will supply CMYK files for printing.
 
 --------------------------------------------------------------------------------
 
@@ -193,10 +200,12 @@ Agenda Notes:
 
 - *Adam* and *Riaan*: wants to recommend that we implement Pastel Online for our
   accounting.
+- https://accounting.sageone.co.za/Marketing/Pricing.aspx
 
 Minutes:
 
--
+- Agreed
+- Renate and Riaan will have the initial login accounts.
 
 ================================================================================
 
@@ -210,7 +219,8 @@ Minutes:
 
 Minutes:
 
--
+- Usually handled by Robin. 
+- Jason will take this.
 
 --------------------------------------------------------------------------------
 
@@ -219,7 +229,9 @@ Minutes:
 
 Minutes:
 
--
+- Jason reports: Last meetup last Thursday, coincided with the Drupal 8 Release Party
+- 45 attendance. 44 reported on meetup.com
+- Talk by Michael from AmazeeLabs
 
 --------------------------------------------------------------------------------
 
@@ -228,7 +240,10 @@ Minutes:
 
 Minutes:
 
--
+- Johan reports: Durban was awesome. 
+- Blaze, Renier and Mark look like they will run with the meetup.
+- No confirmed venue, but some good ideas.
+- Riaan will follow up.
 
 --------------------------------------------------------------------------------
 
@@ -237,7 +252,8 @@ Minutes:
 
 Minutes:
 
--
+- Adcorp are no longer able to host the meetup. By February when the meetup starts again, we need a new venue. Please submit ideas.
+- Drupal 8 Launch Party was a success. 
 
 --------------------------------------------------------------------------------
 
@@ -246,7 +262,8 @@ Minutes:
 
 Minutes:
 
--
+- Riaan reports: everything went very well at the last meetup. 
+- Unconference works really well. 
 
 --------------------------------------------------------------------------------
 
@@ -255,7 +272,11 @@ Minutes:
 
 Minutes:
 
--
+- Renate reports: 89 people signed up for the meetup group.
+- First meetup is planned for 2016 (Date unknown?)
+- There needs some intervention given that fewer people are attending the meetup.
+- TUKS radio and more communication is required.
+- Speak to Jason about the Cape Town events, and how the social media is managed.
 
 --------------------------------------------------------------------------------
 
@@ -264,7 +285,7 @@ Minutes:
 
 Minutes:
 
--
+- Riaan reports: Will start in March, and will cycle quarterly with Cape Town.
 
 ================================================================================
 
@@ -293,7 +314,10 @@ Tasks:
 
 Minutes:
 
--
+- Managed by Robin
+- Bring this into the Board, so that someone at our meetings can help manage the newsletters. 
+- We require Subscriber numbers for our metrics.
+- Jason will contact Robin regarding the changes.
 
 --------------------------------------------------------------------------------
 
@@ -319,7 +343,8 @@ Tasks:
 
 Minutes:
 
--
+- Publish to groups.drupal.org the statements, so that they are outside of "our" control.
+- Move domains etc to DASA, now that we have an NPO.
 
 ================================================================================
 
