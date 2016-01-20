@@ -72,7 +72,7 @@ community:
 
   gdosa_membership: 355
 
-  newsletter_subscription_count:
+  newsletter_subscription_count: 123
 
   # Number of za sites in top 3 000 za sites that run Drupal
   #   cat *.csv > all.csv

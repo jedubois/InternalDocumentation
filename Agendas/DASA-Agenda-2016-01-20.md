@@ -337,16 +337,23 @@ Bank Account:
 - Type: **Cheque**
 - Number: **62446745492**
 
-Statements:
+Notables since previous agenda:
 
-    Account: 62446745492
-    Balance: R 27 284.01
-
-    -------------------------------- Since Previous Agenda
-    2015/11/11,     -4.00, 27284.01, #SERVICE FEES
-    2015/11/11,    -65.00, 27288.01, #MONTHLY ACCOUNT FEE
-    2015/11/09,    100.00, 27353.01, SCHEDULED PYMT FROM   GREG MCKEEN
-    2015/10/21,    150.00, 27253.01, FNB OB PMT            MEMBER:DUBOIS
+- Balance: R 36 246.32
+- November:
+  - R 150 from Inky for T-shirt
+  - R 150 from Daniel (Burtronix) for Membership
+  - R 150 from Wilhelm (Burtronix) for Membership
+  - R 5 000 from Burtronix for Membership
+  - R 150 from Charlie (Rogerwilco) for Membership
+  - R 5 000 from Rogerwilco for Membership
+- December
+  - R 100 from Greg for Donation
+  - R 300 from Lee for Donation
+- January
+  - -R 1 998 for Pastel Online Accounting
+  - R 100 from Greg for Donation
+  - R 300 from Lee for Donation
 
 Tasks:
 
