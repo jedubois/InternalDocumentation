@@ -40,11 +40,14 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-1.2 Assign Agenda Headings and Tasks *Everyone*
+1.2 Housekeeping *Johan / Inky*
 -----------------------------------------------
 
-- Replace each Agenda Item responsible persons (next to headings) with real
-  names. Use the minutes field for this as we don't alter the agenda itself.
+- Approval of minutes of previous meeting
+- Changes to the agenda
+  - Replace each Agenda Item responsible persons (next to headings) with real
+    names. Use the minutes field for this as we don't alter the agenda itself.
+- Confirm Next Meeting
 
 Minutes:
 
@@ -91,8 +94,22 @@ Minutes:
 
 --------------------------------------------------------------------------------
 
-1.5. Confirm Next Meeting Wednesday 17 February 2016 *Johan / Jason*
+1.5. Committees
 --------------------------------------------------------------------
+
+PROPOSED: ESTABLISH COMMITTEES
+	- *Why?* To spread the work and give everyone in the community an opportunity to contribute, network, and grow together. 
+	- *What is a committee?* 
+	  - A body of one or more people, established by the governing board, to explore a matter or a number of related matters more deeply than would be practical/desirable for the whole governing board.
+	  - Required to report to the governing board, generally only making recommendations for decision, except where empowered by the governing board to make specific decisions [subject to what bylaws allow].
+	  - Consist of a chairperson, who must be a member of the governing board, and members who may or may not be members of the governing board (depending on nature of work).
+	  - The chairperson is responsible for running meetings. Duties include keeping the discussion on the appropriate subject, recognizing members to speak, confirming what the committee has decided, and reporting back to the governing board.
+Committees meet as needed and need not keep minutes. However, reports to the governing board should be reduced to writing either as a separate document or by inclusion the minutes of a governing board meeting. 
+    - *Proposed committees*
+      - Finance
+      - Meetups
+      - DrupalCamp JHB
+      - DrupalCamp CT
 
 Minutes:
 
